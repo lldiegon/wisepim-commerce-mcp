@@ -8,11 +8,25 @@ Three offline, read-only tools for ecommerce product data. Runs locally with Nod
 - `check_green_claims` — Screens copy in English, Dutch, German and French for phrases relevant to EU Directive 2024/825. Findings need human review. Example: `{"text":"Eco-friendly shoes","language":"en"}`
 
 ## Install
-Download the .mcpb file from [Releases](https://github.com/lldiegon/wisepim-commerce-mcp/releases) and open it with an MCP bundle-compatible client. For other stdio clients, clone this repository, run `npm ci && npm run build && npm test`, and configure:
+With Node.js 22 or later and npm installed, paste this configuration into your stdio MCP client. The first launch downloads the versioned package from GitHub Releases.
 
 ```json
-{"mcpServers":{"wisepim-commerce":{"command":"node","args":["/absolute/path/to/wisepim-commerce-mcp/dist/server.cjs"]}}}
+{
+  "mcpServers": {
+    "wisepim-commerce": {
+      "command": "npx",
+      "args": [
+        "--yes",
+        "--package",
+        "https://github.com/lldiegon/wisepim-commerce-mcp/releases/download/v1.0.0/wisepim-commerce-mcp-1.0.0.tgz",
+        "wisepim-commerce-mcp"
+      ]
+    }
+  }
+}
 ```
+
+Bundle-compatible clients can also open the **.mcpb** file from [Releases](https://github.com/lldiegon/wisepim-commerce-mcp/releases).
 
 ## Sources
 - [WISEPIM HS reference](https://wisepim.com/hs-codes). English chapter and heading descriptions adapted from the EU Combined Nomenclature 2026, © European Union, [Implementing Regulation (EU) 2025/1926](https://eur-lex.europa.eu/eli/reg_impl/2025/1926/oj).
