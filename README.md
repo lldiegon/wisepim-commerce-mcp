@@ -1,11 +1,11 @@
 # WISEPIM Commerce Reference MCP
 Three offline, read-only tools for ecommerce product data. Runs locally with Node.js 22 or later. No credentials, telemetry, project access or outbound requests.
 
-| Tool | Example input | Coverage |
-| --- | --- | --- |
-| lookup_hs_heading | {"query":"6109"} | EU CN 2026 chapters and four-digit headings by code or English keywords. Candidates for review, without duty calculation or binding classification. |
-| marketplace_requirements | {"marketplace":"amazon"} | Published WISEPIM field checklists across 12 marketplaces and commerce channels. Verify category-specific requirements with the channel before submitting. |
-| check_green_claims | {"text":"Eco-friendly shoes","language":"en"} | Screens copy in English, Dutch, German and French for phrases relevant to EU Directive 2024/825. Findings need human review. |
+## Tools
+
+- `lookup_hs_heading` — EU CN 2026 chapters and four-digit headings by code or English keywords. Candidates for review, without duty calculation or binding classification. Example: `{"query":"6109"}`
+- `marketplace_requirements` — Published WISEPIM field checklists across 12 marketplaces and commerce channels. Verify category-specific requirements with the channel before submitting. Example: `{"marketplace":"amazon"}`
+- `check_green_claims` — Screens copy in English, Dutch, German and French for phrases relevant to EU Directive 2024/825. Findings need human review. Example: `{"text":"Eco-friendly shoes","language":"en"}`
 
 ## Install
 Download the .mcpb file from [Releases](https://github.com/lldiegon/wisepim-commerce-mcp/releases) and open it with an MCP bundle-compatible client. For other stdio clients, clone this repository, run `npm ci && npm run build && npm test`, and configure:
