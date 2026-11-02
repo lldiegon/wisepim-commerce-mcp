@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.lldiegon/wisepim-commerce-mcp",
+  "title": "WISEPIM Commerce Reference",
+  "description": "Offline HS heading lookup, marketplace listing requirements and EU green-claims screening.",
+  "repository": {
+    "url": "https://github.com/lldiegon/wisepim-commerce-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/lldiegon/wisepim-commerce-mcp/releases/download/v1.0.0/wisepim-commerce.mcpb",
+      "fileSha256": "9594473e12d302f15e54cfb6221302b0fb79376e30b3e978a3f4f889b5641f97",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

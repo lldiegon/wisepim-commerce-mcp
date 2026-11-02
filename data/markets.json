@@ -1,0 +1,1045 @@
+{
+  "aliexpress": {
+    "label": "AliExpress",
+    "fields": [
+      {
+        "field": "Product Title",
+        "required": true,
+        "characterLimit": "128 characters",
+        "format": "Brand + Product Type + Key Feature + Material/Specification",
+        "example": "Xiaomi Portable Electric Air Pump Rechargeable Digital Tire Inflator 150PSI with LED Light for Car Bike Motorcycle Ball",
+        "description": "The product title is the primary element for search visibility on AliExpress. It should contain the most relevant keywords that buyers would search for, including the brand name, product type, key features, and specifications. Avoid using all caps, excessive punctuation, promotional phrases, or non-standard characters. AliExpress supports multilingual titles, and sellers targeting specific markets should consider creating localized titles in the target language for improved search performance."
+      },
+      {
+        "field": "Product Description",
+        "required": true,
+        "characterLimit": "No strict limit (recommended 500-5,000 characters)",
+        "format": "HTML-supported rich text with embedded images",
+        "example": "Detailed description with product features, specifications table, package contents, usage instructions, and multiple product images showcasing different angles and use cases",
+        "description": "The product description on AliExpress is a critical conversion element where sellers can use rich HTML content including text, images, and formatted tables. Descriptions should comprehensively cover product features, specifications, materials, dimensions, package contents, and usage instructions. Including high-quality images within the description (not just the image gallery) significantly improves conversion rates. Descriptions must not contain external URLs, contact information, or references to other platforms."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Up to 6 main images + description images",
+        "format": "JPEG or PNG; minimum 800x800px (recommended 1000x1000px or higher)",
+        "example": "Main image: clean product photo on white or light background. Additional: detail shots, size reference, lifestyle usage, packaging contents",
+        "description": "AliExpress allows up to 6 images in the product image gallery, with the first image serving as the main listing image. The main image should clearly show the product on a clean, preferably white background. Additional images should highlight key features, show the product from different angles, include real-life usage scenarios, and display any included accessories or packaging contents. Images must not contain excessive text overlays, watermarks from other platforms, or misleading representations of the product."
+      },
+      {
+        "field": "Product Price",
+        "required": true,
+        "format": "Numeric value in USD (default) with optional localized pricing",
+        "example": "15.99",
+        "description": "AliExpress products are priced in USD by default, though the platform supports localized pricing in local currencies for specific target markets. Prices should be competitive for the cross-border market, factoring in international shipping costs. AliExpress displays the total cost including shipping prominently to buyers, so sellers should balance product price and shipping charges for optimal perceived value. The platform also supports tiered pricing based on quantity for bulk purchases."
+      },
+      {
+        "field": "Product Category",
+        "required": true,
+        "format": "AliExpress category ID from the platform taxonomy",
+        "example": "Automobiles & Motorcycles > Auto Replacement Parts > Pumps & Accessories > Air Pumps",
+        "description": "Products must be assigned to the most specific category in AliExpress's taxonomy. Correct categorization determines which product attributes are required and ensures the product appears in relevant category browse pages and search filters. AliExpress's category system covers thousands of product types, and sellers should take care to select the most accurate category to avoid listing rejection or poor search visibility."
+      },
+      {
+        "field": "Product Specifications (Attributes)",
+        "required": true,
+        "format": "Category-specific key-value pairs",
+        "example": "Brand Name: Xiaomi | Power Source: Rechargeable Battery | Maximum Pressure: 150 PSI | Material: ABS + Metal | Weight: 450g",
+        "description": "Product specifications are category-specific attributes that must be completed for every listing. These appear as structured data on the product detail page and are used by AliExpress's search filters. Required specifications vary by category but typically include brand name, material, dimensions, color, and category-specific technical attributes. Completing all available specifications improves search visibility and helps buyers make informed purchasing decisions."
+      },
+      {
+        "field": "Product Variations (SKU attributes)",
+        "required": false,
+        "format": "Color/Size/Style variations with individual pricing and images",
+        "example": "Color: Black ($15.99), White ($15.99), Blue ($16.99) | Size: S, M, L, XL with different pricing per size",
+        "description": "AliExpress supports product variations through SKU attributes, allowing sellers to offer multiple options (color, size, style, specification) within a single listing. Each variation can have its own price, stock quantity, and images. Variation images should accurately represent the specific option. Properly configured variations consolidate reviews and order counts on a single listing, improving overall search ranking and buyer confidence."
+      },
+      {
+        "field": "Shipping Information",
+        "required": true,
+        "format": "Shipping template with methods, costs, and delivery estimates",
+        "example": "AliExpress Standard Shipping: Free, 15-30 days | ePacket: $2.50, 10-20 days | DHL Express: $15.99, 5-10 days",
+        "description": "Shipping configuration is critical on AliExpress as buyers are highly sensitive to both shipping costs and delivery times. Sellers must configure shipping methods, costs, and estimated delivery times for each target country or region. AliExpress strongly recommends offering AliExpress Standard Shipping (powered by Cainiao logistics) for reliable tracking and competitive rates. Free shipping options significantly improve conversion rates and search ranking, though sellers should factor shipping costs into their pricing strategy."
+      },
+      {
+        "field": "Inventory / Stock Quantity",
+        "required": true,
+        "format": "Numeric value per SKU variation",
+        "example": "500",
+        "description": "Sellers must maintain accurate inventory quantities for each product and variation. AliExpress monitors fulfillment performance closely, and overselling (accepting orders without adequate stock) results in penalties and lower seller ratings. Inventory can be managed manually through Seller Center or automatically via API integration. Products with zero stock are automatically hidden from search results until inventory is replenished."
+      },
+      {
+        "field": "Package Dimensions and Weight",
+        "required": true,
+        "format": "Length x Width x Height (cm) and Weight (kg)",
+        "example": "20 x 15 x 10 cm, 0.55 kg",
+        "description": "Accurate package dimensions and weight are required for shipping cost calculation and logistics processing. These values should represent the fully packed product including all packaging materials. Inaccurate dimensions can lead to shipping cost discrepancies, logistics issues, and penalties. AliExpress uses these values when calculating shipping rates for integrated logistics services like AliExpress Standard Shipping."
+      },
+      {
+        "field": "Brand Name",
+        "required": true,
+        "characterLimit": "50 characters",
+        "format": "Registered brand name or 'No Brand'",
+        "example": "Xiaomi",
+        "description": "The brand name must be specified for every listing. For branded products, the brand name must match the registered trademark, and sellers may need to provide brand authorization documentation. For unbranded or generic products, sellers should select 'No Brand' or their own registered store brand. AliExpress has increased its intellectual property enforcement, and unauthorized use of brand names can result in listing removal, penalties, or account suspension."
+      },
+      {
+        "field": "Processing Time",
+        "required": true,
+        "format": "Number of business days (1-7 days typical)",
+        "example": "3 business days",
+        "description": "Processing time represents the number of business days the seller needs to prepare and ship the order after payment confirmation. AliExpress monitors processing time compliance and penalizes sellers who consistently exceed their stated processing time. Setting a realistic processing time is important for maintaining high seller ratings and buyer satisfaction. The total delivery estimate shown to buyers is the processing time plus the shipping transit time."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://seller.aliexpress.com"
+  },
+  "amazon": {
+    "label": "Amazon",
+    "fields": [
+      {
+        "field": "Product Title",
+        "required": true,
+        "characterLimit": "75 characters, spaces included (all categories except media, from July 27, 2026)",
+        "format": "Brand + Model + Key Feature + Product Type + Size/Quantity",
+        "example": "Sony WH-1000XM5 Wireless Noise Cancelling Over-Ear Headphones - Black",
+        "description": "The product title is the most important element for search visibility. It must follow Amazon's title formula and should not contain promotional phrases, all caps, or special characters like HTML tags. Each word should be capitalized except for articles, prepositions, and conjunctions."
+      },
+      {
+        "field": "Bullet Points",
+        "required": true,
+        "characterLimit": "500 characters per bullet (5 bullets max)",
+        "format": "BENEFIT IN CAPS - Supporting detail with key feature",
+        "example": "INDUSTRY-LEADING NOISE CANCELLATION - Two processors control 8 microphones for unprecedented noise cancellation",
+        "description": "Bullet points (key product features) appear prominently on the product detail page. Each bullet should highlight a unique selling point, starting with a capitalized benefit statement. Avoid using promotional language, pricing, or shipping information. Focus on features, materials, dimensions, and use cases."
+      },
+      {
+        "field": "Product Description",
+        "required": true,
+        "characterLimit": "2,000 characters",
+        "format": "Plain text or basic HTML (for non-Brand Registered sellers)",
+        "example": "Experience the next level of silence with the Sony WH-1000XM5. Featuring two processors controlling eight microphones, these headphones deliver industry-leading noise cancellation...",
+        "description": "The product description provides a detailed overview of the item. Brand-registered sellers should use A+ Content instead, which supports rich media layouts with images and comparison charts. Descriptions must not include seller contact information, URLs, or time-sensitive language."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Up to 9 images + 1 video",
+        "format": "JPEG, TIFF, PNG, or GIF; minimum 1000x1000px (2000x2000px recommended)",
+        "example": "Main image: product on pure white background (RGB 255,255,255). Additional: lifestyle, infographic, scale, packaging",
+        "description": "The main image must feature the product on a pure white background with no text, logos, watermarks, or additional objects. The product should fill at least 85% of the image frame. Additional images can show the product in use, highlight key features, display dimensions, or include infographics. High-resolution images enable the zoom function, which significantly increases conversion rates."
+      },
+      {
+        "field": "Price",
+        "required": true,
+        "format": "Numeric value in local currency",
+        "example": "29.99",
+        "description": "The standard listing price for the product. Amazon monitors pricing to ensure competitiveness and may suppress listings with prices significantly higher than other channels. The price must be a positive number and include up to two decimal places. Sellers can also set sale prices, business prices, and quantity discounts."
+      },
+      {
+        "field": "Brand Name",
+        "required": true,
+        "characterLimit": "50 characters",
+        "format": "Exact brand name as registered",
+        "example": "Sony",
+        "description": "The brand name must match exactly across all listings for the same brand. For Brand Registered sellers, the brand name must match the enrollment in Amazon Brand Registry. Generic or unbranded products should use the seller's own brand or list as 'Generic' where applicable."
+      },
+      {
+        "field": "Product Identifier (UPC/EAN/ISBN)",
+        "required": true,
+        "format": "UPC (12 digits), EAN (13 digits), ISBN (10 or 13 digits), or GTIN (14 digits)",
+        "example": "0123456789012",
+        "description": "A valid product identifier is required to create new product listings on Amazon. The barcode must be purchased from GS1 or an authorized distributor. Amazon verifies the authenticity of GTINs against the GS1 database. Brand-registered sellers may apply for a GTIN exemption for private-label or handmade products."
+      },
+      {
+        "field": "Product Category (Browse Node)",
+        "required": true,
+        "format": "Amazon Browse Node ID from the Browse Tree Guide",
+        "example": "172541 (Electronics > Headphones > Over-Ear Headphones)",
+        "description": "Products must be assigned to the most specific category using Amazon's Browse Tree Guide (BTG). Correct categorization ensures products appear in relevant browse and search results. Amazon regularly updates its category taxonomy, and some categories are gated, requiring approval before listing."
+      },
+      {
+        "field": "Search Terms (Backend Keywords)",
+        "required": false,
+        "characterLimit": "250 bytes",
+        "format": "Space-separated keywords (no commas, no repetition of title words)",
+        "example": "wireless bluetooth headset noise-cancelling audiophile travel commute",
+        "description": "Backend search terms are hidden keywords that help products appear in relevant searches without cluttering the visible listing. Do not repeat words already in the title, brand, or bullet points. Avoid competitor brand names, ASINs, or misleading terms, as this violates Amazon's policies and can result in listing suppression."
+      },
+      {
+        "field": "Variation Attributes (Size/Color/Style)",
+        "required": false,
+        "format": "Parent-child relationship with valid variation theme",
+        "example": "Parent ASIN: B0CX123455 with child variations: Black (B0CX123456), Silver (B0CX123457), Blue (B0CX123458)",
+        "description": "Variation listings group related products (e.g., different sizes or colors) under a single parent ASIN. This consolidates reviews and sales rank, improving search visibility. Each child listing must have unique product identifiers and images. The variation theme (Size, Color, SizeName-ColorName) must match the allowed themes for the product category."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://sellercentral.amazon.com"
+  },
+  "asos-marketplace": {
+    "label": "ASOS Marketplace",
+    "fields": [
+      {
+        "field": "Product Title",
+        "required": true,
+        "characterLimit": "150 characters",
+        "format": "Brand + Product Type + Key Detail (Color/Pattern)",
+        "example": "Vintage Levi's 501 High-Waisted Straight Leg Jeans in Washed Blue",
+        "description": "Product titles should be descriptive and fashion-forward, clearly communicating the brand, product type, and distinguishing features such as color, pattern, or fit. Avoid generic titles and include style-relevant keywords that ASOS customers are likely to search for. Titles should not contain promotional language, excessive capitalization, or special characters. Use a conversational yet professional tone that matches ASOS's brand voice."
+      },
+      {
+        "field": "Product Description",
+        "required": true,
+        "characterLimit": "2,000 characters",
+        "format": "Plain text with key details about fit, fabric, care, and styling",
+        "example": "A true vintage find from the '90s. These Levi's 501 jeans feature a high-waisted fit with a classic straight leg silhouette. Made from heavyweight cotton denim in a perfectly faded wash. Button fly closure. Five-pocket styling. Pair with a cropped tee and chunky trainers for effortless weekend style.",
+        "description": "The product description should paint a picture of the item and help customers understand the fit, fabric, and styling possibilities. Include practical details such as measurements, fabric composition, care instructions, and condition (for vintage items). Descriptions should be engaging and align with ASOS's fashion-forward editorial style. Avoid using generic or copy-pasted descriptions, as ASOS may reject listings that don't meet their content quality standards."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Up to 8 images",
+        "format": "JPEG or PNG; minimum 870 x 1262px; model, flat-lay, or ghost mannequin",
+        "example": "Main image: product on model against a plain background. Additional: close-up of fabric, detail shots, back view, styling alternatives",
+        "description": "ASOS Marketplace requires high-quality fashion photography. The main image must show the full product, ideally on a model or as a styled flat-lay on a clean background. Ghost mannequin photography is also accepted. Images must be well-lit with accurate color representation. No watermarks, logos, collages, or promotional text overlays are allowed. Additional images should show different angles, fabric details, closures, and how the item can be styled. Image quality is one of the primary reasons listings get rejected on ASOS Marketplace."
+      },
+      {
+        "field": "Price",
+        "required": true,
+        "format": "Numeric value in GBP (primary) or local currency",
+        "example": "45.00",
+        "description": "Product prices must be set in the seller's base currency, with GBP as the primary currency for UK sellers. ASOS Marketplace automatically handles currency conversion for international customers. Prices should be competitive within the fashion marketplace context and reflect the quality and brand positioning of the product. ASOS reserves the right to flag or remove listings with prices deemed inconsistent with marketplace standards."
+      },
+      {
+        "field": "Brand Name",
+        "required": true,
+        "characterLimit": "100 characters",
+        "format": "Exact brand name or boutique name for own-label products",
+        "example": "Levi's",
+        "description": "The brand name must accurately identify the product's brand. For vintage sellers offering products from established brands, the brand name must match the original manufacturer. Sellers with their own label should use their registered boutique/brand name. Counterfeit or misrepresented brand names will result in immediate listing removal and potential account suspension. ASOS Marketplace takes intellectual property compliance very seriously."
+      },
+      {
+        "field": "Category",
+        "required": true,
+        "format": "ASOS category ID from the category taxonomy",
+        "example": "Women > Jeans > Straight Leg Jeans",
+        "description": "Products must be assigned to the most specific category within ASOS's fashion taxonomy. Correct categorization ensures products appear in relevant browse pages, search results, and filtered views. ASOS uses a fashion-specific category structure organized by gender, product type, sub-type, and occasion. Miscategorized products may be moved or delisted by ASOS's curation team."
+      },
+      {
+        "field": "Size",
+        "required": true,
+        "format": "ASOS standard size guide values",
+        "example": "UK 10 / EU 38 / US 6",
+        "description": "All clothing items must include accurate sizing information using ASOS's standardized size guide values. Sizes should be mapped to the appropriate regional size system (UK, EU, US). For vintage items where original sizing may differ from modern standards, sellers should include actual measurements (bust, waist, hip, length) in centimeters and inches. Inaccurate sizing is a leading cause of returns on fashion marketplaces and will negatively impact seller ratings."
+      },
+      {
+        "field": "Color",
+        "required": true,
+        "format": "ASOS standard color values from the color palette",
+        "example": "Blue",
+        "description": "Products must be tagged with a color from ASOS's predefined color palette. This enables customers to filter products by color in search results. If a product features multiple colors or a pattern, select the dominant color. Ensure the color tag accurately reflects what the customer will receive, as color discrepancies are a common complaint in online fashion retail."
+      },
+      {
+        "field": "Product Condition",
+        "required": true,
+        "format": "New, Vintage, or Pre-loved with condition description",
+        "example": "Vintage - Excellent condition, minimal signs of wear",
+        "description": "ASOS Marketplace supports new products from independent brands and boutiques, as well as vintage and pre-loved items. For vintage and pre-loved items, the condition must be clearly stated, including any flaws, repairs, or signs of wear. ASOS defines 'vintage' as items from a previous era (typically 20+ years old) and 'pre-loved' as second-hand items in good condition. All items must meet ASOS's minimum quality standards regardless of category."
+      },
+      {
+        "field": "Fabric Composition",
+        "required": true,
+        "characterLimit": "500 characters",
+        "format": "Percentage-based fabric breakdown",
+        "example": "100% Cotton Denim, 14oz heavyweight",
+        "description": "Fabric composition must be accurately listed for all clothing and textile products. This is a legal requirement in many markets including the UK and EU. List all materials by percentage in descending order (e.g., 80% Cotton, 20% Polyester). For vintage items where original labels may be missing, provide your best assessment and note that exact composition may vary. Include details about fabric weight, texture, or special treatments where relevant."
+      },
+      {
+        "field": "Measurements",
+        "required": false,
+        "format": "Key measurements in cm and inches (varies by product type)",
+        "example": "Waist: 28in (71cm), Hip: 38in (96.5cm), Inside Leg: 32in (81cm)",
+        "description": "While not always mandatory, providing detailed measurements is strongly recommended, especially for vintage items where sizing may not correspond to modern standards. Include all relevant measurements for the product type (e.g., bust, waist, hips, and length for dresses). Accurate measurements significantly reduce return rates and improve customer satisfaction. ASOS provides measurement guidelines for each product category."
+      },
+      {
+        "field": "Care Instructions",
+        "required": false,
+        "characterLimit": "300 characters",
+        "format": "Standard garment care symbols or text instructions",
+        "example": "Machine wash cold, tumble dry low, do not bleach, iron on medium heat",
+        "description": "Care instructions help customers maintain their purchases and are a legal requirement for new clothing in many jurisdictions. Include washing, drying, ironing, and dry cleaning instructions. For vintage items where care labels may be missing, provide general care recommendations based on the fabric composition. Proper care information reduces returns and increases customer confidence in purchasing."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://marketplace.asos.com"
+  },
+  "bol-com": {
+    "label": "Bol.com",
+    "fields": [
+      {
+        "field": "Product Title",
+        "required": true,
+        "characterLimit": "250 characters (70 recommended for optimal display)",
+        "format": "Brand + Product Type + Key Distinguishing Feature + Variant",
+        "example": "Samsung Galaxy S24 Ultra Smartphone - 256GB - Titanium Black",
+        "description": "The product title is the primary element for search visibility on Bol.com. Titles must follow the format of Brand + Product Type + Key Feature + Variant and should clearly describe the product without promotional language, special characters, or unnecessary repetition. Bol.com recommends keeping titles concise and informative. Titles that do not follow the prescribed format or contain forbidden elements like pricing, stock status, or superlatives (e.g., 'best', 'cheapest') will negatively impact your Content Quality Score."
+      },
+      {
+        "field": "Product Description",
+        "required": true,
+        "characterLimit": "2,500 characters",
+        "format": "Plain text with optional limited HTML (bold, bullet lists, line breaks)",
+        "example": "De Samsung Galaxy S24 Ultra combineert een krachtige Snapdragon 8 Gen 3 processor met een prachtig 6.8 inch Dynamic AMOLED display...",
+        "description": "The product description should provide a comprehensive yet scannable overview of the product, including key features, benefits, materials, dimensions, and usage instructions. Bol.com supports basic HTML formatting (bold, unordered lists, paragraphs) to improve readability. Descriptions must be written in Dutch for the Dutch market and may optionally include French for Belgium. Do not include contact information, URLs, competitor references, or shipping details in the description. Well-structured descriptions with clear formatting significantly improve conversion rates and Content Quality Scores."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Up to 8 images per listing",
+        "format": "JPEG or PNG; minimum 500x500px (1500x1500px recommended)",
+        "example": "Main image: product on white background, clearly visible. Additional: multiple angles, in-use lifestyle shots, packaging, detail close-ups",
+        "description": "Bol.com requires at least one product image, but strongly recommends uploading multiple high-quality images to maximize conversion. The main image should show the product clearly on a white or light neutral background without text overlays, watermarks, or promotional stickers. Additional images should display the product from multiple angles, in real-life usage contexts, and with close-ups of important details. Bol.com's image requirements specify a minimum resolution of 500x500 pixels, but 1500x1500 pixels or higher is recommended for optimal display quality and zoom functionality."
+      },
+      {
+        "field": "EAN (European Article Number)",
+        "required": true,
+        "format": "EAN-13 (13 digits) or EAN-8 (8 digits)",
+        "example": "8710103993285",
+        "description": "Every product listed on Bol.com must have a valid EAN barcode. The EAN is the primary identifier used to match seller offers to product pages. If a product page with your EAN already exists, your offer will be added to that existing page. If no product page exists, you can create a new one by providing complete product content along with the EAN. EANs must be obtained from GS1 and must be unique to the specific product (including variants like size or color). Invalid, duplicate, or misassigned EANs will result in listing rejection."
+      },
+      {
+        "field": "Price",
+        "required": true,
+        "format": "Numeric value in EUR with up to two decimal places",
+        "example": "24.99",
+        "description": "The selling price must be entered in euros and include VAT (BTW). Bol.com displays the consumer price inclusive of Dutch VAT (21% standard, 9% reduced rate for certain categories). Sellers must ensure their pricing complies with Bol.com's pricing policies and Dutch/Belgian consumer protection laws. Prices that are significantly above market average may trigger warnings, and deliberate price gouging during high-demand periods is prohibited. Sellers can also set strike-through reference prices for promotions, but these must reflect genuine previous selling prices."
+      },
+      {
+        "field": "Product Category",
+        "required": true,
+        "format": "Bol.com category ID from the partner category taxonomy",
+        "example": "37453 (Elektronica > Smartphones > Samsung)",
+        "description": "Products must be assigned to the most specific category within Bol.com's product taxonomy. Correct categorization ensures products appear in relevant browse pages, search filters, and category-specific promotions. Bol.com's category structure is regularly updated, and some categories have specific attribute requirements that must be met for the listing to be approved. The Partner Platform provides a category lookup tool, and the Retailer API includes endpoints for retrieving the full category tree."
+      },
+      {
+        "field": "Stock Quantity",
+        "required": true,
+        "format": "Integer value representing available units",
+        "example": "150",
+        "description": "Sellers must maintain accurate stock levels at all times. Bol.com takes stock accuracy very seriously as part of their customer experience commitment. Listing products as in-stock when they are unavailable leads to cancellations, which severely damages seller performance metrics. Push stock changes as soon as they happen, through the Retailer API or a connected system, so bol never sells stock you no longer have. For sellers using LVB (Logistics via Bol.com), stock levels are managed automatically based on warehouse inventory. Overselling or consistent stock inaccuracies can lead to account penalties or suspension."
+      },
+      {
+        "field": "Delivery Time",
+        "required": true,
+        "format": "Working days range (e.g., 1-2, 2-3, 3-5)",
+        "example": "1-2 werkdagen",
+        "description": "Sellers must specify an accurate delivery promise for each product. Bol.com's algorithm considers delivery speed as a significant factor in Buy Box ranking and search visibility. Faster delivery times (especially 1-2 business days) dramatically improve your chances of winning the Buy Box. Sellers must consistently meet their delivery promises. Bol.com tracks on-time delivery rates, and sellers who fail to meet their promises will see their performance metrics decline, potentially leading to reduced visibility or account restrictions."
+      },
+      {
+        "field": "Condition",
+        "required": true,
+        "format": "New, Refurbished, Good, Reasonable, or Moderate",
+        "example": "New",
+        "description": "Every offer must specify the product condition. Bol.com supports both new and used/refurbished products across most categories. The condition must accurately reflect the state of the product being sold. For used or refurbished items, sellers should provide additional details about the condition in the offer description. Misrepresenting product condition is a serious policy violation that can result in returns, negative reviews, and account penalties."
+      },
+      {
+        "field": "Product Attributes",
+        "required": true,
+        "format": "Category-specific attributes as defined in the category taxonomy",
+        "example": "Color: Zwart, Screen Size: 6.8 inch, Storage: 256GB, RAM: 12GB",
+        "description": "Bol.com requires category-specific product attributes to be filled in for each listing. These attributes vary by category and can include properties like color, size, material, weight, brand, compatibility, and technical specifications. Completing all relevant attributes is crucial for appearing in filtered search results and comparison features. Bol.com's Content Quality Score heavily penalizes listings with missing mandatory attributes, directly impacting search visibility and sales performance."
+      },
+      {
+        "field": "Shipping Class",
+        "required": false,
+        "format": "Standard, Mailbox package, Parcel, Pallet",
+        "example": "Parcel",
+        "description": "The shipping class determines the shipping method and costs associated with the product. Sellers who fulfill orders themselves must select the appropriate shipping class based on the product's dimensions and weight. Bol.com offers differentiated shipping rates for mailbox-compatible packages (brievenbuspakje), standard parcels, and oversized items. Correct shipping class assignment helps manage customer expectations and ensures accurate shipping cost calculations."
+      },
+      {
+        "field": "Return Handling",
+        "required": true,
+        "format": "Return period in days and return shipping responsible party",
+        "example": "30 days, free returns for consumers",
+        "description": "Bol.com mandates a minimum 30-day return period for most product categories in accordance with Dutch and Belgian consumer protection laws. Sellers must clearly communicate their return policy and handle returns efficiently. Bol.com tracks return processing time as a performance metric. For LVB sellers, returns are handled by Bol.com's fulfillment centers. Self-fulfilling sellers must process returns within 5 business days of receiving the returned item and issue refunds promptly."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://partnerplatform.bol.com"
+  },
+  "ebay": {
+    "label": "eBay",
+    "fields": [
+      {
+        "field": "Listing Title",
+        "required": true,
+        "characterLimit": "80 characters",
+        "format": "Brand + Product Name + Key Attributes (Size, Color, Model)",
+        "example": "Apple AirPods Pro 2nd Generation USB-C Wireless Earbuds - White MQD83AM/A",
+        "description": "The listing title is the most critical element for eBay search visibility. Cassini, eBay's search engine, indexes every word in the title to match buyer searches. Use all 80 characters to include relevant keywords, brand name, model number, and key attributes. Avoid filler words like 'WOW', 'L@@K', excessive punctuation, or all-caps text, as these can reduce search performance and buyer trust."
+      },
+      {
+        "field": "Item Specifics",
+        "required": true,
+        "format": "Category-specific attribute-value pairs",
+        "example": "Brand: Apple, Model: AirPods Pro 2, Connectivity: Bluetooth 5.3, Color: White",
+        "description": "Item specifics are structured product attributes required by eBay for each category. These include fields like Brand, MPN, Type, Size, Color, and Material. eBay's search engine uses item specifics to power filtered searches and surface products in relevant categories. Completing all required and recommended item specifics lets your listing appear when buyers narrow their search with filters."
+      },
+      {
+        "field": "Product Description",
+        "required": true,
+        "characterLimit": "No strict limit (recommended under 4,000 characters)",
+        "format": "HTML or plain text with mobile-responsive design",
+        "example": "Authentic Apple AirPods Pro 2nd Generation featuring active noise cancellation, adaptive transparency, and personalized spatial audio. Includes MagSafe charging case with USB-C connector...",
+        "description": "The product description allows sellers to provide detailed information about the item. eBay supports HTML formatting, enabling rich descriptions with images, tables, and styled text. However, active content (JavaScript, Flash, plugins) is prohibited. Descriptions should be mobile-responsive because many buyers shop on their phones. Keep descriptions focused, factual, and free from links to external websites or contact information."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Up to 24 images (free)",
+        "format": "JPEG, PNG, TIFF, BMP, or GIF; minimum 500x500px (1600x1600px recommended)",
+        "example": "Main image: product on white or neutral background. Additional: multiple angles, close-ups, labels, accessories included",
+        "description": "eBay allows up to 24 free images per listing. The first image is the gallery image that appears in search results and should clearly show the product. High-resolution images (1600x1600px or larger) enable the zoom feature, which improves buyer confidence. Images should accurately represent the item, especially for used or refurbished products. Stock photos are acceptable for new items but original photos typically perform better. Watermarks, borders, and promotional text on images are not permitted."
+      },
+      {
+        "field": "Price",
+        "required": true,
+        "format": "Numeric value in listing currency (auction start price, Buy It Now price, or both)",
+        "example": "49.99 (Buy It Now) or Start: 0.99, Buy It Now: 49.99",
+        "description": "Sellers can set a fixed price (Buy It Now), an auction starting price, or both. For auction-style listings, a reserve price can be set as a minimum sale price (additional fee applies). Best Offer can be enabled on fixed-price listings, allowing buyers to negotiate. eBay charges a final value fee as a percentage of the total sale amount including shipping."
+      },
+      {
+        "field": "Condition",
+        "required": true,
+        "format": "Predefined condition values from eBay's condition list",
+        "example": "New, Open Box, Certified Refurbished, Used - Excellent, Used - Good, For Parts or Not Working",
+        "description": "Every listing must specify the item condition using eBay's standardized condition values, which vary by category. For used items, a detailed condition description should be provided to set buyer expectations and reduce returns. The Certified Refurbished program requires sellers to meet specific quality standards and offers enhanced buyer protections."
+      },
+      {
+        "field": "Product Identifier (UPC/EAN/ISBN/MPN)",
+        "required": true,
+        "format": "UPC (12 digits), EAN (13 digits), ISBN (10 or 13 digits), or MPN with Brand",
+        "example": "UPC: 194253944096 or MPN: MQD83AM/A with Brand: Apple",
+        "description": "eBay requires product identifiers for most categories to match listings to eBay's product catalog. This helps group identical items, improves search accuracy, and enables features like price comparison. If no standard identifier exists, sellers can apply for an identifier exemption. The Brand + MPN combination is accepted as an alternative identifier in many categories."
+      },
+      {
+        "field": "Shipping Details",
+        "required": true,
+        "format": "Shipping service, cost, handling time, and return policy",
+        "example": "Free shipping via USPS Priority Mail, 1 business day handling time, 30-day returns accepted",
+        "description": "Shipping configuration directly impacts search ranking and buyer conversion. Listings with free shipping and fast handling times rank higher in Best Match search results. Sellers must specify at least one domestic shipping option with cost and handling time. International shipping can be configured directly or through eBay's Global Shipping Program, which simplifies customs and duties. A return policy is mandatory for all listings."
+      },
+      {
+        "field": "Category Selection",
+        "required": true,
+        "format": "eBay category ID (leaf category)",
+        "example": "171225 (Cell Phones & Smartphones > Cell Phones & Smartphones)",
+        "description": "Products must be listed in the most specific (leaf-level) category available. Sellers can optionally add a second category for additional visibility (extra fee applies). Correct categorization ensures products appear in relevant browse results and that the appropriate item specifics fields are displayed. eBay regularly updates its category structure, so sellers should verify category IDs before bulk uploads."
+      },
+      {
+        "field": "Listing Format",
+        "required": true,
+        "format": "Auction-style, Fixed Price (Buy It Now), or Classified Ad",
+        "example": "Fixed Price with Best Offer enabled",
+        "description": "eBay supports three listing formats. Fixed Price (Buy It Now) is the most common. Auction-style listings can generate excitement and price discovery for rare or collectible items. Classified ads are limited to specific categories like vehicles and real estate. Multi-quantity fixed-price listings allow sellers to offer multiple units of the same item in a single listing."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://www.ebay.com/sell"
+  },
+  "etsy": {
+    "label": "Etsy",
+    "fields": [
+      {
+        "field": "Listing Title",
+        "required": true,
+        "characterLimit": "140 characters",
+        "format": "Descriptive, keyword-rich title with primary keywords first",
+        "example": "Handmade Sterling Silver Moon Phase Necklace - Celestial Jewelry - Crescent Moon Pendant - Gift for Her",
+        "description": "The listing title is the single most important factor for Etsy search visibility. Etsy's search algorithm weighs the first few words most heavily, so place your primary keywords at the beginning. Include descriptive terms that buyers would use to search for your product. Use natural language rather than keyword stuffing. You can include secondary keywords separated by hyphens or pipes for additional search coverage. Avoid using all caps, special characters (except hyphens), or shop-specific codes that buyers wouldn't search for."
+      },
+      {
+        "field": "Listing Description",
+        "required": true,
+        "characterLimit": "No hard limit (recommended 300-1,000 words)",
+        "format": "Structured text with product details, dimensions, materials, and care instructions",
+        "example": "This hand-forged sterling silver necklace features a delicate crescent moon pendant inspired by the lunar phases. Each piece is individually crafted in my studio, making every necklace truly one-of-a-kind.\n\nDETAILS:\n- Material: .925 Sterling Silver\n- Chain length: 18 inches (adjustable to 16 inches)\n- Pendant size: 15mm x 12mm\n- Clasp: Lobster claw\n\nShips in a gift-ready box. Handmade to order, so please allow 3-5 business days for creation before shipping.",
+        "description": "The listing description should provide comprehensive information about the product including materials, dimensions, customization options, production process, shipping details, and care instructions. While Etsy's search algorithm primarily uses titles and tags for ranking, descriptions contribute to listing quality scores and are essential for converting browsers into buyers. Lead with the most compelling information, as only the first few lines are visible before the customer clicks 'Read more.' Include relevant keywords naturally throughout the description."
+      },
+      {
+        "field": "Listing Photos",
+        "required": true,
+        "characterLimit": "Several photos plus 1 video",
+        "format": "JPEG, PNG, or GIF; minimum 2000 x 2000px recommended; landscape or square orientation",
+        "example": "Image 1: Hero shot of the product on a styled background. Images 2-5: Different angles, detail shots, scale reference, packaging. Further images: Lifestyle/in-use shots, variations, process photos",
+        "description": "Add several photos per listing. The first image is the thumbnail that appears in search results and is critical for click-through rate. Images should be well-lit, in focus, and styled to reflect the handmade nature and quality of the product. Etsy supports landscape (4:3) and square (1:1) aspect ratios. Include images showing the product from multiple angles, close-up details of craftsmanship or texture, the item in use or worn, size reference with common objects, and packaging. For customizable items, show examples of different customization options."
+      },
+      {
+        "field": "Listing Video",
+        "required": false,
+        "characterLimit": "1 video, 5-15 seconds",
+        "format": "MP4, MOV; max 100MB; no sound required",
+        "example": "A short clip showing the necklace being worn, catching the light, or demonstrating the clasp mechanism",
+        "description": "Etsy allows one short video per listing (5-15 seconds). Videos autoplay silently in search results on the Etsy app and can significantly increase engagement and conversion rates. Videos should showcase the product in use, demonstrate scale, or highlight unique features like texture, movement, or shimmer that photographs cannot fully capture. Keep videos simple, well-lit, and focused on the product. Videos are optional but strongly recommended, as listings with video tend to see higher conversion rates."
+      },
+      {
+        "field": "Price",
+        "required": true,
+        "format": "Numeric value in seller's base currency",
+        "example": "42.00",
+        "description": "Set your listing price to reflect the cost of materials, labor, overhead, and profit margin. Etsy charges a $0.20 listing fee (per listing, renewed every 4 months or upon sale), a 6.5% transaction fee on the sale price including shipping, and payment processing fees (typically 3% + $0.25). Factor these fees into your pricing. Etsy also allows sellers to set sale prices with scheduled start and end dates, and to offer coupon codes for promotions."
+      },
+      {
+        "field": "Quantity",
+        "required": true,
+        "format": "Positive integer",
+        "example": "5",
+        "description": "The number of units available for sale. For made-to-order items, set the quantity to the number you can reasonably produce within your stated processing time. When a listing sells out (quantity reaches zero), the listing becomes inactive and loses its search ranking momentum. Keep listings active by maintaining stock levels or using the auto-renew feature. Each renewal costs $0.20."
+      },
+      {
+        "field": "Tags",
+        "required": true,
+        "characterLimit": "13 tags, 20 characters each",
+        "format": "Multi-word phrases that describe the item",
+        "example": "sterling silver necklace, moon phase jewelry, celestial pendant, handmade necklace, crescent moon, gift for her, boho jewelry, witch jewelry, astronomy gift, lunar necklace, artisan jewelry, minimalist pendant, nature inspired",
+        "description": "Tags are one of the primary ranking factors in Etsy's search algorithm. You can add up to 13 tags per listing, and you should use all 13. Each tag can be a multi-word phrase up to 20 characters. Tags should include synonyms, alternate spellings, related terms, and long-tail keyword phrases that buyers might use to find your product. Avoid repeating exact phrases that are already in your title (Etsy already indexes the title). Include a mix of broad terms (e.g., 'handmade jewelry') and specific terms (e.g., 'crescent moon pendant'). Use all available tag slots."
+      },
+      {
+        "field": "Category",
+        "required": true,
+        "format": "Etsy taxonomy category path (up to 3 levels)",
+        "example": "Jewelry > Necklaces > Pendant Necklaces",
+        "description": "Every listing must be assigned to a category from Etsy's taxonomy. Select the most specific category available, as this determines which browse pages and filters your listing appears in. Etsy's category structure includes top-level departments (Jewelry, Clothing, Home & Living, etc.) with increasingly specific sub-categories. Proper categorization also unlocks category-specific attributes (such as material, color, and occasion) that serve as additional search filters for buyers."
+      },
+      {
+        "field": "Materials",
+        "required": false,
+        "characterLimit": "13 materials, 45 characters each",
+        "format": "List of materials used in the product",
+        "example": "sterling silver, .925 silver, silver chain, gemstone",
+        "description": "Materials help buyers filter search results and understand what the product is made from. List all significant materials used in the item, including base materials, finishes, and embellishments. Materials are searchable on Etsy, so include common variations (e.g., both 'sterling silver' and '925 silver'). Accurate material listings also help Etsy match your product to relevant search queries and category filters."
+      },
+      {
+        "field": "Shipping Profile",
+        "required": true,
+        "format": "Shipping origins, destinations, costs, and processing times",
+        "example": "Ships from United States, processing time 3-5 business days, free US shipping, international shipping available",
+        "description": "Every listing must have a shipping profile that specifies where the item ships from, available destinations, shipping costs or free shipping, and processing time (how long before the item ships after purchase). Etsy's search algorithm gives a ranking boost to listings that offer free shipping, particularly for US orders over $35. Sellers can create reusable shipping profiles and apply them across multiple listings. Processing time should reflect actual production time for made-to-order items."
+      },
+      {
+        "field": "Variations (Size/Color/Custom)",
+        "required": false,
+        "format": "Up to 2 variation types with multiple options each",
+        "example": "Chain Length: 16 inch, 18 inch, 20 inch | Metal: Silver, Gold, Rose Gold",
+        "description": "Variations allow sellers to offer the same product in different options (size, color, material, etc.) within a single listing. Each listing supports up to two variation types, and each type can have multiple options. Variations can have different prices and quantities. Using variations consolidates reviews and favorites under one listing, which improves search ranking and social proof. Each variation combination can have its own SKU for inventory tracking."
+      },
+      {
+        "field": "Personalization",
+        "required": false,
+        "characterLimit": "Instructions up to 256 characters",
+        "format": "Text field for buyer customization input",
+        "example": "Please enter the name or initials you'd like engraved (up to 10 characters)",
+        "description": "Etsy allows sellers to add a personalization field where buyers can input custom text (e.g., names, dates, messages) for made-to-order items. Personalization is a major selling point on Etsy and can significantly increase conversion rates and average order value. When enabled, a text input field appears on the listing page. Sellers can mark personalization as required or optional and provide instructions for what information the buyer should provide."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://www.etsy.com/sell"
+  },
+  "google-shopping": {
+    "label": "Google Shopping",
+    "fields": [
+      {
+        "field": "Product Title",
+        "required": true,
+        "characterLimit": "150 characters (70 characters visible in most placements)",
+        "format": "Brand + Product Type + Key Attributes (Color, Size, Material)",
+        "example": "Nike Air Max 270 Men's Running Shoes - Black/White - Size 10",
+        "description": "The product title is the most important attribute for matching to search queries. Google truncates titles at approximately 70 characters in most Shopping placements, so the most critical information should appear first. Titles should match the product page on your website. Do not include promotional text (e.g., Free Shipping), all caps, or excessive punctuation. The title should accurately describe the specific product variant being sold."
+      },
+      {
+        "field": "Product Description",
+        "required": true,
+        "characterLimit": "5,000 characters",
+        "format": "Plain text (no HTML markup)",
+        "example": "Experience responsive cushioning and all-day comfort with the Nike Air Max 270. Featuring a visible Max Air unit in the heel for lightweight, durable impact protection...",
+        "description": "The product description is used by Google's algorithms for query matching but is not always displayed to shoppers. It should be a comprehensive, keyword-rich description of the product. Focus on product features, benefits, specifications, and use cases. Do not include links, promotional text, information about other products, or comparisons to competitors. The description must match the content on your product landing page."
+      },
+      {
+        "field": "Product Image",
+        "required": true,
+        "format": "JPEG, PNG, GIF, BMP, or TIFF; minimum 100x100px (800x800px recommended for non-apparel, 250x250px minimum for apparel)",
+        "example": "High-resolution product image on white background showing the complete product without text overlays",
+        "description": "The product image is the most visually prominent element in Shopping results and directly impacts click-through rates. Images must show the actual product accurately and clearly. The main image should feature a white or transparent background with no text, watermarks, or promotional overlays. For apparel, the minimum resolution is 250x250px and images should show the product worn or laid flat. Google rejects images with promotional text, borders, or placeholder graphics."
+      },
+      {
+        "field": "Price",
+        "required": true,
+        "format": "Numeric value with ISO 4217 currency code",
+        "example": "129.99 USD",
+        "description": "The price must match exactly what is displayed on your product landing page. Any discrepancy between the feed price and the website price will result in product disapproval. Include sale prices using the sale_price and sale_price_effective_date attributes. For products with variable pricing (e.g., based on customization), use the price range attribute. Currency must match the target country's accepted currencies."
+      },
+      {
+        "field": "Availability",
+        "required": true,
+        "format": "in_stock, out_of_stock, preorder, or backorder",
+        "example": "in_stock",
+        "description": "Product availability must accurately reflect the stock status on your website. Google regularly crawls product landing pages to verify availability, and mismatches result in product disapproval. Use the availability_date attribute for preorder items to indicate when the product will be available for shipping."
+      },
+      {
+        "field": "Product Link",
+        "required": true,
+        "format": "Full URL to the product page on your website (must use HTTPS)",
+        "example": "https://www.example.com/nike-air-max-270-black-white",
+        "description": "The product link must point directly to the specific product variant described in the feed. The landing page must be accessible, mobile-friendly, and display the same price, availability, and product information as the feed. Google verifies link quality and will disapprove products with broken links, redirects to different products, or landing pages behind paywalls or login walls."
+      },
+      {
+        "field": "GTIN (Global Trade Item Number)",
+        "required": false,
+        "format": "UPC (12 digits), EAN (13 digits), JAN (8 or 13 digits), or ISBN (13 digits)",
+        "example": "0194501065993",
+        "description": "Google's identifier rule is GTIN OR brand + MPN: provide the GTIN whenever the manufacturer assigned one, and for products that genuinely have none (e.g., custom or handmade items) provide brand and MPN with identifier_exists set to false instead. Products with valid GTINs receive enhanced visibility in search results, including rich product information, reviews, and competitive pricing displays. Incorrect GTINs lead to product disapproval."
+      },
+      {
+        "field": "Brand",
+        "required": true,
+        "characterLimit": "70 characters",
+        "format": "Official brand name",
+        "example": "Nike",
+        "description": "The brand attribute helps Google identify and group products for brand-based searches. Use the exact brand name as recognized by consumers. For unbranded or white-label products, you may omit this attribute but must provide the MPN. For compatible or replacement parts, use the brand of the product itself, not the brand it is compatible with."
+      },
+      {
+        "field": "Condition",
+        "required": true,
+        "format": "new, refurbished, or used",
+        "example": "new",
+        "description": "The product condition must be specified for all items. New products are unused and in their original packaging. Refurbished products have been professionally restored to working order. Used products have been previously owned. The condition must be clearly stated on the product landing page as well."
+      },
+      {
+        "field": "Google Product Category",
+        "required": false,
+        "format": "Google Product Taxonomy ID or full category path",
+        "example": "2654 (Apparel & Accessories > Shoes > Athletic Shoes)",
+        "description": "While Google can automatically categorize products based on feed data, providing the google_product_category attribute ensures accurate classification. Use the most specific category from Google's Product Taxonomy (about 5,600 categories). Correct categorization affects which attributes are required and how products are displayed in filtered search results. Using the numeric category ID is recommended over the text path for consistency across languages."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://merchants.google.com"
+  },
+  "kaufland": {
+    "label": "Kaufland",
+    "fields": [
+      {
+        "field": "EAN",
+        "required": true,
+        "format": "13-digit EAN (GTIN)",
+        "example": "4006381333931",
+        "description": "Kaufland builds one product page per EAN. Use one EAN per product and never list the same product under several EANs. The only exception is shipping from several warehouses, where you create one offer per warehouse."
+      },
+      {
+        "field": "Category",
+        "required": true,
+        "format": "Kaufland category",
+        "example": "Haushalt > Küchengeräte > Wasserkocher",
+        "description": "The category decides which extra attributes Kaufland requires. Pick the most specific category that fits the product."
+      },
+      {
+        "field": "Title",
+        "required": true,
+        "characterLimit": "50 to 80 characters recommended",
+        "format": "Brand + product type + key features",
+        "example": "Bosch TWK3A011 Wasserkocher 1,7 l, 2400 W, Edelstahl",
+        "description": "Short and unambiguous, with the most relevant product information. No symbols, emojis, keyword strings or statements about price or condition."
+      },
+      {
+        "field": "Description",
+        "required": true,
+        "characterLimit": "150 to 5,000 characters recommended",
+        "format": "Continuous text plus bullet points",
+        "example": "Informative text about use and materials, then bullet points with technical details.",
+        "description": "Flawless language in the storefront's language; Kaufland does not permit automatically generated translations. No links, images, videos, prices, contact details or advertising text."
+      },
+      {
+        "field": "Manufacturer",
+        "required": true,
+        "format": "Text",
+        "example": "Robert Bosch Hausgeräte GmbH",
+        "description": "The manufacturer of the product. Required in every category."
+      },
+      {
+        "field": "Picture",
+        "required": true,
+        "format": "PNG, JPG, JPEG, WEBP, TIFF or GIF, up to 10 MB",
+        "example": "https://cdn.example.com/products/4006381333931-1.jpg",
+        "description": "At least 1024 px in height or width, 2048 px for zoom. The first picture shows the full product as a clear silhouette on a white background. Kaufland recommends 5 to 10 pictures."
+      },
+      {
+        "field": "Category-specific attributes",
+        "required": false,
+        "format": "Per Kaufland category",
+        "example": "Fassungsvermögen: 1,7 l; Leistung: 2400 W",
+        "description": "Extra attributes apply to categories such as food, lamps, white and brown goods, media, toys, pet food, hazardous materials and car tires. Kaufland publishes an attribute file per category."
+      },
+      {
+        "field": "Offer data",
+        "required": true,
+        "format": "Price, stock, condition, handling time, shipping group",
+        "example": "EUR 49.99, 25 units, new, 2 working days",
+        "description": "Your offer is separate from the product data: price, stock, condition and handling time belong to you, the product page is shared with other sellers of the same EAN."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://www.kauflandglobalmarketplace.com"
+  },
+  "mirakl": {
+    "label": "Mirakl",
+    "fields": [
+      {
+        "field": "Product Title",
+        "required": true,
+        "characterLimit": "Operator-defined (commonly 80-200 characters)",
+        "format": "Brand + Product Name + Defining Attributes",
+        "example": "Bosch GSB 18V-21 Professional Cordless Combi Drill: 18V, 2x 2.0Ah Batteries",
+        "description": "Mirakl operators each set their own title rules, but most follow a Brand + Product Name + Defining Attribute pattern that mirrors marketplace best practice. Some operators auto-validate against their own existing catalog; others rely on AI-assisted matching. Avoid promotional language, all-caps, and seller-specific information. Titles must match the product, not the offer."
+      },
+      {
+        "field": "GTIN / EAN / UPC / ISBN",
+        "required": true,
+        "format": "Numeric, GS1-registered",
+        "example": "5012044000002",
+        "description": "A valid product identifier is non-negotiable on virtually every Mirakl-powered marketplace. The operator uses the GTIN to match seller offers to existing catalog products (avoiding duplicate listings) and to verify product authenticity. Most operators reject offers with missing or invalid GTINs at upload time. For private-label or unbranded items, operators typically require sellers to obtain a valid GS1 registration before listing."
+      },
+      {
+        "field": "Operator Category",
+        "required": true,
+        "format": "Operator-specific taxonomy node (selected from a controlled list)",
+        "example": "Home & Garden > Power Tools > Drills > Combi Drills",
+        "description": "Each operator defines its own category taxonomy. Sellers must map every offer to the correct operator category, and the category often determines which additional attributes are required. PIM-driven category mapping is essential at any meaningful scale: doing it manually for thousands of SKUs is a non-starter. WISEPIM's AI maps source taxonomies (Google, Amazon, GS1 GPC, eClass, ETIM) to operator-specific Mirakl categories automatically."
+      },
+      {
+        "field": "Product Description",
+        "required": true,
+        "characterLimit": "Operator-defined (typically 500-4,000 characters)",
+        "format": "Plain text or basic HTML (varies by operator)",
+        "example": "The Bosch GSB 18V-21 Professional cordless combi drill delivers 55 Nm of torque for demanding drilling and screwdriving in wood, metal, and masonry...",
+        "description": "Operators differ on whether HTML formatting is allowed. Some accept rich HTML (lists, bold, paragraphs); others require plain text. WISEPIM's channel-aware output handles both by generating an HTML version and a stripped plain-text version from a single source description. Descriptions should focus on factual product attributes, not seller branding."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Operator-defined (typically 1-12 images)",
+        "format": "URL references; JPEG/PNG; minimum dimensions vary by operator (commonly ≥1000x1000px)",
+        "example": "https://cdn.example.com/products/bosch-gsb-18v-21-main.jpg",
+        "description": "Most Mirakl operators reference images via URL rather than direct upload, which means image hosting reliability matters. The main image typically requires a white background with the product filling 75-85% of the frame; additional images may show lifestyle, detail, or scale-reference views. Operators may auto-reject images below a minimum resolution or with detected text overlays."
+      },
+      {
+        "field": "Operator-specific Attributes",
+        "required": true,
+        "format": "Defined per category in the operator's catalog schema",
+        "example": "Voltage: 18V; Battery Capacity: 2.0Ah; Chuck Size: 13mm; Max Torque: 55Nm; Weight: 1.6kg",
+        "description": "Each operator category defines a set of required and optional structured attributes. Examples for grocery operators: allergens, ingredients, nutrition declaration, country of origin, storage instructions. For DIY: voltage, torque, dimensions, materials. WISEPIM's AI extracts these from supplier-format data (PDFs, free text, spreadsheets) and outputs them in the exact structure each operator expects."
+      },
+      {
+        "field": "Price & Stock",
+        "required": true,
+        "format": "Numeric price in operator currency; integer stock quantity",
+        "example": "Price: 129.99; Stock: 47",
+        "description": "Price and stock are managed at the offer level (per seller per product). Most Mirakl operators support real-time price/stock updates via API and scheduled CSV imports. Some operators enforce minimum margin rules or price parity checks against their own first-party prices."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://www.mirakl.com"
+  },
+  "shopify": {
+    "label": "Shopify",
+    "fields": [
+      {
+        "field": "Product Title",
+        "required": true,
+        "characterLimit": "255 characters",
+        "format": "Descriptive product name with key attributes",
+        "example": "Organic Cotton Crew Neck T-Shirt - Sage Green",
+        "description": "The product title is displayed on the product page, in collection listings, in search results, and in the browser tab. Unlike marketplace platforms, Shopify does not enforce a strict title formula, giving merchants creative freedom. However, titles should be clear, descriptive, and include relevant keywords for SEO. Avoid excessive capitalization, special characters, or promotional language in titles as these can hurt search engine rankings and appear unprofessional."
+      },
+      {
+        "field": "Product Description",
+        "required": true,
+        "characterLimit": "No hard limit (rich text/HTML supported)",
+        "format": "Rich text with HTML, headings, lists, and embedded media",
+        "example": "Crafted from 100% GOTS-certified organic cotton, this crew neck t-shirt combines everyday comfort with sustainable style. Features a relaxed fit, reinforced stitching, and pre-shrunk fabric for lasting wear.",
+        "description": "Shopify product descriptions support full HTML formatting, allowing merchants to create richly structured content with headings, bullet lists, images, videos, and custom styling. The description appears on the product detail page and is critical for both conversion and SEO. Use descriptive, benefit-focused copy that addresses customer questions and highlights unique selling points. Shopify's rich text editor makes formatting accessible without HTML knowledge, but custom HTML can be used for advanced layouts."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Up to 250 images per product",
+        "format": "JPEG, PNG, GIF, HEIC, WebP; max 20 MB per image; up to 4472 x 4472 pixels",
+        "example": "Hero image on clean background, lifestyle shot, detail/texture close-up, size comparison, product in packaging",
+        "description": "High-quality product images are essential for conversion on Shopify stores. Shopify automatically generates multiple image sizes for responsive display across devices and supports image zoom on desktop. Unlike Amazon, there is no strict white-background requirement, so merchants have full creative control over image style and branding. However, consistency across all product images is important for a professional storefront appearance. Shopify supports 3D models and video uploads as well, enabling immersive product experiences with AR (augmented reality) previews on supported devices."
+      },
+      {
+        "field": "Pricing",
+        "required": true,
+        "format": "Numeric value in store currency",
+        "example": "39.99",
+        "description": "Each product and variant requires a price. Shopify supports a 'Compare at' price field that displays the original price alongside a sale price, automatically showing the discount to customers. For international selling, Shopify Markets allows merchants to set region-specific pricing with automatic or manual currency conversion. Cost per item can be tracked for profit margin reporting. Shopify also supports subscription pricing through apps like Shopify Subscriptions or ReCharge."
+      },
+      {
+        "field": "Product Variants",
+        "required": false,
+        "characterLimit": "Up to 100 variants per product, 3 option types",
+        "format": "Option Name + Option Values (e.g., Size: S, M, L, XL)",
+        "example": "Size: Small, Medium, Large, X-Large / Color: Sage Green, Navy, Charcoal",
+        "description": "Variants represent different versions of a product, such as size, color, or material combinations. Each variant can have its own SKU, price, inventory quantity, weight, and barcode. Shopify allows up to 3 option types with a maximum of 100 variant combinations per product. For products requiring more options (e.g., custom products with many configurations), Shopify's Combined Listings app or third-party apps can extend variant limits. Each variant should have its own image assigned for accurate visual representation when customers select different options."
+      },
+      {
+        "field": "SKU (Stock Keeping Unit)",
+        "required": false,
+        "characterLimit": "255 characters",
+        "format": "Alphanumeric identifier unique per variant",
+        "example": "OCT-CREW-SG-M (Organic Cotton Tee, Crew, Sage Green, Medium)",
+        "description": "SKUs are internal identifiers used for inventory tracking, order management, and warehouse operations. While not required by Shopify, implementing a consistent SKU naming convention is strongly recommended for operational efficiency. SKUs must be unique across all products and variants in a Shopify store. A well-structured SKU system (e.g., category-style-color-size) makes it easier to manage inventory, track sales performance, and integrate with fulfillment and PIM systems."
+      },
+      {
+        "field": "Barcode (ISBN, UPC, GTIN, EAN)",
+        "required": false,
+        "format": "Valid UPC (12 digits), EAN (13 digits), ISBN (10 or 13 digits), or GTIN (14 digits)",
+        "example": "0123456789012",
+        "description": "Product identifiers are optional in Shopify but recommended for inventory management, multi-channel selling, and integration with sales channels like Google Shopping and Facebook/Instagram. When selling through Shopify's built-in Google and Facebook channels, a valid GTIN significantly improves product visibility and ad performance. Barcodes should be GS1-issued and match the specific variant they are assigned to."
+      },
+      {
+        "field": "Product Type",
+        "required": false,
+        "characterLimit": "255 characters",
+        "format": "Free-text category label or Shopify Standard Product Taxonomy",
+        "example": "T-Shirts",
+        "description": "Product type is a free-form text field used to categorize products within the Shopify admin and for filtering in collections. Unlike marketplace browse nodes, Shopify does not enforce a standardized taxonomy, but using the Shopify Standard Product Taxonomy (introduced in 2024) is recommended for multi-channel compatibility. Consistent product type values across your catalog enable better collection automation, reporting, and integration with sales channels that require category mapping."
+      },
+      {
+        "field": "Tags",
+        "required": false,
+        "characterLimit": "255 characters per tag",
+        "format": "Comma-separated keywords",
+        "example": "organic, sustainable, mens, crew-neck, summer-collection, new-arrivals",
+        "description": "Tags are flexible labels used for organizing products, creating automated collections, filtering in the storefront, and powering internal search. There is no limit to the number of tags per product. Tags are especially useful for creating cross-category groupings (e.g., 'gift-guide', 'best-sellers', 'clearance') and for driving automated collection rules. While tags do not directly impact SEO, they improve site navigation and can enhance the customer browsing experience through filtered search results."
+      },
+      {
+        "field": "SEO Title & Meta Description",
+        "required": false,
+        "characterLimit": "SEO title: 70 characters / Meta description: 320 characters",
+        "format": "Search-engine-optimized text for SERP display",
+        "example": "Title: Organic Cotton Crew Neck T-Shirt - Sage Green | YourBrand / Meta: Shop our GOTS-certified organic cotton crew neck t-shirt in Sage Green. Relaxed fit, sustainable fabric, and reinforced stitching for lasting comfort.",
+        "description": "Shopify generates default SEO titles and meta descriptions from the product title and description, but these can (and should) be customized for search engine optimization. The SEO title appears as the clickable link in Google search results, while the meta description provides the snippet text. Include primary keywords naturally, focus on benefits and differentiators, and write compelling copy that encourages clicks. Shopify also allows editing the URL handle for each product, which should be short, descriptive, and keyword-rich."
+      },
+      {
+        "field": "Metafields",
+        "required": false,
+        "format": "Key-value pairs with typed definitions (text, number, JSON, file reference, etc.)",
+        "example": "custom.material = '100% Organic Cotton' / custom.care_instructions = 'Machine wash cold, tumble dry low'",
+        "description": "Metafields allow merchants to store additional structured data on products, variants, collections, and other Shopify resources beyond the standard fields. They are essential for enriching product pages with specifications, care instructions, material details, sizing charts, or any custom attributes specific to your catalog. Metafields can be displayed on the storefront through theme customization and are accessible via the Shopify API. Shopify's standard metafield definitions provide pre-built types for common use cases, and custom definitions can be created for unique business needs."
+      },
+      {
+        "field": "Inventory & Weight",
+        "required": true,
+        "format": "Numeric inventory quantity; weight in grams, kg, lb, or oz",
+        "example": "Inventory: 150 units at Warehouse A / Weight: 180g",
+        "description": "Inventory tracking is managed per variant and per location in Shopify. Each variant can have inventory levels set at one or more fulfillment locations (warehouses, retail stores, or 3PL providers). Shopify supports inventory tracking policies of 'Shopify tracks this product's inventory' or 'Don't track inventory'. Product weight is required for accurate shipping rate calculation and is set per variant. Ensure weights are accurate to avoid shipping cost discrepancies that erode margins or cause customer complaints."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://www.shopify.com"
+  },
+  "walmart": {
+    "label": "Walmart Marketplace",
+    "fields": [
+      {
+        "field": "Product Name (Title)",
+        "required": true,
+        "characterLimit": "200 characters (50-75 recommended)",
+        "format": "Brand + Defining Quality + Item Name + Pack Count + Size/Color",
+        "example": "KitchenAid Professional 5-Quart Stand Mixer with Pouring Shield - Empire Red",
+        "description": "The product name is the most important element for search visibility on Walmart. It must follow Walmart's title formula and should not contain promotional phrases, all caps, or special characters. Each word should be capitalized except for articles, prepositions, and conjunctions. Titles must accurately describe the product and should not include information about free shipping, pricing, or seller-specific details."
+      },
+      {
+        "field": "Shelf Description",
+        "required": true,
+        "characterLimit": "4,000 characters",
+        "format": "Rich text with HTML formatting (paragraphs, lists, bold)",
+        "example": "<p>The KitchenAid Professional 5-Quart Stand Mixer is designed for serious home bakers who demand performance and durability...</p>",
+        "description": "The shelf description is the main product description that appears on the product detail page. Walmart encourages rich, well-formatted HTML descriptions with paragraphs, bullet points, and bold text to highlight key features. The description should provide comprehensive information about the product's features, benefits, materials, and use cases. Avoid including contact information, URLs, or references to other retailers."
+      },
+      {
+        "field": "Short Description (Key Features)",
+        "required": true,
+        "characterLimit": "1,000 characters (3-10 bullet points)",
+        "format": "HTML unordered list with concise feature bullets",
+        "example": "<ul><li>Professional-level 475-watt motor handles heavy mixing tasks with ease</li><li>5-quart polished stainless steel bowl with comfortable handle</li></ul>",
+        "description": "The short description appears as key features near the top of the product detail page. Walmart requires this to be formatted as an HTML unordered list with 3 to 10 bullet points. Each bullet should highlight a unique product benefit or feature. Focus on the most compelling selling points that differentiate the product from competitors."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Up to 10 images + variant images",
+        "format": "JPEG or PNG; minimum 1000x1000px (recommended 2000x2000px)",
+        "example": "Main image: product on white background. Additional: lifestyle, feature callouts, back/side views, size comparison",
+        "description": "The main image must feature the product on a solid white background with no text overlays, watermarks, or borders. The product should fill at least 85% of the image frame. Additional images should showcase the product from multiple angles, in real-life usage scenarios, and with informational callouts. High-resolution images that meet the 2000x2000 pixel recommendation enable zoom functionality, which improves customer confidence and conversion rates."
+      },
+      {
+        "field": "Price",
+        "required": true,
+        "format": "Numeric value in USD",
+        "example": "349.99",
+        "description": "The listing price must be competitive. Walmart actively enforces its Pricing Rules policy, which compares your price (including shipping) against the same product on other major retail sites. If Walmart detects a significantly lower price elsewhere, the listing may be unpublished or suppressed. Sellers should monitor pricing across channels and ensure their Walmart pricing is at or near the lowest advertised price to avoid compliance issues."
+      },
+      {
+        "field": "Brand",
+        "required": true,
+        "characterLimit": "60 characters",
+        "format": "Exact brand name as registered",
+        "example": "KitchenAid",
+        "description": "The brand name must be consistent across all listings for the same brand. Walmart verifies brand information and may require brand authorization documentation for certain categories. For generic or unbranded products, sellers should use their own brand name or indicate 'Unbranded' as appropriate. Brand consistency helps build trust and improves search relevance."
+      },
+      {
+        "field": "Product Identifier (UPC/GTIN)",
+        "required": true,
+        "format": "UPC (12 digits), GTIN (14 digits), EAN (13 digits), or ISBN (10 or 13 digits)",
+        "example": "883049299495",
+        "description": "A valid product identifier is required for every item listed on Walmart Marketplace. Walmart validates product identifiers against the GS1 database, so barcodes must be legitimately purchased from GS1 or an authorized distributor. Unlike Amazon, Walmart does not currently offer a general GTIN exemption program, making valid product identifiers essential for all listings. Duplicate or invalid GTINs will result in listing rejection."
+      },
+      {
+        "field": "Product Category",
+        "required": true,
+        "format": "Walmart Product Type from the category taxonomy",
+        "example": "Home > Kitchen & Dining > Kitchen Appliances > Stand Mixers",
+        "description": "Products must be assigned to the correct Walmart product type, which determines the required and optional attributes for the listing. Walmart's taxonomy is organized hierarchically, and sellers should select the most specific category available. Correct categorization ensures products appear in relevant search results and browse pages, and determines which attribute fields are required in the spec file."
+      },
+      {
+        "field": "Shipping Weight",
+        "required": true,
+        "format": "Numeric value in pounds (lbs)",
+        "example": "26.4",
+        "description": "Accurate shipping weight is required for all listings and is used to calculate shipping costs for both seller-fulfilled and WFS orders. The weight should include the product and all packaging materials. Inaccurate weights can lead to unexpected shipping cost adjustments and may negatively impact seller performance metrics."
+      },
+      {
+        "field": "Product Tax Code",
+        "required": true,
+        "format": "Walmart Product Tax Code (numeric)",
+        "example": "2038710 (Small Kitchen Appliances)",
+        "description": "Every product listing requires a valid Walmart Product Tax Code to ensure correct sales tax calculation. Walmart provides a Product Tax Code lookup tool in Seller Center. Using an incorrect tax code can result in overcharging or undercharging customers for sales tax, which may lead to compliance issues and customer complaints."
+      },
+      {
+        "field": "Variant Attributes (Size/Color/Count)",
+        "required": false,
+        "format": "Variant group with shared Variant Group ID",
+        "example": "Variant Group ID: KA-PRO-MIXER with variants: Empire Red (SKU-001), Silver (SKU-002), Onyx Black (SKU-003)",
+        "description": "Variant grouping allows related products (different colors, sizes, or counts) to be displayed together on a single product detail page. All variants must share the same Variant Group ID and have consistent primary attribute values. Each variant requires its own unique UPC, SKU, images, and pricing. Walmart supports multi-attribute variants (e.g., Size + Color combinations) for applicable product types."
+      },
+      {
+        "field": "Site Description (Rich Media / Enhanced Content)",
+        "required": false,
+        "characterLimit": "Varies by module",
+        "format": "Rich media modules with images, comparison charts, and videos",
+        "example": "Brand showcase with hero banner, feature highlights with icons, product comparison chart, 360-degree product view",
+        "description": "Rich Media is Walmart's equivalent of Amazon A+ Content, available to brand owners. It allows sellers to create visually enhanced product descriptions with modules including hero images, feature highlights, comparison charts, and video content. Rich Media content can significantly improve conversion rates and reduce return rates by providing customers with more comprehensive product information and a more engaging shopping experience."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://seller.walmart.com"
+  },
+  "zalando": {
+    "label": "Zalando",
+    "fields": [
+      {
+        "field": "Product Title (Article Name)",
+        "required": true,
+        "characterLimit": "70 characters",
+        "format": "Brand + Product Name + Key Attribute (e.g., color or style)",
+        "example": "Nike Air Max 90 - Sneakers low - white/black",
+        "description": "The article name is displayed as the product title on the Zalando storefront and in search results. It should be concise, descriptive, and follow Zalando's naming conventions for the specific category. Do not include promotional phrases, prices, or excessive capitalization. Zalando may standardize or rewrite titles that do not conform to their editorial guidelines."
+      },
+      {
+        "field": "Brand",
+        "required": true,
+        "characterLimit": "100 characters",
+        "format": "Exact brand name as registered with Zalando",
+        "example": "Nike",
+        "description": "The brand must be pre-approved and registered in Zalando's brand database before any products can be listed. New brands must go through an onboarding and approval process with the Zalando Partner Program team. The brand name must be consistent across all product submissions and match the trademark registration exactly."
+      },
+      {
+        "field": "EAN/GTIN-13 (per size/variant)",
+        "required": true,
+        "format": "EAN-13 (13 digits) per simple (size variant)",
+        "example": "4012345678901",
+        "description": "Every simple (individual size/variant of a product) requires a unique, valid EAN-13 barcode. Zalando validates EANs against the GS1 database to prevent duplicates and counterfeits. Each size of a garment, each color variant, or each width option must have its own distinct EAN. Products without valid EANs cannot be listed on the platform."
+      },
+      {
+        "field": "Product Images",
+        "required": true,
+        "characterLimit": "Minimum 3 images, up to 12 recommended",
+        "format": "JPEG; minimum 2048x2730px; aspect ratio 3:4; neutral background",
+        "example": "Image 1: full-body model shot front view. Image 2: model shot back view. Image 3: close-up detail/fabric shot. Additional: side view, flat lay, packaging",
+        "description": "Zalando has some of the strictest image requirements among European marketplaces. For apparel and shoes, model photography is strongly preferred and often required. The main image must show the product on a model (for clothing) or as a packshot (for accessories) against a neutral gray (hex #ECECEC) or white background. Images must be high-resolution (minimum 2048x2730 pixels) with a 3:4 aspect ratio. No text, logos, watermarks, or promotional overlays are allowed. Image quality directly impacts product approval and conversion rates."
+      },
+      {
+        "field": "Color",
+        "required": true,
+        "format": "Zalando color code from their predefined color palette",
+        "example": "white (mapped to Zalando color code: weiss/white)",
+        "description": "Products must be assigned a color value from Zalando's standardized color palette, which typically includes around 20 base colors. The mapped color is used for search filters and navigation on the storefront. Brands should also provide a more specific color description (e.g., 'ivory' or 'eggshell white') for the product detail page. Accurate color mapping is critical because color is one of the most-used filters by Zalando customers."
+      },
+      {
+        "field": "Size and Size System",
+        "required": true,
+        "format": "Mapped to Zalando's size chart system per category and region",
+        "example": "EU 42 / US 10 / UK 8 (mapped via Zalando size guide ID)",
+        "description": "Zalando uses a proprietary size system that maps brand-specific sizes to standardized regional size charts (EU, UK, US, etc.). Partners must map their size grids to Zalando's size system during onboarding, and each product must reference the correct size guide ID. Accurate size information is crucial because sizing issues are the number one reason for returns on Zalando. The platform provides size recommendation tools to customers based on the data partners supply."
+      },
+      {
+        "field": "Material Composition",
+        "required": true,
+        "characterLimit": "No limit (structured data)",
+        "format": "Percentage breakdown of materials (must total 100%)",
+        "example": "Outer: 80% Cotton, 20% Polyester. Lining: 100% Polyester",
+        "description": "EU regulations require detailed material composition information for textile products. Partners must provide the exact percentage of each fiber or material used in the product, broken down by component (outer fabric, lining, insole, sole, etc.). This information is displayed on the product detail page and is legally required for selling textiles in the European Union. Inaccurate material declarations can result in product removal and legal liability."
+      },
+      {
+        "field": "Season Code",
+        "required": true,
+        "format": "Season + Year code (e.g., SS25, AW25, HW25)",
+        "example": "SS25 (Spring/Summer 2025)",
+        "description": "Every product on Zalando must be tagged with a season code indicating when the product was released or is intended to be sold. Zalando uses season codes to manage assortment planning, markdown cycles, and catalog organization. Products from outdated seasons may be deprioritized in search results or flagged for markdown. Partners should coordinate their season codes with Zalando's seasonal calendar."
+      },
+      {
+        "field": "Silhouette / Product Type",
+        "required": true,
+        "format": "Selected from Zalando's predefined silhouette taxonomy",
+        "example": "Sneakers low, T-shirt basic, Jeans skinny, Parka",
+        "description": "Zalando's silhouette field acts as a detailed product classification within a category. It determines which product detail page template is used, which attributes are required, and how the product appears in filtered search results. Selecting the correct silhouette is essential because it defines the entire attribute schema for the product, including required fields like length, fit, collar style, and other category-specific attributes."
+      },
+      {
+        "field": "Price (Recommended Retail Price)",
+        "required": true,
+        "format": "Numeric value in local currency per market",
+        "example": "89.95 (EUR)",
+        "description": "Partners set the recommended retail price (RRP) for each market where the product is sold. Zalando operates a consignment-like model where the brand sets the price and Zalando takes a commission on each sale. Prices must be competitive and consistent with the brand's positioning across other channels. Zalando reserves the right to decline products with pricing that falls outside acceptable ranges for the category and brand tier."
+      },
+      {
+        "field": "Care Instructions",
+        "required": true,
+        "format": "Standardized care symbols and text descriptions",
+        "example": "Machine wash at 30°C, Do not bleach, Tumble dry low, Iron at low temperature",
+        "description": "Care instructions are mandatory for textile products sold in the EU and must include the appropriate textile care symbols and text descriptions. Partners should provide care labels that comply with GINETEX standards (ISO 3758). This information helps customers maintain their purchases properly and is a legal requirement in most European markets. Incomplete or missing care instructions can result in product listing rejection."
+      },
+      {
+        "field": "Product Description",
+        "required": false,
+        "characterLimit": "2,000 characters",
+        "format": "Plain text without HTML, structured bullet points preferred",
+        "example": "Timeless sneaker in premium leather with a cushioned sole for all-day comfort. Features a breathable mesh lining and reinforced heel counter for added support.",
+        "description": "The product description provides additional details about the product beyond the title and attributes. While Zalando auto-generates much of the product page from structured attributes, a well-crafted description adds context about the product's features, benefits, and styling suggestions. Keep descriptions factual, avoid superlatives and promotional language, and write in the language of the target market. Zalando may edit or replace descriptions that do not meet their editorial standards."
+      }
+    ],
+    "source": "https://wisepim.com/channel-requirements",
+    "publisher": "https://www.zalando.de/partner"
+  }
+}

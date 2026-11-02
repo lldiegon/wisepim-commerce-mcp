@@ -1,0 +1,9 @@
+{
+  "manifest_version": "0.3",
+  "name": "wisepim-commerce-mcp",
+  "display_name": "WISEPIM Commerce Reference",
+  "version": "1.0.0",
+  "description": "Look up HS headings, read marketplace requirements and screen product copy for environmental claims.",
+  "author": {"name": "WISEPIM", "url": "https://wisepim.com"},
+  "server": {"type": "node", "entry_point": "dist/server.cjs", "mcp_config": {"command": "node", "args": ["${__dirname}/dist/server.cjs"]}}
+}

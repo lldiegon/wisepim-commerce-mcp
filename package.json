@@ -1,0 +1,22 @@
+{
+  "name": "wisepim-commerce-mcp",
+  "version": "1.0.0",
+  "description": "Offline, read-only ecommerce reference tools from WISEPIM",
+  "main": "dist/server.cjs",
+  "scripts": {
+    "test": "node test.mjs",
+    "build": "esbuild src/server.ts --bundle --platform=node --format=cjs --target=node22 --outfile=dist/server.cjs",
+    "start": "node dist/server.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.32.2",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

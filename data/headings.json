@@ -1,0 +1,5302 @@
+[
+  [
+    "01",
+    "LIVE ANIMALS"
+  ],
+  [
+    "0101",
+    "Live horses, asses, mules and hinnies"
+  ],
+  [
+    "0102",
+    "Live bovine animals"
+  ],
+  [
+    "0103",
+    "Live swine"
+  ],
+  [
+    "0104",
+    "Live sheep and goats"
+  ],
+  [
+    "0105",
+    "Live poultry, that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls"
+  ],
+  [
+    "0106",
+    "Other live animals"
+  ],
+  [
+    "02",
+    "MEAT AND EDIBLE MEAT OFFAL"
+  ],
+  [
+    "0201",
+    "Meat of bovine animals, fresh or chilled"
+  ],
+  [
+    "0202",
+    "Meat of bovine animals, frozen"
+  ],
+  [
+    "0203",
+    "Meat of swine, fresh, chilled or frozen"
+  ],
+  [
+    "0204",
+    "Meat of sheep or goats, fresh, chilled or frozen"
+  ],
+  [
+    "0205",
+    "Meat of horses, asses, mules or hinnies, fresh, chilled or frozen"
+  ],
+  [
+    "0206",
+    "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen"
+  ],
+  [
+    "0207",
+    "Meat and edible offal, of the poultry of heading 0105, fresh, chilled or frozen"
+  ],
+  [
+    "0208",
+    "Other meat and edible meat offal, fresh, chilled or frozen"
+  ],
+  [
+    "0209",
+    "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked"
+  ],
+  [
+    "0210",
+    "Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal"
+  ],
+  [
+    "03",
+    "FISH AND CRUSTACEANS, MOLLUSCS AND OTHER AQUATIC INVERTEBRATES"
+  ],
+  [
+    "0301",
+    "Live fish"
+  ],
+  [
+    "0302",
+    "Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 0304"
+  ],
+  [
+    "0303",
+    "Fish, frozen, excluding fish fillets and other fish meat of heading 0304"
+  ],
+  [
+    "0304",
+    "Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen"
+  ],
+  [
+    "0305",
+    "Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process"
+  ],
+  [
+    "0306",
+    "Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not…"
+  ],
+  [
+    "0307",
+    "Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked…"
+  ],
+  [
+    "0308",
+    "Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than…"
+  ],
+  [
+    "0309",
+    "Flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, fit for human consumption"
+  ],
+  [
+    "04",
+    "DAIRY PRODUCE; BIRDS' EGGS; NATURAL HONEY; EDIBLE PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+  ],
+  [
+    "0401",
+    "Milk and cream, not concentrated nor containing added sugar or other sweetening matter"
+  ],
+  [
+    "0402",
+    "Milk and cream, concentrated or containing added sugar or other sweetening matter"
+  ],
+  [
+    "0403",
+    "Yogurt; buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or…"
+  ],
+  [
+    "0404",
+    "Whey, whether or not concentrated or containing added sugar or other sweetening matter; products consisting of natural milk constituents, whether or not…"
+  ],
+  [
+    "0405",
+    "Butter and other fats and oils derived from milk; dairy spreads"
+  ],
+  [
+    "0406",
+    "Cheese and curd"
+  ],
+  [
+    "0407",
+    "Birds' eggs, in shell, fresh, preserved or cooked"
+  ],
+  [
+    "0408",
+    "Birds' eggs, not in shell, and egg yolks, fresh, dried, cooked by steaming or by boiling in water, moulded, frozen or otherwise preserved, whether or not…"
+  ],
+  [
+    "0409",
+    "Natural honey"
+  ],
+  [
+    "0410",
+    "Insects and other edible products of animal origin, not elsewhere specified or included"
+  ],
+  [
+    "05",
+    "PRODUCTS OF ANIMAL ORIGIN, NOT ELSEWHERE SPECIFIED OR INCLUDED"
+  ],
+  [
+    "0501",
+    "Human hair, unworked, whether or not washed or scoured; waste of human hair"
+  ],
+  [
+    "0502",
+    "Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair"
+  ],
+  [
+    "0504",
+    "Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked"
+  ],
+  [
+    "0505",
+    "Skins and other parts of birds, with their feathers or down, feathers and parts of feathers (whether or not with trimmed edges) and down, not further worked…"
+  ],
+  [
+    "0506",
+    "Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products"
+  ],
+  [
+    "0507",
+    "Ivory, tortoiseshell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, unworked or simply prepared but not cut to shape; powder…"
+  ],
+  [
+    "0508",
+    "Coral and similar materials, unworked or simply prepared but not otherwise worked; shells of molluscs, crustaceans or echinoderms and cuttle-bone, unworked or…"
+  ],
+  [
+    "0510",
+    "Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other animal products used in the preparation of pharmaceutical…"
+  ],
+  [
+    "0511",
+    "Animal products not elsewhere specified or included; dead animals of Chapter 1 or 3, unfit for human consumption"
+  ],
+  [
+    "06",
+    "LIVE TREES AND OTHER PLANTS; BULBS, ROOTS AND THE LIKE; CUT FLOWERS AND ORNAMENTAL FOLIAGE"
+  ],
+  [
+    "0601",
+    "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 1212"
+  ],
+  [
+    "0602",
+    "Other live plants (including their roots), cuttings and slips; mushroom spawn"
+  ],
+  [
+    "0603",
+    "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared"
+  ],
+  [
+    "0604",
+    "Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses and lichens, being goods of a kind suitable for bouquets or…"
+  ],
+  [
+    "07",
+    "EDIBLE VEGETABLES AND CERTAIN ROOTS AND TUBERS"
+  ],
+  [
+    "0701",
+    "Potatoes, fresh or chilled"
+  ],
+  [
+    "0702",
+    "Tomatoes, fresh or chilled"
+  ],
+  [
+    "0703",
+    "Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled"
+  ],
+  [
+    "0704",
+    "Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled"
+  ],
+  [
+    "0705",
+    "Lettuce (Lactuca sativa) and chicory (Cichorium spp.), fresh or chilled"
+  ],
+  [
+    "0706",
+    "Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled"
+  ],
+  [
+    "0707",
+    "Cucumbers and gherkins, fresh or chilled"
+  ],
+  [
+    "0708",
+    "Leguminous vegetables, shelled or unshelled, fresh or chilled"
+  ],
+  [
+    "0709",
+    "Other vegetables, fresh or chilled"
+  ],
+  [
+    "0710",
+    "Vegetables (uncooked or cooked by steaming or boiling in water), frozen"
+  ],
+  [
+    "0711",
+    "Vegetables provisionally preserved, but unsuitable in that state for immediate consumption"
+  ],
+  [
+    "0712",
+    "Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared"
+  ],
+  [
+    "0713",
+    "Dried leguminous vegetables, shelled, whether or not skinned or split"
+  ],
+  [
+    "0714",
+    "Manioc, arrowroot, salep, Jerusalem artichokes, sweet potatoes and similar roots and tubers with high starch or inulin content, fresh, chilled, frozen or…"
+  ],
+  [
+    "08",
+    "EDIBLE FRUIT AND NUTS; PEEL OF CITRUS FRUIT OR MELONS"
+  ],
+  [
+    "0801",
+    "Coconuts, Brazil nuts and cashew nuts, fresh or dried, whether or not shelled or peeled"
+  ],
+  [
+    "0802",
+    "Other nuts, fresh or dried, whether or not shelled or peeled"
+  ],
+  [
+    "0803",
+    "Bananas, including plantains, fresh or dried"
+  ],
+  [
+    "0804",
+    "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried"
+  ],
+  [
+    "0805",
+    "Citrus fruit, fresh or dried"
+  ],
+  [
+    "0806",
+    "Grapes, fresh or dried"
+  ],
+  [
+    "0807",
+    "Melons (including watermelons) and papaws (papayas), fresh"
+  ],
+  [
+    "0808",
+    "Apples, pears and quinces, fresh"
+  ],
+  [
+    "0809",
+    "Apricots, cherries, peaches (including nectarines), plums and sloes, fresh"
+  ],
+  [
+    "0810",
+    "Other fruit, fresh"
+  ],
+  [
+    "0811",
+    "Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter"
+  ],
+  [
+    "0812",
+    "Fruit and nuts provisionally preserved, but unsuitable in that state for immediate consumption"
+  ],
+  [
+    "0813",
+    "Fruit, dried, other than that of headings 0801 to 0806; mixtures of nuts or dried fruits of this chapter"
+  ],
+  [
+    "0814",
+    "Peel of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water or in other preservative…"
+  ],
+  [
+    "09",
+    "COFFEE, TEA, MATÉ AND SPICES"
+  ],
+  [
+    "0901",
+    "Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion"
+  ],
+  [
+    "0902",
+    "Tea, whether or not flavoured"
+  ],
+  [
+    "0903",
+    "Maté"
+  ],
+  [
+    "0904",
+    "Pepper of the genus Piper; dried or crushed or ground fruit of the genus Capsicum or of the genus Pimenta"
+  ],
+  [
+    "0905",
+    "Vanilla"
+  ],
+  [
+    "0906",
+    "Cinnamon and cinnamon-tree flowers"
+  ],
+  [
+    "0907",
+    "Cloves (whole fruit, cloves and stems)"
+  ],
+  [
+    "0908",
+    "Nutmeg, mace and cardamoms"
+  ],
+  [
+    "0909",
+    "Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries"
+  ],
+  [
+    "0910",
+    "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices"
+  ],
+  [
+    "10",
+    "CEREALS"
+  ],
+  [
+    "1001",
+    "Wheat and meslin"
+  ],
+  [
+    "1002",
+    "Rye"
+  ],
+  [
+    "1003",
+    "Barley"
+  ],
+  [
+    "1004",
+    "Oats"
+  ],
+  [
+    "1005",
+    "Maize (corn)"
+  ],
+  [
+    "1006",
+    "Rice"
+  ],
+  [
+    "1007",
+    "Grain sorghum"
+  ],
+  [
+    "1008",
+    "Buckwheat, millet and canary seed; other cereals"
+  ],
+  [
+    "11",
+    "PRODUCTS OF THE MILLING INDUSTRY; MALT; STARCHES; INULIN; WHEAT GLUTEN"
+  ],
+  [
+    "1101",
+    "Wheat or meslin flour"
+  ],
+  [
+    "1102",
+    "Cereal flours other than of wheat or meslin"
+  ],
+  [
+    "1103",
+    "Cereal groats, meal and pellets"
+  ],
+  [
+    "1104",
+    "Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006; germ of cereals, whole, rolled…"
+  ],
+  [
+    "1105",
+    "Flour, meal, powder, flakes, granules and pellets of potatoes"
+  ],
+  [
+    "1106",
+    "Flour, meal and powder of the dried leguminous vegetables of heading 0713, of sago or of roots or tubers of heading 0714 or of the products of Chapter 8"
+  ],
+  [
+    "1107",
+    "Malt, whether or not roasted"
+  ],
+  [
+    "1108",
+    "Starches; inulin"
+  ],
+  [
+    "1109",
+    "Wheat gluten, whether or not dried"
+  ],
+  [
+    "12",
+    "OIL SEEDS AND OLEAGINOUS FRUITS; MISCELLANEOUS GRAINS, SEEDS AND FRUIT; INDUSTRIAL OR MEDICINAL PLANTS; STRAW AND FODDER"
+  ],
+  [
+    "1201",
+    "Soya beans, whether or not broken"
+  ],
+  [
+    "1202",
+    "Groundnuts, not roasted or otherwise cooked, whether or not shelled or broken"
+  ],
+  [
+    "1203",
+    "Copra"
+  ],
+  [
+    "1204",
+    "Linseed, whether or not broken"
+  ],
+  [
+    "1205",
+    "Rape or colza seeds, whether or not broken"
+  ],
+  [
+    "1206",
+    "Sunflower seeds, whether or not broken"
+  ],
+  [
+    "1207",
+    "Other oil seeds and oleaginous fruits, whether or not broken"
+  ],
+  [
+    "1208",
+    "Flours and meals of oil seeds or oleaginous fruits, other than those of mustard"
+  ],
+  [
+    "1209",
+    "Seeds, fruit and spores, of a kind used for sowing"
+  ],
+  [
+    "1210",
+    "Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin"
+  ],
+  [
+    "1211",
+    "Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar…"
+  ],
+  [
+    "1212",
+    "Locust beans, seaweeds and other algae, sugar beet and sugar cane, fresh, chilled, frozen or dried, whether or not ground; fruit stones and kernels and other…"
+  ],
+  [
+    "1213",
+    "Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form of pellets"
+  ],
+  [
+    "1214",
+    "Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the…"
+  ],
+  [
+    "13",
+    "LAC; GUMS, RESINS AND OTHER VEGETABLE SAPS AND EXTRACTS"
+  ],
+  [
+    "1301",
+    "Lac; natural gums, resins, gum-resins and oleoresins (for example, balsams)"
+  ],
+  [
+    "1302",
+    "Vegetable saps and extracts; pectic substances, pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from…"
+  ],
+  [
+    "14",
+    "VEGETABLE PLAITING MATERIALS; VEGETABLE PRODUCTS NOT ELSEWHERE SPECIFIED OR INCLUDED"
+  ],
+  [
+    "1401",
+    "Vegetable materials of a kind used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal…"
+  ],
+  [
+    "1404",
+    "Vegetable products not elsewhere specified or included"
+  ],
+  [
+    "15",
+    "ANIMAL, VEGETABLE OR MICROBIAL FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES"
+  ],
+  [
+    "1501",
+    "Pig fat (including lard) and poultry fat, other than that of heading 0209 or 1503"
+  ],
+  [
+    "1502",
+    "Fats of bovine animals, sheep or goats, other than those of heading 1503"
+  ],
+  [
+    "1503",
+    "Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared"
+  ],
+  [
+    "1504",
+    "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1505",
+    "Wool grease and fatty substances derived therefrom (including lanolin)"
+  ],
+  [
+    "1506",
+    "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1507",
+    "Soya-bean oil and its fractions, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1508",
+    "Groundnut oil and its fractions, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1509",
+    "Olive oil and its fractions, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1510",
+    "Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions…"
+  ],
+  [
+    "1511",
+    "Palm oil and its fractions, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1512",
+    "Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1513",
+    "Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1514",
+    "Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1515",
+    "Other fixed vegetable or microbial fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified"
+  ],
+  [
+    "1516",
+    "Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or…"
+  ],
+  [
+    "1517",
+    "Margarine; edible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this chapter, other…"
+  ],
+  [
+    "1518",
+    "Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert…"
+  ],
+  [
+    "1520",
+    "Glycerol, crude; glycerol waters and glycerol lyes"
+  ],
+  [
+    "1521",
+    "Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured"
+  ],
+  [
+    "1522",
+    "Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes"
+  ],
+  [
+    "16",
+    "PREPARATIONS OF MEAT, OF FISH, OF CRUSTACEANS, MOLLUSCS OR OTHER AQUATIC INVERTEBRATES, OR OF INSECTS"
+  ],
+  [
+    "1601",
+    "Sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products"
+  ],
+  [
+    "1602",
+    "Other prepared or preserved meat, meat offal, blood or insects"
+  ],
+  [
+    "1603",
+    "Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates"
+  ],
+  [
+    "1604",
+    "Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs"
+  ],
+  [
+    "1605",
+    "Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved"
+  ],
+  [
+    "17",
+    "SUGARS AND SUGAR CONFECTIONERY"
+  ],
+  [
+    "1701",
+    "Cane or beet sugar and chemically pure sucrose, in solid form"
+  ],
+  [
+    "1702",
+    "Other sugars, including chemically pure lactose, maltose, glucose and fructose, in solid form; sugar syrups not containing added flavouring or colouring…"
+  ],
+  [
+    "1703",
+    "Molasses resulting from the extraction or refining of sugar"
+  ],
+  [
+    "1704",
+    "Sugar confectionery (including white chocolate), not containing cocoa"
+  ],
+  [
+    "18",
+    "COCOA AND COCOA PREPARATIONS"
+  ],
+  [
+    "1801",
+    "Cocoa beans, whole or broken, raw or roasted"
+  ],
+  [
+    "1802",
+    "Cocoa shells, husks, skins and other cocoa waste"
+  ],
+  [
+    "1803",
+    "Cocoa paste, whether or not defatted"
+  ],
+  [
+    "1804",
+    "Cocoa butter, fat and oil"
+  ],
+  [
+    "1805",
+    "Cocoa powder, not containing added sugar or other sweetening matter"
+  ],
+  [
+    "1806",
+    "Chocolate and other food preparations containing cocoa"
+  ],
+  [
+    "19",
+    "PREPARATIONS OF CEREALS, FLOUR, STARCH OR MILK; PASTRYCOOKS' PRODUCTS"
+  ],
+  [
+    "1901",
+    "Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 % by weight of cocoa…"
+  ],
+  [
+    "1902",
+    "Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi…"
+  ],
+  [
+    "1903",
+    "Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or similar forms"
+  ],
+  [
+    "1904",
+    "Prepared foods obtained by the swelling or roasting of cereals or cereal products (for example, corn flakes); cereals (other than maize (corn)) in grain form…"
+  ],
+  [
+    "1905",
+    "Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical…"
+  ],
+  [
+    "20",
+    "PREPARATIONS OF VEGETABLES, FRUIT, NUTS OR OTHER PARTS OF PLANTS"
+  ],
+  [
+    "2001",
+    "Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid"
+  ],
+  [
+    "2002",
+    "Tomatoes prepared or preserved otherwise than by vinegar or acetic acid"
+  ],
+  [
+    "2003",
+    "Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid"
+  ],
+  [
+    "2004",
+    "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 2006"
+  ],
+  [
+    "2005",
+    "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006"
+  ],
+  [
+    "2006",
+    "Vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised)"
+  ],
+  [
+    "2007",
+    "Jams, fruit jellies, marmalades, fruit or nut purée and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening…"
+  ],
+  [
+    "2008",
+    "Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not…"
+  ],
+  [
+    "2009",
+    "Fruit or nut juices (including grape must and coconut water) and vegetable juices, unfermented and not containing added spirit, whether or not containing…"
+  ],
+  [
+    "21",
+    "MISCELLANEOUS EDIBLE PREPARATIONS"
+  ],
+  [
+    "2101",
+    "Extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or maté; roasted…"
+  ],
+  [
+    "2102",
+    "Yeasts (active or inactive); other single-cell micro-organisms, dead (but not including vaccines of heading 3002); prepared baking powders"
+  ],
+  [
+    "2103",
+    "Sauces and preparations therefor; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard"
+  ],
+  [
+    "2104",
+    "Soups and broths and preparations therefor; homogenised composite food preparations"
+  ],
+  [
+    "2105",
+    "Ice cream and other edible ice, whether or not containing cocoa"
+  ],
+  [
+    "2106",
+    "Food preparations not elsewhere specified or included"
+  ],
+  [
+    "22",
+    "BEVERAGES, SPIRITS AND VINEGAR"
+  ],
+  [
+    "2201",
+    "Waters, including natural or artificial mineral waters and aerated waters, not containing added sugar or other sweetening matter nor flavoured; ice and snow"
+  ],
+  [
+    "2202",
+    "Waters, including mineral waters and aerated waters, containing added sugar or other sweetening matter or flavoured, and other non-alcoholic beverages, not…"
+  ],
+  [
+    "2203",
+    "Beer made from malt"
+  ],
+  [
+    "2204",
+    "Wine of fresh grapes, including fortified wines; grape must other than that of heading 2009"
+  ],
+  [
+    "2205",
+    "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances"
+  ],
+  [
+    "2206",
+    "Other fermented beverages (for example, cider, perry, mead, saké); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic…"
+  ],
+  [
+    "2207",
+    "Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher; ethyl alcohol and other spirits, denatured, of any strength"
+  ],
+  [
+    "2208",
+    "Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol; spirits, liqueurs and other spirituous beverages"
+  ],
+  [
+    "2209",
+    "Vinegar and substitutes for vinegar obtained from acetic acid"
+  ],
+  [
+    "23",
+    "RESIDUES AND WASTE FROM THE FOOD INDUSTRIES; PREPARED ANIMAL FODDER"
+  ],
+  [
+    "2301",
+    "Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluscs or other aquatic invertebrates, unfit for human consumption; greaves"
+  ],
+  [
+    "2302",
+    "Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants"
+  ],
+  [
+    "2303",
+    "Residues of starch manufacture and similar residues, beet-pulp, bagasse and other waste of sugar manufacture, brewing or distilling dregs and waste, whether…"
+  ],
+  [
+    "2304",
+    "Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soya-bean oil"
+  ],
+  [
+    "2305",
+    "Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of groundnut oil"
+  ],
+  [
+    "2306",
+    "Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable or microbial fats or oils, other…"
+  ],
+  [
+    "2307",
+    "Wine lees; argol"
+  ],
+  [
+    "2308",
+    "Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not…"
+  ],
+  [
+    "2309",
+    "Preparations of a kind used in animal feeding"
+  ],
+  [
+    "24",
+    "TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES; PRODUCTS, WHETHER OR NOT CONTAINING NICOTINE, INTENDED FOR INHALATION WITHOUT COMBUSTION; OTHER NICOTINE…"
+  ],
+  [
+    "2401",
+    "Unmanufactured tobacco; tobacco refuse"
+  ],
+  [
+    "2402",
+    "Cigars, cheroots, cigarillos and cigarettes, of tobacco or of tobacco substitutes"
+  ],
+  [
+    "2403",
+    "Other manufactured tobacco and manufactured tobacco substitutes; homogenised or reconstituted tobacco; tobacco extracts and essences"
+  ],
+  [
+    "2404",
+    "Products containing tobacco, reconstituted tobacco, nicotine, or tobacco or nicotine substitutes, intended for inhalation without combustion; other nicotine…"
+  ],
+  [
+    "25",
+    "SALT; SULPHUR; EARTHS AND STONE; PLASTERING MATERIALS, LIME AND CEMENT"
+  ],
+  [
+    "2501",
+    "Salt (including table salt and denatured salt) and pure sodium chloride, whether or not in aqueous solution or containing added anti-caking or free-flowing…"
+  ],
+  [
+    "2502",
+    "Unroasted iron pyrites"
+  ],
+  [
+    "2503",
+    "Sulphur of all kinds, other than sublimed sulphur, precipitated sulphur and colloidal sulphur"
+  ],
+  [
+    "2504",
+    "Natural graphite"
+  ],
+  [
+    "2505",
+    "Natural sands of all kinds, whether or not coloured, other than metal-bearing sands of Chapter 26"
+  ],
+  [
+    "2506",
+    "Quartz (other than natural sands); quartzite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular…"
+  ],
+  [
+    "2507",
+    "Kaolin and other kaolinic clays, whether or not calcined"
+  ],
+  [
+    "2508",
+    "Other clays (not including expanded clays of heading 6806), andalusite, kyanite and sillimanite, whether or not calcined; mullite; chamotte or dinas earths"
+  ],
+  [
+    "2509",
+    "Chalk"
+  ],
+  [
+    "2510",
+    "Natural calcium phosphates, natural aluminium calcium phosphates and phosphatic chalk"
+  ],
+  [
+    "2511",
+    "Natural barium sulphate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading 2816"
+  ],
+  [
+    "2512",
+    "Siliceous fossil meals (for example, kieselguhr, tripolite and diatomite) and similar siliceous earths, whether or not calcined, of an apparent specific…"
+  ],
+  [
+    "2513",
+    "Pumice stone; emery; natural corundum, natural garnet and other natural abrasives, whether or not heat-treated"
+  ],
+  [
+    "2514",
+    "Slate, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape"
+  ],
+  [
+    "2515",
+    "Marble, travertine, ecaussine and other calcareous monumental or building stone of an apparent specific gravity of 2,5 or more, and alabaster, whether or not…"
+  ],
+  [
+    "2516",
+    "Granite, porphyry, basalt, sandstone and other monumental or building stone, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks…"
+  ],
+  [
+    "2517",
+    "Pebbles, gravel, broken or crushed stone, of a kind commonly used for concrete aggregates, for road metalling or for railway or other ballast, shingle and…"
+  ],
+  [
+    "2518",
+    "Dolomite, whether or not calcined or sintered, including dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular…"
+  ],
+  [
+    "2519",
+    "Natural magnesium carbonate (magnesite); fused magnesia; dead-burned (sintered) magnesia, whether or not containing small quantities of other oxides added…"
+  ],
+  [
+    "2520",
+    "Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate) whether or not coloured, with or without small quantities of accelerators or…"
+  ],
+  [
+    "2521",
+    "Limestone flux; limestone and other calcareous stone, of a kind used for the manufacture of lime or cement"
+  ],
+  [
+    "2522",
+    "Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 2825"
+  ],
+  [
+    "2523",
+    "Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers"
+  ],
+  [
+    "2524",
+    "Asbestos"
+  ],
+  [
+    "2525",
+    "Mica, including splittings; mica waste"
+  ],
+  [
+    "2526",
+    "Natural steatite, whether or not roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape; talc"
+  ],
+  [
+    "2528",
+    "Natural borates and concentrates thereof (whether or not calcined), but not including borates separated from natural brine; natural boric acid containing not…"
+  ],
+  [
+    "2529",
+    "Feldspar; leucite; nepheline and nepheline syenite; fluorspar"
+  ],
+  [
+    "2530",
+    "Mineral substances not elsewhere specified or included"
+  ],
+  [
+    "26",
+    "ORES, SLAG AND ASH"
+  ],
+  [
+    "2601",
+    "Iron ores and concentrates, including roasted iron pyrites"
+  ],
+  [
+    "2602",
+    "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20 % or more, calculated on the dry weight"
+  ],
+  [
+    "2603",
+    "Copper ores and concentrates"
+  ],
+  [
+    "2604",
+    "Nickel ores and concentrates"
+  ],
+  [
+    "2605",
+    "Cobalt ores and concentrates"
+  ],
+  [
+    "2606",
+    "Aluminium ores and concentrates"
+  ],
+  [
+    "2607",
+    "Lead ores and concentrates"
+  ],
+  [
+    "2608",
+    "Zinc ores and concentrates"
+  ],
+  [
+    "2609",
+    "Tin ores and concentrates"
+  ],
+  [
+    "2610",
+    "Chromium ores and concentrates"
+  ],
+  [
+    "2611",
+    "Tungsten ores and concentrates"
+  ],
+  [
+    "2612",
+    "Uranium or thorium ores and concentrates"
+  ],
+  [
+    "2613",
+    "Molybdenum ores and concentrates"
+  ],
+  [
+    "2614",
+    "Titanium ores and concentrates"
+  ],
+  [
+    "2615",
+    "Niobium, tantalum, vanadium or zirconium ores and concentrates"
+  ],
+  [
+    "2616",
+    "Precious-metal ores and concentrates"
+  ],
+  [
+    "2617",
+    "Other ores and concentrates"
+  ],
+  [
+    "2618",
+    "Granulated slag (slag sand) from the manufacture of iron or steel"
+  ],
+  [
+    "2619",
+    "Slag, dross (other than granulated slag), scalings and other waste from the manufacture of iron or steel"
+  ],
+  [
+    "2620",
+    "Slag, ash and residues (other than from the manufacture of iron or steel), containing metals, arsenic or their compounds"
+  ],
+  [
+    "2621",
+    "Other slag and ash, including seaweed ash (kelp); ash and residues from the incineration of municipal waste"
+  ],
+  [
+    "27",
+    "MINERAL FUELS, MINERAL OILS AND PRODUCTS OF THEIR DISTILLATION; BITUMINOUS SUBSTANCES; MINERAL WAXES"
+  ],
+  [
+    "2701",
+    "Coal; briquettes, ovoids and similar solid fuels manufactured from coal"
+  ],
+  [
+    "2702",
+    "Lignite, whether or not agglomerated, excluding jet"
+  ],
+  [
+    "2703",
+    "Peat (including peat litter), whether or not agglomerated"
+  ],
+  [
+    "2704",
+    "Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon"
+  ],
+  [
+    "2705",
+    "Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons"
+  ],
+  [
+    "2706",
+    "Tar distilled from coal, from lignite or from peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars"
+  ],
+  [
+    "2707",
+    "Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of…"
+  ],
+  [
+    "2708",
+    "Pitch and pitch coke, obtained from coal tar or from other mineral tars"
+  ],
+  [
+    "2709",
+    "Petroleum oils and oils obtained from bituminous minerals, crude"
+  ],
+  [
+    "2710",
+    "Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or…"
+  ],
+  [
+    "2711",
+    "Petroleum gases and other gaseous hydrocarbons"
+  ],
+  [
+    "2712",
+    "Petroleum jelly; paraffin wax, microcrystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained…"
+  ],
+  [
+    "2713",
+    "Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals"
+  ],
+  [
+    "2714",
+    "Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks"
+  ],
+  [
+    "2715",
+    "Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous…"
+  ],
+  [
+    "2716",
+    "Electrical energy"
+  ],
+  [
+    "28",
+    "INORGANIC CHEMICALS; ORGANIC OR INORGANIC COMPOUNDS OF PRECIOUS METALS, OF RARE-EARTH METALS, OF RADIOACTIVE ELEMENTS OR OF ISOTOPES"
+  ],
+  [
+    "2801",
+    "I. CHEMICAL ELEMENTS | Fluorine, chlorine, bromine and iodine"
+  ],
+  [
+    "2802",
+    "I. CHEMICAL ELEMENTS | Sulphur, sublimed or precipitated; colloidal sulphur"
+  ],
+  [
+    "2803",
+    "I. CHEMICAL ELEMENTS | Carbon (carbon blacks and other forms of carbon not elsewhere specified or included)"
+  ],
+  [
+    "2804",
+    "I. CHEMICAL ELEMENTS | Hydrogen, rare gases and other non-metals"
+  ],
+  [
+    "2805",
+    "I. CHEMICAL ELEMENTS | Alkali or alkaline-earth metals; rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed; mercury"
+  ],
+  [
+    "2806",
+    "II. INORGANIC ACIDS AND INORGANIC OXYGEN COMPOUNDS OF NON-METALS | Hydrogen chloride (hydrochloric acid); chlorosulphuric acid"
+  ],
+  [
+    "2807",
+    "II. INORGANIC ACIDS AND INORGANIC OXYGEN COMPOUNDS OF NON-METALS | Sulphuric acid; oleum"
+  ],
+  [
+    "2808",
+    "II. INORGANIC ACIDS AND INORGANIC OXYGEN COMPOUNDS OF NON-METALS | Nitric acid; sulphonitric acids"
+  ],
+  [
+    "2809",
+    "II. INORGANIC ACIDS AND INORGANIC OXYGEN COMPOUNDS OF NON-METALS | Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically…"
+  ],
+  [
+    "2810",
+    "II. INORGANIC ACIDS AND INORGANIC OXYGEN COMPOUNDS OF NON-METALS | Oxides of boron; boric acids"
+  ],
+  [
+    "2811",
+    "II. INORGANIC ACIDS AND INORGANIC OXYGEN COMPOUNDS OF NON-METALS | Other inorganic acids and other inorganic oxygen compounds of non-metals"
+  ],
+  [
+    "2812",
+    "III. HALOGEN OR SULPHUR COMPOUNDS OF NON-METALS | Halides and halide oxides of non-metals"
+  ],
+  [
+    "2813",
+    "III. HALOGEN OR SULPHUR COMPOUNDS OF NON-METALS | Sulphides of non-metals; commercial phosphorus trisulphide"
+  ],
+  [
+    "2814",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Ammonia, anhydrous or in aqueous solution"
+  ],
+  [
+    "2815",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Sodium hydroxide (caustic soda); potassium hydroxide (caustic potash); peroxides of…"
+  ],
+  [
+    "2816",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or…"
+  ],
+  [
+    "2817",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Zinc oxide; zinc peroxide"
+  ],
+  [
+    "2818",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Artificial corundum, whether or not chemically defined; aluminium oxide; aluminium…"
+  ],
+  [
+    "2819",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Chromium oxides and hydroxides"
+  ],
+  [
+    "2820",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Manganese oxides"
+  ],
+  [
+    "2821",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Iron oxides and hydroxides; earth colours containing 70 % or more by weight of combined…"
+  ],
+  [
+    "2822",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Cobalt oxides and hydroxides; commercial cobalt oxides"
+  ],
+  [
+    "2823",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Titanium oxides"
+  ],
+  [
+    "2824",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Lead oxides; red lead and orange lead"
+  ],
+  [
+    "2825",
+    "IV. INORGANIC BASES AND OXIDES, HYDROXIDES AND PEROXIDES OF METALS | Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal…"
+  ],
+  [
+    "2826",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts"
+  ],
+  [
+    "2827",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide…"
+  ],
+  [
+    "2828",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites"
+  ],
+  [
+    "2829",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Chlorates and perchlorates; bromates and perbromates; iodates and periodates"
+  ],
+  [
+    "2830",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Sulphides; polysulphides, whether or not chemically defined"
+  ],
+  [
+    "2831",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Dithionites and sulphoxylates"
+  ],
+  [
+    "2832",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Sulphites; thiosulphates"
+  ],
+  [
+    "2833",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Sulphates; alums; peroxosulphates (persulphates)"
+  ],
+  [
+    "2834",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Nitrites; nitrates"
+  ],
+  [
+    "2835",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or…"
+  ],
+  [
+    "2836",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Carbonates; peroxocarbonates (percarbonates); commercial ammonium carbonate containing ammonium…"
+  ],
+  [
+    "2837",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Cyanides, cyanide oxides and complex cyanides"
+  ],
+  [
+    "2839",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Silicates; commercial alkali metal silicates"
+  ],
+  [
+    "2840",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Borates; peroxoborates (perborates)"
+  ],
+  [
+    "2841",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Salts of oxometallic or peroxometallic acids"
+  ],
+  [
+    "2842",
+    "V. SALTS AND PEROXYSALTS, OF INORGANIC ACIDS AND METALS | Other salts of inorganic acids or peroxoacids (including aluminosilicates whether or not chemically…"
+  ],
+  [
+    "2843",
+    "VI. MISCELLANEOUS | Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals"
+  ],
+  [
+    "2844",
+    "VI. MISCELLANEOUS | Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their…"
+  ],
+  [
+    "2845",
+    "VI. MISCELLANEOUS | Isotopes other than those of heading 2844; compounds, inorganic or organic, of such isotopes, whether or not chemically defined"
+  ],
+  [
+    "2846",
+    "VI. MISCELLANEOUS | Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures of these metals"
+  ],
+  [
+    "2847",
+    "VI. MISCELLANEOUS | Hydrogen peroxide, whether or not solidified with urea"
+  ],
+  [
+    "2849",
+    "VI. MISCELLANEOUS | Carbides, whether or not chemically defined"
+  ],
+  [
+    "2850",
+    "VI. MISCELLANEOUS | Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of…"
+  ],
+  [
+    "2852",
+    "VI. MISCELLANEOUS | Inorganic or organic compounds of mercury, whether or not chemically defined, excluding amalgams"
+  ],
+  [
+    "2853",
+    "VI. MISCELLANEOUS | Phosphides, whether or not chemically defined, excluding ferrophosphorus; other inorganic compounds (including distilled or conductivity…"
+  ],
+  [
+    "29",
+    "ORGANIC CHEMICALS"
+  ],
+  [
+    "2901",
+    "I. HYDROCARBONS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Acyclic hydrocarbons"
+  ],
+  [
+    "2902",
+    "I. HYDROCARBONS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Cyclic hydrocarbons"
+  ],
+  [
+    "2903",
+    "I. HYDROCARBONS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Halogenated derivatives of hydrocarbons"
+  ],
+  [
+    "2904",
+    "I. HYDROCARBONS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Sulphonated, nitrated or nitrosated derivatives of hydrocarbons…"
+  ],
+  [
+    "2905",
+    "II. ALCOHOLS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Acyclic alcohols and their halogenated, sulphonated, nitrated or…"
+  ],
+  [
+    "2906",
+    "II. ALCOHOLS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Cyclic alcohols and their halogenated, sulphonated, nitrated or…"
+  ],
+  [
+    "2907",
+    "III. PHENOLS, PHENOL-ALCOHOLS, AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Phenols; phenol-alcohols"
+  ],
+  [
+    "2908",
+    "III. PHENOLS, PHENOL-ALCOHOLS, AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Halogenated, sulphonated, nitrated or nitrosated…"
+  ],
+  [
+    "2909",
+    "IV. ETHERS, ALCOHOL PEROXIDES, ETHER PEROXIDES, ACETAL AND HEMIACETAL PEROXIDES, KETONE PEROXIDES, EPOXIDES WITH A THREE-MEMBERED RING, ACETALS AND…"
+  ],
+  [
+    "2910",
+    "IV. ETHERS, ALCOHOL PEROXIDES, ETHER PEROXIDES, ACETAL AND HEMIACETAL PEROXIDES, KETONE PEROXIDES, EPOXIDES WITH A THREE-MEMBERED RING, ACETALS AND…"
+  ],
+  [
+    "2911",
+    "IV. ETHERS, ALCOHOL PEROXIDES, ETHER PEROXIDES, ACETAL AND HEMIACETAL PEROXIDES, KETONE PEROXIDES, EPOXIDES WITH A THREE-MEMBERED RING, ACETALS AND…"
+  ],
+  [
+    "2912",
+    "V. ALDEHYDE-FUNCTION COMPOUNDS | Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde"
+  ],
+  [
+    "2913",
+    "V. ALDEHYDE-FUNCTION COMPOUNDS | Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading 2912"
+  ],
+  [
+    "2914",
+    "VI. KETONE-FUNCTION COMPOUNDS AND QUINONE-FUNCTION COMPOUNDS | Ketones and quinones, whether or not with other oxygen function, and their halogenated…"
+  ],
+  [
+    "2915",
+    "VII. CARBOXYLIC ACIDS AND THEIR ANHYDRIDES, HALIDES, PEROXIDES AND PEROXYACIDS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES…"
+  ],
+  [
+    "2916",
+    "VII. CARBOXYLIC ACIDS AND THEIR ANHYDRIDES, HALIDES, PEROXIDES AND PEROXYACIDS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES…"
+  ],
+  [
+    "2917",
+    "VII. CARBOXYLIC ACIDS AND THEIR ANHYDRIDES, HALIDES, PEROXIDES AND PEROXYACIDS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES…"
+  ],
+  [
+    "2918",
+    "VII. CARBOXYLIC ACIDS AND THEIR ANHYDRIDES, HALIDES, PEROXIDES AND PEROXYACIDS AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES…"
+  ],
+  [
+    "2919",
+    "VIII. ESTERS OF INORGANIC ACIDS OF NON-METALS AND THEIR SALTS, AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Phosphoric esters and…"
+  ],
+  [
+    "2920",
+    "VIII. ESTERS OF INORGANIC ACIDS OF NON-METALS AND THEIR SALTS, AND THEIR HALOGENATED, SULPHONATED, NITRATED OR NITROSATED DERIVATIVES | Esters of other…"
+  ],
+  [
+    "2921",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Amine-function compounds"
+  ],
+  [
+    "2922",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Oxygen-function amino-compounds"
+  ],
+  [
+    "2923",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined"
+  ],
+  [
+    "2924",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Carboxyamide-function compounds; amide-function compounds of carbonic acid"
+  ],
+  [
+    "2925",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Carboxyimide-function compounds (including saccharin and its salts) and imine-function compounds"
+  ],
+  [
+    "2926",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Nitrile-function compounds"
+  ],
+  [
+    "2927",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Diazo-, azo- or azoxy-compounds"
+  ],
+  [
+    "2928",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Organic derivatives of hydrazine or of hydroxylamine"
+  ],
+  [
+    "2929",
+    "IX. NITROGEN-FUNCTION COMPOUNDS | Compounds with other nitrogen function"
+  ],
+  [
+    "2930",
+    "X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEIC ACIDS AND THEIR SALTS, AND SULPHONAMIDES | Organo-sulphur compounds"
+  ],
+  [
+    "2931",
+    "X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEIC ACIDS AND THEIR SALTS, AND SULPHONAMIDES | Other organo-inorganic compounds"
+  ],
+  [
+    "2932",
+    "X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEIC ACIDS AND THEIR SALTS, AND SULPHONAMIDES | Heterocyclic compounds with oxygen hetero-atom(s) only"
+  ],
+  [
+    "2933",
+    "X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEIC ACIDS AND THEIR SALTS, AND SULPHONAMIDES | Heterocyclic compounds with nitrogen hetero-atom(s)…"
+  ],
+  [
+    "2934",
+    "X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEIC ACIDS AND THEIR SALTS, AND SULPHONAMIDES | Nucleic acids and their salts, whether or not…"
+  ],
+  [
+    "2935",
+    "X. ORGANO-INORGANIC COMPOUNDS, HETEROCYCLIC COMPOUNDS, NUCLEIC ACIDS AND THEIR SALTS, AND SULPHONAMIDES | Sulphonamides"
+  ],
+  [
+    "2936",
+    "XI. PROVITAMINS, VITAMINS AND HORMONES | Provitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof…"
+  ],
+  [
+    "2937",
+    "XI. PROVITAMINS, VITAMINS AND HORMONES | Hormones, prostaglandins, thromboxanes and leukotrienes, natural or reproduced by synthesis; derivatives and…"
+  ],
+  [
+    "2938",
+    "XII. GLYCOSIDES AND ALKALOIDS, NATURAL OR REPRODUCED BY SYNTHESIS, AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES | Glycosides, natural or reproduced…"
+  ],
+  [
+    "2939",
+    "XII. GLYCOSIDES AND ALKALOIDS, NATURAL OR REPRODUCED BY SYNTHESIS, AND THEIR SALTS, ETHERS, ESTERS AND OTHER DERIVATIVES | Alkaloids, natural or reproduced by…"
+  ],
+  [
+    "2940",
+    "XIII. OTHER ORGANIC COMPOUNDS | Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers, sugar acetals and sugar…"
+  ],
+  [
+    "2941",
+    "XIII. OTHER ORGANIC COMPOUNDS | Antibiotics"
+  ],
+  [
+    "2942",
+    "XIII. OTHER ORGANIC COMPOUNDS | Other organic compounds"
+  ],
+  [
+    "30",
+    "PHARMACEUTICAL PRODUCTS"
+  ],
+  [
+    "3001",
+    "Glands and other organs for organo-therapeutic uses, dried, whether or not powdered; extracts of glands or other organs or of their secretions for…"
+  ],
+  [
+    "3002",
+    "Human blood; animal blood prepared for therapeutic, prophylactic or diagnostic uses; antisera, other blood fractions and immunological products, whether or…"
+  ],
+  [
+    "3003",
+    "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of two or more constituents which have been mixed together for therapeutic or…"
+  ],
+  [
+    "3004",
+    "Medicaments (excluding goods of heading 3002, 3005 or 3006) consisting of mixed or unmixed products for therapeutic or prophylactic uses, put up in measured…"
+  ],
+  [
+    "3005",
+    "Wadding, gauze, bandages and similar articles (for example, dressings, adhesive plasters, poultices), impregnated or coated with pharmaceutical substances or…"
+  ],
+  [
+    "3006",
+    "Pharmaceutical goods specified in note 4 to this chapter"
+  ],
+  [
+    "31",
+    "FERTILISERS"
+  ],
+  [
+    "3101",
+    "Animal or vegetable fertilisers, whether or not mixed together or chemically treated; fertilisers produced by the mixing or chemical treatment of animal or…"
+  ],
+  [
+    "3102",
+    "Mineral or chemical fertilisers, nitrogenous"
+  ],
+  [
+    "3103",
+    "Mineral or chemical fertilisers, phosphatic"
+  ],
+  [
+    "3104",
+    "Mineral or chemical fertilisers, potassic"
+  ],
+  [
+    "3105",
+    "Mineral or chemical fertilisers containing two or three of the fertilising elements nitrogen, phosphorus and potassium; other fertilisers; goods of this…"
+  ],
+  [
+    "32",
+    "TANNING OR DYEING EXTRACTS; TANNINS AND THEIR DERIVATIVES; DYES, PIGMENTS AND OTHER COLOURING MATTER; PAINTS AND VARNISHES; PUTTY AND OTHER MASTICS; INKS"
+  ],
+  [
+    "3201",
+    "Tanning extracts of vegetable origin; tannins and their salts, ethers, esters and other derivatives"
+  ],
+  [
+    "3202",
+    "Synthetic organic tanning substances; inorganic tanning substances; tanning preparations, whether or not containing natural tanning substances; enzymatic…"
+  ],
+  [
+    "3203",
+    "Colouring matter of vegetable or animal origin (including dyeing extracts but excluding animal black), whether or not chemically defined; preparations as…"
+  ],
+  [
+    "3204",
+    "Synthetic organic colouring matter, whether or not chemically defined; preparations as specified in note 3 to this chapter based on synthetic organic…"
+  ],
+  [
+    "3205",
+    "Colour lakes; preparations as specified in note 3 to this chapter based on colour lakes"
+  ],
+  [
+    "3206",
+    "Other colouring matter; preparations as specified in note 3 to this chapter, other than those of heading 3203, 3204 or 3205; inorganic products of a kind used…"
+  ],
+  [
+    "3207",
+    "Prepared pigments, prepared opacifiers and prepared colours, vitrifiable enamels and glazes, engobes (slips), liquid lustres and similar preparations, of a…"
+  ],
+  [
+    "3208",
+    "Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in a…"
+  ],
+  [
+    "3209",
+    "Paints and varnishes (including enamels and lacquers) based on synthetic polymers or chemically modified natural polymers, dispersed or dissolved in an…"
+  ],
+  [
+    "3210",
+    "Other paints and varnishes (including enamels, lacquers and distempers); prepared water pigments of a kind used for finishing leather"
+  ],
+  [
+    "3211",
+    "Prepared driers"
+  ],
+  [
+    "3212",
+    "Pigments (including metallic powders and flakes) dispersed in non-aqueous media, in liquid or paste form, of a kind used in the manufacture of paints…"
+  ],
+  [
+    "3213",
+    "Artists', students' or signboard painters' colours, modifying tints, amusement colours and the like, in tablets, tubes, jars, bottles, pans or in similar…"
+  ],
+  [
+    "3214",
+    "Glaziers' putty, grafting putty, resin cements, caulking compounds and other mastics; painters' fillings; non-refractory surfacing preparations for façades…"
+  ],
+  [
+    "3215",
+    "Printing ink, writing or drawing ink and other inks, whether or not concentrated or solid"
+  ],
+  [
+    "33",
+    "ESSENTIAL OILS AND RESINOIDS; PERFUMERY, COSMETIC OR TOILET PREPARATIONS"
+  ],
+  [
+    "3301",
+    "Essential oils (terpeneless or not), including concretes and absolutes; resinoids; extracted oleoresins; concentrates of essential oils in fats, in fixed…"
+  ],
+  [
+    "3302",
+    "Mixtures of odoriferous substances and mixtures (including alcoholic solutions) with a basis of one or more of these substances, of a kind used as raw…"
+  ],
+  [
+    "3303",
+    "Perfumes and toilet waters"
+  ],
+  [
+    "3304",
+    "Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or suntan preparations; manicure or…"
+  ],
+  [
+    "3305",
+    "Preparations for use on the hair"
+  ],
+  [
+    "3306",
+    "Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual…"
+  ],
+  [
+    "3307",
+    "Pre-shave, shaving or aftershave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not…"
+  ],
+  [
+    "34",
+    "SOAP, ORGANIC SURFACE-ACTIVE AGENTS, WASHING PREPARATIONS, LUBRICATING PREPARATIONS, ARTIFICIAL WAXES, PREPARED WAXES, POLISHING OR SCOURING PREPARATIONS…"
+  ],
+  [
+    "3401",
+    "Soap; organic surface-active products and preparations for use as soap, in the form of bars, cakes, moulded pieces or shapes, whether or not containing soap…"
+  ],
+  [
+    "3402",
+    "Organic surface-active agents (other than soap); surface-active preparations, washing preparations (including auxiliary washing preparations) and cleaning…"
+  ],
+  [
+    "3403",
+    "Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould-release…"
+  ],
+  [
+    "3404",
+    "Artificial waxes and prepared waxes"
+  ],
+  [
+    "3405",
+    "Polishes and creams, for footwear, furniture, floors, coachwork, glass or metal, scouring pastes and powders and similar preparations (whether or not in the…"
+  ],
+  [
+    "3406",
+    "Candles, tapers and the like"
+  ],
+  [
+    "3407",
+    "Modelling pastes, including those put up for children's amusement; preparations known as dental wax or as dental impression compounds, put up in sets, in…"
+  ],
+  [
+    "35",
+    "ALBUMINOIDAL SUBSTANCES; MODIFIED STARCHES; GLUES; ENZYMES"
+  ],
+  [
+    "3501",
+    "Casein, caseinates and other casein derivatives; casein glues"
+  ],
+  [
+    "3502",
+    "Albumins (including concentrates of two or more whey proteins, containing by weight more than 80 % whey proteins, calculated on the dry matter), albuminates…"
+  ],
+  [
+    "3503",
+    "Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other…"
+  ],
+  [
+    "3504",
+    "Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed"
+  ],
+  [
+    "3505",
+    "Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches"
+  ],
+  [
+    "3506",
+    "Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as…"
+  ],
+  [
+    "3507",
+    "Enzymes; prepared enzymes not elsewhere specified or included"
+  ],
+  [
+    "36",
+    "EXPLOSIVES; PYROTECHNIC PRODUCTS; MATCHES; PYROPHORIC ALLOYS; CERTAIN COMBUSTIBLE PREPARATIONS"
+  ],
+  [
+    "3601",
+    "Propellent powders"
+  ],
+  [
+    "3602",
+    "Prepared explosives, other than propellent powders"
+  ],
+  [
+    "3603",
+    "Safety fuses; detonating cords; percussion or detonating caps; igniters; electric detonators"
+  ],
+  [
+    "3604",
+    "Fireworks, signalling flares, rain rockets, fog signals and other pyrotechnic articles"
+  ],
+  [
+    "3605",
+    "Matches, other than pyrotechnic articles of heading 3604"
+  ],
+  [
+    "3606",
+    "Ferro-cerium and other pyrophoric alloys in all forms; articles of combustible materials as specified in note 2 to this chapter"
+  ],
+  [
+    "37",
+    "PHOTOGRAPHIC OR CINEMATOGRAPHIC GOODS"
+  ],
+  [
+    "3701",
+    "Photographic plates and film in the flat, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in the flat…"
+  ],
+  [
+    "3702",
+    "Photographic film in rolls, sensitised, unexposed, of any material other than paper, paperboard or textiles; instant print film in rolls, sensitised, unexposed"
+  ],
+  [
+    "3703",
+    "Photographic paper, paperboard and textiles, sensitised, unexposed"
+  ],
+  [
+    "3704",
+    "Photographic plates, film, paper, paperboard and textiles, exposed but not developed"
+  ],
+  [
+    "3705",
+    "Photographic plates and film, exposed and developed, other than cinematographic film"
+  ],
+  [
+    "3706",
+    "Cinematographic film, exposed and developed, whether or not incorporating soundtrack or consisting only of soundtrack"
+  ],
+  [
+    "3707",
+    "Chemical preparations for photographic uses (other than varnishes, glues, adhesives and similar preparations); unmixed products for photographic uses, put up…"
+  ],
+  [
+    "38",
+    "MISCELLANEOUS CHEMICAL PRODUCTS"
+  ],
+  [
+    "3801",
+    "Artificial graphite; colloidal or semi-colloidal graphite; preparations based on graphite or other carbon in the form of pastes, blocks, plates or other…"
+  ],
+  [
+    "3802",
+    "Activated carbon; activated natural mineral products; animal black, including spent animal black"
+  ],
+  [
+    "3803",
+    "Tall oil, whether or not refined"
+  ],
+  [
+    "3804",
+    "Residual lyes from the manufacture of wood pulp, whether or not concentrated, desugared or chemically treated, including lignin sulphonates, but excluding…"
+  ],
+  [
+    "3805",
+    "Gum, wood or sulphate turpentine and other terpenic oils produced by the distillation or other treatment of coniferous woods; crude dipentene; sulphite…"
+  ],
+  [
+    "3806",
+    "Rosin and resin acids, and derivatives thereof; rosin spirit and rosin oils; run gums"
+  ],
+  [
+    "3807",
+    "Wood tar; wood tar oils; wood creosote; wood naphtha; vegetable pitch; brewers' pitch and similar preparations based on rosin, resin acids or on vegetable pitch"
+  ],
+  [
+    "3808",
+    "Insecticides, rodenticides, fungicides, herbicides, anti-sprouting products and plant-growth regulators, disinfectants and similar products, put up in forms…"
+  ],
+  [
+    "3809",
+    "Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products and preparations (for example, dressings and mordants), of a…"
+  ],
+  [
+    "3810",
+    "Pickling preparations for metal surfaces; fluxes and other auxiliary preparations for soldering, brazing or welding; soldering, brazing or welding powders and…"
+  ],
+  [
+    "3811",
+    "Anti-knock preparations, oxidation inhibitors, gum inhibitors, viscosity improvers, anti-corrosive preparations and other prepared additives, for mineral oils…"
+  ],
+  [
+    "3812",
+    "Prepared rubber accelerators; compound plasticisers for rubber or plastics, not elsewhere specified or included; anti-oxidising preparations and other…"
+  ],
+  [
+    "3813",
+    "Preparations and charges for fire-extinguishers; charged fire-extinguishing grenades"
+  ],
+  [
+    "3814",
+    "Organic composite solvents and thinners, not elsewhere specified or included; prepared paint or varnish removers"
+  ],
+  [
+    "3815",
+    "Reaction initiators, reaction accelerators and catalytic preparations, not elsewhere specified or included"
+  ],
+  [
+    "3816",
+    "Refractory cements, mortars, concretes and similar compositions, including dolomite ramming mix, other than products of heading 3801"
+  ],
+  [
+    "3817",
+    "Mixed alkylbenzenes and mixed alkylnaphthalenes, other than those of heading 2707 or 2902"
+  ],
+  [
+    "3818",
+    "Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics"
+  ],
+  [
+    "3819",
+    "Hydraulic brake fluids and other prepared liquids for hydraulic transmission, not containing or containing less than 70 % by weight of petroleum oils or oils…"
+  ],
+  [
+    "3820",
+    "Anti-freezing preparations and prepared de-icing fluids"
+  ],
+  [
+    "3821",
+    "Prepared culture media for the development or maintenance of micro-organisms (including viruses and the like) or of plant, human or animal cells"
+  ],
+  [
+    "3822",
+    "Diagnostic or laboratory reagents on a backing, prepared diagnostic or laboratory reagents whether or not on a backing, whether or not put up in the form of…"
+  ],
+  [
+    "3823",
+    "Industrial monocarboxylic fatty acids; acid oils from refining; industrial fatty alcohols"
+  ],
+  [
+    "3824",
+    "Prepared binders for foundry moulds or cores; chemical products and preparations of the chemical or allied industries (including those consisting of mixtures…"
+  ],
+  [
+    "3825",
+    "Residual products of the chemical or allied industries, not elsewhere specified or included; municipal waste; sewage sludge; other wastes specified in note 6…"
+  ],
+  [
+    "3826",
+    "Biodiesel and mixtures thereof, not containing or containing less than 70 % by weight of petroleum oils or oils obtained from bituminous minerals"
+  ],
+  [
+    "3827",
+    "Mixtures containing halogenated derivatives of methane, ethane or propane, not elsewhere specified or included"
+  ],
+  [
+    "39",
+    "PLASTICS AND ARTICLES THEREOF"
+  ],
+  [
+    "3901",
+    "I. PRIMARY FORMS | Polymers of ethylene, in primary forms"
+  ],
+  [
+    "3902",
+    "I. PRIMARY FORMS | Polymers of propylene or of other olefins, in primary forms"
+  ],
+  [
+    "3903",
+    "I. PRIMARY FORMS | Polymers of styrene, in primary forms"
+  ],
+  [
+    "3904",
+    "I. PRIMARY FORMS | Polymers of vinyl chloride or of other halogenated olefins, in primary forms"
+  ],
+  [
+    "3905",
+    "I. PRIMARY FORMS | Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms"
+  ],
+  [
+    "3906",
+    "I. PRIMARY FORMS | Acrylic polymers in primary forms"
+  ],
+  [
+    "3907",
+    "I. PRIMARY FORMS | Polyacetals, other polyethers and epoxide resins, in primary forms; polycarbonates, alkyd resins, polyallyl esters and other polyesters, in…"
+  ],
+  [
+    "3908",
+    "I. PRIMARY FORMS | Polyamides in primary forms"
+  ],
+  [
+    "3909",
+    "I. PRIMARY FORMS | Amino-resins, phenolic resins and polyurethanes, in primary forms"
+  ],
+  [
+    "3910",
+    "I. PRIMARY FORMS | Silicones in primary forms"
+  ],
+  [
+    "3911",
+    "I. PRIMARY FORMS | Petroleum resins, coumarone-indene resins, polyterpenes, polysulphides, polysulphones and other products specified in note 3 to this…"
+  ],
+  [
+    "3912",
+    "I. PRIMARY FORMS | Cellulose and its chemical derivatives, not elsewhere specified or included, in primary forms"
+  ],
+  [
+    "3913",
+    "I. PRIMARY FORMS | Natural polymers (for example, alginic acid) and modified natural polymers (for example, hardened proteins, chemical derivatives of natural…"
+  ],
+  [
+    "3914",
+    "I. PRIMARY FORMS | Ion-exchangers based on polymers of headings 3901 to 3913, in primary forms"
+  ],
+  [
+    "3915",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Waste, parings and scrap, of plastics"
+  ],
+  [
+    "3916",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes…"
+  ],
+  [
+    "3917",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Tubes, pipes and hoses, and fittings therefor (for example, joints, elbows, flanges), of plastics"
+  ],
+  [
+    "3918",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Floor coverings of plastics, whether or not self-adhesive, in rolls or in the form of tiles; wall…"
+  ],
+  [
+    "3919",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether…"
+  ],
+  [
+    "3920",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Other plates, sheets, film, foil and strip, of plastics, non-cellular and not reinforced…"
+  ],
+  [
+    "3921",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Other plates, sheets, film, foil and strip, of plastics"
+  ],
+  [
+    "3922",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Baths, shower-baths, sinks, washbasins, bidets, lavatory pans, seats and covers, flushing cisterns…"
+  ],
+  [
+    "3923",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other…"
+  ],
+  [
+    "3924",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Tableware, kitchenware, other household articles and hygienic or toilet articles, of plastics"
+  ],
+  [
+    "3925",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Builders' ware of plastics, not elsewhere specified or included"
+  ],
+  [
+    "3926",
+    "II. WASTE, PARINGS AND SCRAP; SEMI-MANUFACTURES; ARTICLES | Other articles of plastics and articles of other materials of headings 3901 to 3914"
+  ],
+  [
+    "40",
+    "RUBBER AND ARTICLES THEREOF"
+  ],
+  [
+    "4001",
+    "Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip"
+  ],
+  [
+    "4002",
+    "Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 4001 with any product of…"
+  ],
+  [
+    "4003",
+    "Reclaimed rubber in primary forms or in plates, sheets or strip"
+  ],
+  [
+    "4004",
+    "Waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom"
+  ],
+  [
+    "4005",
+    "Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip"
+  ],
+  [
+    "4006",
+    "Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber"
+  ],
+  [
+    "4007",
+    "Vulcanised rubber thread and cord"
+  ],
+  [
+    "4008",
+    "Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber"
+  ],
+  [
+    "4009",
+    "Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges)"
+  ],
+  [
+    "4010",
+    "Conveyor or transmission belts or belting, of vulcanised rubber"
+  ],
+  [
+    "4011",
+    "New pneumatic tyres, of rubber"
+  ],
+  [
+    "4012",
+    "Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber"
+  ],
+  [
+    "4013",
+    "Inner tubes, of rubber"
+  ],
+  [
+    "4014",
+    "Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber"
+  ],
+  [
+    "4015",
+    "Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber"
+  ],
+  [
+    "4016",
+    "Other articles of vulcanised rubber other than hard rubber"
+  ],
+  [
+    "4017",
+    "Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber"
+  ],
+  [
+    "41",
+    "RAW HIDES AND SKINS (OTHER THAN FURSKINS) AND LEATHER"
+  ],
+  [
+    "4101",
+    "Raw hides and skins of bovine (including buffalo) or equine animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned…"
+  ],
+  [
+    "4102",
+    "Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether…"
+  ],
+  [
+    "4103",
+    "Other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment-dressed or further prepared), whether or…"
+  ],
+  [
+    "4104",
+    "Tanned or crust hides and skins of bovine (including buffalo) or equine animals, without hair on, whether or not split, but not further prepared"
+  ],
+  [
+    "4105",
+    "Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared"
+  ],
+  [
+    "4106",
+    "Tanned or crust hides and skins of other animals, without wool or hair on, whether or not split, but not further prepared"
+  ],
+  [
+    "4107",
+    "Leather further prepared after tanning or crusting, including parchment-dressed leather, of bovine (including buffalo) or equine animals, without hair on…"
+  ],
+  [
+    "4112",
+    "Leather further prepared after tanning or crusting, including parchment-dressed leather, of sheep or lamb, without wool on, whether or not split, other than…"
+  ],
+  [
+    "4113",
+    "Leather further prepared after tanning or crusting, including parchment-dressed leather, of other animals, without wool or hair on, whether or not split…"
+  ],
+  [
+    "4114",
+    "Chamois (including combination chamois) leather; patent leather and patent laminated leather; metallised leather"
+  ],
+  [
+    "4115",
+    "Composition leather with a basis of leather or leather fibre, in slabs, sheets or strip, whether or not in rolls; parings and other waste of leather or of…"
+  ],
+  [
+    "42",
+    "ARTICLES OF LEATHER; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILKWORM GUT)"
+  ],
+  [
+    "4201",
+    "Saddlery and harness for any animal (including traces, leads, knee pads, muzzles, saddle-cloths, saddlebags, dog coats and the like), of any material"
+  ],
+  [
+    "4202",
+    "Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun…"
+  ],
+  [
+    "4203",
+    "Articles of apparel and clothing accessories, of leather or of composition leather"
+  ],
+  [
+    "4205",
+    "Other articles of leather or of composition leather"
+  ],
+  [
+    "4206",
+    "Articles of gut (other than silkworm gut), of goldbeater's skin, of bladders or of tendons"
+  ],
+  [
+    "43",
+    "FURSKINS AND ARTIFICIAL FUR; MANUFACTURES THEREOF"
+  ],
+  [
+    "4301",
+    "Raw furskins (including heads, tails, paws and other pieces or cuttings, suitable for furriers' use), other than raw hides and skins of heading 4101, 4102 or…"
+  ],
+  [
+    "4302",
+    "Tanned or dressed furskins (including heads, tails, paws and other pieces or cuttings), unassembled, or assembled (without the addition of other materials)…"
+  ],
+  [
+    "4303",
+    "Articles of apparel, clothing accessories and other articles of furskin"
+  ],
+  [
+    "4304",
+    "Artificial fur and articles thereof"
+  ],
+  [
+    "44",
+    "WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL"
+  ],
+  [
+    "4401",
+    "Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not…"
+  ],
+  [
+    "4402",
+    "Wood charcoal (including shell or nut charcoal), whether or not agglomerated"
+  ],
+  [
+    "4403",
+    "Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared"
+  ],
+  [
+    "4404",
+    "Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed but not turned, bent or otherwise…"
+  ],
+  [
+    "4405",
+    "Wood wool; wood flour"
+  ],
+  [
+    "4406",
+    "Railway or tramway sleepers (cross-ties) of wood"
+  ],
+  [
+    "4407",
+    "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm"
+  ],
+  [
+    "4408",
+    "Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced…"
+  ],
+  [
+    "4409",
+    "Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded…"
+  ],
+  [
+    "4410",
+    "Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with…"
+  ],
+  [
+    "4411",
+    "Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances"
+  ],
+  [
+    "4412",
+    "Plywood, veneered panels and similar laminated wood"
+  ],
+  [
+    "4413",
+    "Densified wood, in blocks, plates, strips or profile shapes"
+  ],
+  [
+    "4414",
+    "Wooden frames for paintings, photographs, mirrors or similar objects"
+  ],
+  [
+    "4415",
+    "Packing cases, boxes, crates, drums and similar packings, of wood; cable-drums of wood; pallets, box pallets and other load boards, of wood; pallet collars of…"
+  ],
+  [
+    "4416",
+    "Casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood, including staves"
+  ],
+  [
+    "4417",
+    "Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood"
+  ],
+  [
+    "4418",
+    "Builders' joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes"
+  ],
+  [
+    "4419",
+    "Tableware and kitchenware, of wood"
+  ],
+  [
+    "4420",
+    "Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood; statuettes and other ornaments, of wood; wooden…"
+  ],
+  [
+    "4421",
+    "Other articles of wood"
+  ],
+  [
+    "45",
+    "CORK AND ARTICLES OF CORK"
+  ],
+  [
+    "4501",
+    "Natural cork, raw or simply prepared; waste cork; crushed, granulated or ground cork"
+  ],
+  [
+    "4502",
+    "Natural cork, debacked or roughly squared, or in rectangular (including square) blocks, plates, sheets or strip (including sharp-edged blanks for corks or…"
+  ],
+  [
+    "4503",
+    "Articles of natural cork"
+  ],
+  [
+    "4504",
+    "Agglomerated cork (with or without a binding substance) and articles of agglomerated cork"
+  ],
+  [
+    "46",
+    "MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK"
+  ],
+  [
+    "4601",
+    "Plaits and similar products of plaiting materials, whether or not assembled into strips; plaiting materials, plaits and similar products of plaiting…"
+  ],
+  [
+    "4602",
+    "Basketwork, wickerwork and other articles, made directly to shape from plaiting materials or made up from goods of heading 4601; articles of loofah"
+  ],
+  [
+    "47",
+    "PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD"
+  ],
+  [
+    "4701",
+    "Mechanical wood pulp"
+  ],
+  [
+    "4702",
+    "Chemical wood pulp, dissolving grades"
+  ],
+  [
+    "4703",
+    "Chemical wood pulp, soda or sulphate, other than dissolving grades"
+  ],
+  [
+    "4704",
+    "Chemical wood pulp, sulphite, other than dissolving grades"
+  ],
+  [
+    "4705",
+    "Wood pulp obtained by a combination of mechanical and chemical pulping processes"
+  ],
+  [
+    "4706",
+    "Pulps of fibres derived from recovered (waste and scrap) paper or paperboard or of other fibrous cellulosic material"
+  ],
+  [
+    "4707",
+    "Recovered (waste and scrap) paper or paperboard"
+  ],
+  [
+    "48",
+    "PAPER AND PAPERBOARD; ARTICLES OF PAPER PULP, OF PAPER OR OF PAPERBOARD"
+  ],
+  [
+    "4801",
+    "Newsprint, in rolls or sheets"
+  ],
+  [
+    "4802",
+    "Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non-perforated punchcards and punch-tape paper, in rolls or…"
+  ],
+  [
+    "4803",
+    "Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of…"
+  ],
+  [
+    "4804",
+    "Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 4802 or 4803"
+  ],
+  [
+    "4805",
+    "Other uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specified in note 3 to this chapter"
+  ],
+  [
+    "4806",
+    "Vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls or sheets"
+  ],
+  [
+    "4807",
+    "Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surface-coated or impregnated, whether or…"
+  ],
+  [
+    "4808",
+    "Paper and paperboard, corrugated (with or without glued flat surface sheets), creped, crinkled, embossed or perforated, in rolls or sheets, other than paper…"
+  ],
+  [
+    "4809",
+    "Carbon paper, self-copy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether…"
+  ],
+  [
+    "4810",
+    "Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without a binder, and with no other coating…"
+  ],
+  [
+    "4811",
+    "Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, surface-coloured, surface-decorated or printed, in rolls or…"
+  ],
+  [
+    "4812",
+    "Filter blocks, slabs and plates, of paper pulp"
+  ],
+  [
+    "4813",
+    "Cigarette paper, whether or not cut to size or in the form of booklets or tubes"
+  ],
+  [
+    "4814",
+    "Wallpaper and similar wallcoverings; window transparencies of paper"
+  ],
+  [
+    "4816",
+    "Carbon paper, self-copy paper and other copying or transfer papers (other than those of heading 4809), duplicator stencils and offset plates, of paper…"
+  ],
+  [
+    "4817",
+    "Envelopes, letter cards, plain postcards and correspondence cards, of paper or paperboard; boxes, pouches, wallets and writing compendiums, of paper or…"
+  ],
+  [
+    "4818",
+    "Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width not…"
+  ],
+  [
+    "4819",
+    "Cartons, boxes, cases, bags and other packing containers, of paper, paperboard, cellulose wadding or webs of cellulose fibres; box files, letter trays, and…"
+  ],
+  [
+    "4820",
+    "Registers, account books, notebooks, order books, receipt books, letter pads, memorandum pads, diaries and similar articles, exercise books, blotting pads…"
+  ],
+  [
+    "4821",
+    "Paper or paperboard labels of all kinds, whether or not printed"
+  ],
+  [
+    "4822",
+    "Bobbins, spools, cops and similar supports, of paper pulp, paper or paperboard (whether or not perforated or hardened)"
+  ],
+  [
+    "4823",
+    "Other paper, paperboard, cellulose wadding and webs of cellulose fibres, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose…"
+  ],
+  [
+    "49",
+    "PRINTED BOOKS, NEWSPAPERS, PICTURES AND OTHER PRODUCTS OF THE PRINTING INDUSTRY; MANUSCRIPTS, TYPESCRIPTS AND PLANS"
+  ],
+  [
+    "4901",
+    "Printed books, brochures, leaflets and similar printed matter, whether or not in single sheets"
+  ],
+  [
+    "4902",
+    "Newspapers, journals and periodicals, whether or not illustrated or containing advertising material"
+  ],
+  [
+    "4903",
+    "Children's picture, drawing or colouring books"
+  ],
+  [
+    "4904",
+    "Music, printed or in manuscript, whether or not bound or illustrated"
+  ],
+  [
+    "4905",
+    "Maps and hydrographic or similar charts of all kinds, including atlases, wall maps, topographical plans and globes, printed"
+  ],
+  [
+    "4906",
+    "Plans and drawings for architectural, engineering, industrial, commercial, topographical or similar purposes, being originals drawn by hand; handwritten…"
+  ],
+  [
+    "4907",
+    "Unused postage, revenue or similar stamps of current or new issue in the country in which they have, or will have, a recognised face value; stamp-impressed…"
+  ],
+  [
+    "4908",
+    "Transfers (decalcomanias)"
+  ],
+  [
+    "4909",
+    "Printed or illustrated postcards; printed cards bearing personal greetings, messages or announcements, whether or not illustrated, with or without envelopes…"
+  ],
+  [
+    "4910",
+    "Calendars of any kind, printed, including calendar blocks"
+  ],
+  [
+    "4911",
+    "Other printed matter, including printed pictures and photographs"
+  ],
+  [
+    "50",
+    "SILK"
+  ],
+  [
+    "5001",
+    "Silkworm cocoons suitable for reeling"
+  ],
+  [
+    "5002",
+    "Raw silk (not thrown)"
+  ],
+  [
+    "5003",
+    "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)"
+  ],
+  [
+    "5004",
+    "Silk yarn (other than yarn spun from silk waste) not put up for retail sale"
+  ],
+  [
+    "5005",
+    "Yarn spun from silk waste, not put up for retail sale"
+  ],
+  [
+    "5006",
+    "Silk yarn and yarn spun from silk waste, put up for retail sale; silkworm gut"
+  ],
+  [
+    "5007",
+    "Woven fabrics of silk or of silk waste"
+  ],
+  [
+    "51",
+    "WOOL, FINE OR COARSE ANIMAL HAIR; HORSEHAIR YARN AND WOVEN FABRIC"
+  ],
+  [
+    "5101",
+    "Wool, not carded or combed"
+  ],
+  [
+    "5102",
+    "Fine or coarse animal hair, not carded or combed"
+  ],
+  [
+    "5103",
+    "Waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock"
+  ],
+  [
+    "5104",
+    "Garnetted stock of wool or of fine or coarse animal hair"
+  ],
+  [
+    "5105",
+    "Wool and fine or coarse animal hair, carded or combed (including combed wool in fragments)"
+  ],
+  [
+    "5106",
+    "Yarn of carded wool, not put up for retail sale"
+  ],
+  [
+    "5107",
+    "Yarn of combed wool, not put up for retail sale"
+  ],
+  [
+    "5108",
+    "Yarn of fine animal hair (carded or combed), not put up for retail sale"
+  ],
+  [
+    "5109",
+    "Yarn of wool or of fine animal hair, put up for retail sale"
+  ],
+  [
+    "5110",
+    "Yarn of coarse animal hair or of horsehair (including gimped horsehair yarn), whether or not put up for retail sale"
+  ],
+  [
+    "5111",
+    "Woven fabrics of carded wool or of carded fine animal hair"
+  ],
+  [
+    "5112",
+    "Woven fabrics of combed wool or of combed fine animal hair"
+  ],
+  [
+    "5113",
+    "Woven fabrics of coarse animal hair or of horsehair"
+  ],
+  [
+    "52",
+    "COTTON"
+  ],
+  [
+    "5201",
+    "Cotton, not carded or combed"
+  ],
+  [
+    "5202",
+    "Cotton waste (including yarn waste and garnetted stock)"
+  ],
+  [
+    "5203",
+    "Cotton, carded or combed"
+  ],
+  [
+    "5204",
+    "Cotton sewing thread, whether or not put up for retail sale"
+  ],
+  [
+    "5205",
+    "Cotton yarn (other than sewing thread), containing 85 % or more by weight of cotton, not put up for retail sale"
+  ],
+  [
+    "5206",
+    "Cotton yarn (other than sewing thread), containing less than 85 % by weight of cotton, not put up for retail sale"
+  ],
+  [
+    "5207",
+    "Cotton yarn (other than sewing thread) put up for retail sale"
+  ],
+  [
+    "5208",
+    "Woven fabrics of cotton, containing 85 % or more by weight of cotton, weighing not more than 200 g/m2"
+  ],
+  [
+    "5209",
+    "Woven fabrics of cotton, containing 85 % or more by weight of cotton, weighing more than 200 g/m2"
+  ],
+  [
+    "5210",
+    "Woven fabrics of cotton, containing less than 85 % by weight of cotton, mixed mainly or solely with man-made fibres, weighing not more than 200 g/m2"
+  ],
+  [
+    "5211",
+    "Woven fabrics of cotton, containing less than 85 % by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200 g/m2"
+  ],
+  [
+    "5212",
+    "Other woven fabrics of cotton"
+  ],
+  [
+    "53",
+    "OTHER VEGETABLE TEXTILE FIBRES; PAPER YARN AND WOVEN FABRICS OF PAPER YARN"
+  ],
+  [
+    "5301",
+    "Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock)"
+  ],
+  [
+    "5302",
+    "True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock)"
+  ],
+  [
+    "5303",
+    "Jute and other textile bast fibres (excluding flax, true hemp and ramie), raw or processed but not spun; tow and waste of these fibres (including yarn waste…"
+  ],
+  [
+    "5305",
+    "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not…"
+  ],
+  [
+    "5306",
+    "Flax yarn"
+  ],
+  [
+    "5307",
+    "Yarn of jute or of other textile bast fibres of heading 5303"
+  ],
+  [
+    "5308",
+    "Yarn of other vegetable textile fibres; paper yarn"
+  ],
+  [
+    "5309",
+    "Woven fabrics of flax"
+  ],
+  [
+    "5310",
+    "Woven fabrics of jute or of other textile bast fibres of heading 5303"
+  ],
+  [
+    "5311",
+    "Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn"
+  ],
+  [
+    "54",
+    "MAN-MADE FILAMENTS; STRIP AND THE LIKE OF MAN-MADE TEXTILE MATERIALS"
+  ],
+  [
+    "5401",
+    "Sewing thread of man-made filaments, whether or not put up for retail sale"
+  ],
+  [
+    "5402",
+    "Synthetic filament yarn (other than sewing thread), not put up for retail sale, including synthetic monofilament of less than 67 decitex"
+  ],
+  [
+    "5403",
+    "Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex"
+  ],
+  [
+    "5404",
+    "Synthetic monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw), of…"
+  ],
+  [
+    "5405",
+    "Artificial monofilament of 67 decitex or more and of which no cross-sectional dimension exceeds 1 mm; strip and the like (for example, artificial straw), of…"
+  ],
+  [
+    "5406",
+    "Man-made filament yarn (other than sewing thread), put up for retail sale"
+  ],
+  [
+    "5407",
+    "Woven fabrics of synthetic filament yarn, including woven fabrics obtained from materials of heading 5404"
+  ],
+  [
+    "5408",
+    "Woven fabrics of artificial filament yarn, including woven fabrics obtained from materials of heading 5405"
+  ],
+  [
+    "55",
+    "MAN-MADE STAPLE FIBRES"
+  ],
+  [
+    "5501",
+    "Synthetic filament tow"
+  ],
+  [
+    "5502",
+    "Artificial filament tow"
+  ],
+  [
+    "5503",
+    "Synthetic staple fibres, not carded, combed or otherwise processed for spinning"
+  ],
+  [
+    "5504",
+    "Artificial staple fibres, not carded, combed or otherwise processed for spinning"
+  ],
+  [
+    "5505",
+    "Waste (including noils, yarn waste and garnetted stock) of man-made fibres"
+  ],
+  [
+    "5506",
+    "Synthetic staple fibres, carded, combed or otherwise processed for spinning"
+  ],
+  [
+    "5507",
+    "Artificial staple fibres, carded, combed or otherwise processed for spinning"
+  ],
+  [
+    "5508",
+    "Sewing thread of man-made staple fibres, whether or not put up for retail sale"
+  ],
+  [
+    "5509",
+    "Yarn (other than sewing thread) of synthetic staple fibres, not put up for retail sale"
+  ],
+  [
+    "5510",
+    "Yarn (other than sewing thread) of artificial staple fibres, not put up for retail sale"
+  ],
+  [
+    "5511",
+    "Yarn (other than sewing thread) of man-made staple fibres, put up for retail sale"
+  ],
+  [
+    "5512",
+    "Woven fabrics of synthetic staple fibres, containing 85 % or more by weight of synthetic staple fibres"
+  ],
+  [
+    "5513",
+    "Woven fabrics of synthetic staple fibres, containing less than 85 % by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding…"
+  ],
+  [
+    "5514",
+    "Woven fabrics of synthetic staple fibres, containing less than 85 % by weight of such fibres, mixed mainly or solely with cotton, of a weight exceeding 170 g/m2"
+  ],
+  [
+    "5515",
+    "Other woven fabrics of synthetic staple fibres"
+  ],
+  [
+    "5516",
+    "Woven fabrics of artificial staple fibres"
+  ],
+  [
+    "56",
+    "WADDING, FELT AND NONWOVENS; SPECIAL YARNS; TWINE, CORDAGE, ROPES AND CABLES AND ARTICLES THEREOF"
+  ],
+  [
+    "5601",
+    "Wadding of textile materials and articles thereof; textile fibres, not exceeding 5 mm in length (flock), textile dust and mill neps"
+  ],
+  [
+    "5602",
+    "Felt, whether or not impregnated, coated, covered or laminated"
+  ],
+  [
+    "5603",
+    "Nonwovens, whether or not impregnated, coated, covered or laminated"
+  ],
+  [
+    "5604",
+    "Rubber thread and cord, textile covered; textile yarn, and strip and the like of heading 5404 or 5405, impregnated, coated, covered or sheathed with rubber or…"
+  ],
+  [
+    "5605",
+    "Metallised yarn, whether or not gimped, being textile yarn, or strip or the like of heading 5404 or 5405, combined with metal in the form of thread, strip or…"
+  ],
+  [
+    "5606",
+    "Gimped yarn, and strip and the like of heading 5404 or 5405, gimped (other than those of heading 5605 and gimped horsehair yarn); chenille yarn (including…"
+  ],
+  [
+    "5607",
+    "Twine, cordage, ropes and cables, whether or not plaited or braided and whether or not impregnated, coated, covered or sheathed with rubber or plastics"
+  ],
+  [
+    "5608",
+    "Knotted netting of twine, cordage or rope; made-up fishing nets and other made-up nets, of textile materials"
+  ],
+  [
+    "5609",
+    "Articles of yarn, strip or the like of heading 5404 or 5405, twine, cordage, rope or cables, not elsewhere specified or included"
+  ],
+  [
+    "57",
+    "CARPETS AND OTHER TEXTILE FLOOR COVERINGS"
+  ],
+  [
+    "5701",
+    "Carpets and other textile floor coverings, knotted, whether or not made up"
+  ],
+  [
+    "5702",
+    "Carpets and other textile floor coverings, woven, not tufted or flocked, whether or not made up, including Kelem, Schumacks, Karamanie and similar hand-woven…"
+  ],
+  [
+    "5703",
+    "Carpets and other textile floor coverings (including turf), tufted, whether or not made up"
+  ],
+  [
+    "5704",
+    "Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up"
+  ],
+  [
+    "5705",
+    "Other carpets and other textile floor coverings, whether or not made up"
+  ],
+  [
+    "58",
+    "SPECIAL WOVEN FABRICS; TUFTED TEXTILE FABRICS; LACE; TAPESTRIES; TRIMMINGS; EMBROIDERY"
+  ],
+  [
+    "5801",
+    "Woven pile fabrics and chenille fabrics, other than fabrics of heading 5802 or 5806"
+  ],
+  [
+    "5802",
+    "Terry towelling and similar woven terry fabrics, other than narrow fabrics of heading 5806; tufted textile fabrics, other than products of heading 5703"
+  ],
+  [
+    "5803",
+    "Gauze, other than narrow fabrics of heading 5806"
+  ],
+  [
+    "5804",
+    "Tulles and other net fabrics, not including woven, knitted or crocheted fabrics; lace in the piece, in strips or in motifs, other than fabrics of headings…"
+  ],
+  [
+    "5805",
+    "Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch)…"
+  ],
+  [
+    "5806",
+    "Narrow woven fabrics, other than goods of heading 5807; narrow fabrics consisting of warp without weft assembled by means of an adhesive (bolducs)"
+  ],
+  [
+    "5807",
+    "Labels, badges and similar articles of textile materials, in the piece, in strips or cut to shape or size, not embroidered"
+  ],
+  [
+    "5808",
+    "Braids in the piece; ornamental trimmings in the piece, without embroidery, other than knitted or crocheted; tassels, pompons and similar articles"
+  ],
+  [
+    "5809",
+    "Woven fabrics of metal thread and woven fabrics of metallised yarn of heading 5605, of a kind used in apparel, as furnishing fabrics or for similar purposes…"
+  ],
+  [
+    "5810",
+    "Embroidery in the piece, in strips or in motifs"
+  ],
+  [
+    "5811",
+    "Quilted textile products in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise, other than…"
+  ],
+  [
+    "59",
+    "IMPREGNATED, COATED, COVERED OR LAMINATED TEXTILE FABRICS; TEXTILE ARTICLES OF A KIND SUITABLE FOR INDUSTRIAL USE"
+  ],
+  [
+    "5901",
+    "Textile fabrics coated with gum or amylaceous substances, of a kind used for the outer covers of books or the like; tracing cloth; prepared painting canvas…"
+  ],
+  [
+    "5902",
+    "Tyre cord fabric of high-tenacity yarn of nylon or other polyamides, polyesters or viscose rayon"
+  ],
+  [
+    "5903",
+    "Textile fabrics impregnated, coated, covered or laminated with plastics, other than those of heading 5902"
+  ],
+  [
+    "5904",
+    "Linoleum, whether or not cut to shape; floor coverings consisting of a coating or covering applied on a textile backing, whether or not cut to shape"
+  ],
+  [
+    "5905",
+    "Textile wall coverings"
+  ],
+  [
+    "5906",
+    "Rubberised textile fabrics, other than those of heading 5902"
+  ],
+  [
+    "5907",
+    "Textile fabrics otherwise impregnated, coated or covered; painted canvas being theatrical scenery, studio backcloths or the like"
+  ],
+  [
+    "5908",
+    "Textile wicks, woven, plaited or knitted, for lamps, stoves, lighters, candles or the like; incandescent gas mantles and tubular knitted gas-mantle fabric…"
+  ],
+  [
+    "5909",
+    "Textile hosepiping and similar textile tubing, with or without lining, armour or accessories of other materials"
+  ],
+  [
+    "5910",
+    "Transmission or conveyor belts or belting, of textile material, whether or not impregnated, coated, covered or laminated with plastics, or reinforced with…"
+  ],
+  [
+    "5911",
+    "Textile products and articles, for technical uses, specified in note 8 to this chapter"
+  ],
+  [
+    "60",
+    "KNITTED OR CROCHETED FABRICS"
+  ],
+  [
+    "6001",
+    "Pile fabrics, including long pile fabrics and terry fabrics, knitted or crocheted"
+  ],
+  [
+    "6002",
+    "Knitted or crocheted fabrics of a width not exceeding 30 cm, containing by weight 5 % or more of elastomeric yarn or rubber thread, other than those of…"
+  ],
+  [
+    "6003",
+    "Knitted or crocheted fabrics of a width not exceeding 30 cm, other than those of heading 6001 or 6002"
+  ],
+  [
+    "6004",
+    "Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5 % or more of elastomeric yarn or rubber thread, other than those of heading 6001"
+  ],
+  [
+    "6005",
+    "Warp knit fabrics (including those made on galloon knitting machines), other than those of headings 6001 to 6004"
+  ],
+  [
+    "6006",
+    "Other knitted or crocheted fabrics"
+  ],
+  [
+    "61",
+    "ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, KNITTED OR CROCHETED"
+  ],
+  [
+    "6101",
+    "Men's or boys' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, knitted or crocheted…"
+  ],
+  [
+    "6102",
+    "Women's or girls' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, knitted or crocheted…"
+  ],
+  [
+    "6103",
+    "Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted"
+  ],
+  [
+    "6104",
+    "Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than…"
+  ],
+  [
+    "6105",
+    "Men's or boys' shirts, knitted or crocheted"
+  ],
+  [
+    "6106",
+    "Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted"
+  ],
+  [
+    "6107",
+    "Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted"
+  ],
+  [
+    "6108",
+    "Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns and similar articles, knitted or crocheted"
+  ],
+  [
+    "6109",
+    "T-shirts, singlets and other vests, knitted or crocheted"
+  ],
+  [
+    "6110",
+    "Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted"
+  ],
+  [
+    "6111",
+    "Babies' garments and clothing accessories, knitted or crocheted"
+  ],
+  [
+    "6112",
+    "Tracksuits, ski suits and swimwear, knitted or crocheted"
+  ],
+  [
+    "6113",
+    "Garments, made up of knitted or crocheted fabrics of heading 5903, 5906 or 5907"
+  ],
+  [
+    "6114",
+    "Other garments, knitted or crocheted"
+  ],
+  [
+    "6115",
+    "Pantyhose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear…"
+  ],
+  [
+    "6116",
+    "Gloves, mittens and mitts, knitted or crocheted"
+  ],
+  [
+    "6117",
+    "Other made-up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories"
+  ],
+  [
+    "62",
+    "ARTICLES OF APPAREL AND CLOTHING ACCESSORIES, NOT KNITTED OR CROCHETED"
+  ],
+  [
+    "6201",
+    "Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of…"
+  ],
+  [
+    "6202",
+    "Women's or girls' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of…"
+  ],
+  [
+    "6203",
+    "Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear)"
+  ],
+  [
+    "6204",
+    "Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than…"
+  ],
+  [
+    "6205",
+    "Men's or boys' shirts"
+  ],
+  [
+    "6206",
+    "Women's or girls' blouses, shirts and shirt-blouses"
+  ],
+  [
+    "6207",
+    "Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles"
+  ],
+  [
+    "6208",
+    "Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns and similar articles"
+  ],
+  [
+    "6209",
+    "Babies' garments and clothing accessories"
+  ],
+  [
+    "6210",
+    "Garments, made up of fabrics of heading 5602, 5603, 5903, 5906 or 5907"
+  ],
+  [
+    "6211",
+    "Tracksuits, ski suits and swimwear; other garments"
+  ],
+  [
+    "6212",
+    "Brassières, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, whether or not knitted or crocheted"
+  ],
+  [
+    "6213",
+    "Handkerchiefs"
+  ],
+  [
+    "6214",
+    "Shawls, scarves, mufflers, mantillas, veils and the like"
+  ],
+  [
+    "6215",
+    "Ties, bow ties and cravats"
+  ],
+  [
+    "6216",
+    "Gloves, mittens and mitts"
+  ],
+  [
+    "6217",
+    "Other made-up clothing accessories; parts of garments or of clothing accessories, other than those of heading 6212"
+  ],
+  [
+    "63",
+    "OTHER MADE-UP TEXTILE ARTICLES; SETS; WORN CLOTHING AND WORN TEXTILE ARTICLES; RAGS"
+  ],
+  [
+    "6301",
+    "I. OTHER MADE-UP TEXTILE ARTICLES | Blankets and travelling rugs"
+  ],
+  [
+    "6302",
+    "I. OTHER MADE-UP TEXTILE ARTICLES | Bed linen, table linen, toilet linen and kitchen linen"
+  ],
+  [
+    "6303",
+    "I. OTHER MADE-UP TEXTILE ARTICLES | Curtains (including drapes) and interior blinds; curtain or bed valances"
+  ],
+  [
+    "6304",
+    "I. OTHER MADE-UP TEXTILE ARTICLES | Other furnishing articles, excluding those of heading 9404"
+  ],
+  [
+    "6305",
+    "I. OTHER MADE-UP TEXTILE ARTICLES | Sacks and bags, of a kind used for the packing of goods"
+  ],
+  [
+    "6306",
+    "I. OTHER MADE-UP TEXTILE ARTICLES | Tarpaulins, awnings and sunblinds; tents (including temporary canopies and similar articles); sails for boats, sailboards…"
+  ],
+  [
+    "6307",
+    "I. OTHER MADE-UP TEXTILE ARTICLES | Other made-up articles, including dress patterns"
+  ],
+  [
+    "6308",
+    "II. SETS | Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered tablecloths or…"
+  ],
+  [
+    "6309",
+    "III. WORN CLOTHING AND WORN TEXTILE ARTICLES; RAGS | Worn clothing and other worn articles"
+  ],
+  [
+    "6310",
+    "III. WORN CLOTHING AND WORN TEXTILE ARTICLES; RAGS | Used or new rags, scrap twine, cordage, rope and cables and worn-out articles of twine, cordage, rope or…"
+  ],
+  [
+    "64",
+    "FOOTWEAR, GAITERS AND THE LIKE; PARTS OF SUCH ARTICLES"
+  ],
+  [
+    "6401",
+    "Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching…"
+  ],
+  [
+    "6402",
+    "Other footwear with outer soles and uppers of rubber or plastics"
+  ],
+  [
+    "6403",
+    "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather"
+  ],
+  [
+    "6404",
+    "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials"
+  ],
+  [
+    "6405",
+    "Other footwear"
+  ],
+  [
+    "6406",
+    "Parts of footwear (including uppers whether or not attached to soles other than outer soles); removable insoles, heel cushions and similar articles; gaiters…"
+  ],
+  [
+    "65",
+    "HEADGEAR AND PARTS THEREOF"
+  ],
+  [
+    "6501",
+    "Hat-forms, hat bodies and hoods of felt, neither blocked to shape nor with made brims; plateaux and manchons (including slit manchons), of felt"
+  ],
+  [
+    "6502",
+    "Hat-shapes, plaited or made by assembling strips of any material, neither blocked to shape, nor with made brims, nor lined, nor trimmed"
+  ],
+  [
+    "6504",
+    "Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed"
+  ],
+  [
+    "6505",
+    "Hats and other headgear, knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or…"
+  ],
+  [
+    "6506",
+    "Other headgear, whether or not lined or trimmed"
+  ],
+  [
+    "6507",
+    "Headbands, linings, covers, hat foundations, hat frames, peaks and chinstraps, for headgear"
+  ],
+  [
+    "66",
+    "UMBRELLAS, SUN UMBRELLAS, WALKING STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF"
+  ],
+  [
+    "6601",
+    "Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas)"
+  ],
+  [
+    "6602",
+    "Walking sticks, seat-sticks, whips, riding-crops and the like"
+  ],
+  [
+    "6603",
+    "Parts, trimmings and accessories of articles of heading 6601 or 6602"
+  ],
+  [
+    "67",
+    "PREPARED FEATHERS AND DOWN AND ARTICLES MADE OF FEATHERS OR OF DOWN; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR"
+  ],
+  [
+    "6701",
+    "Skins and other parts of birds with their feathers or down, feathers, parts of feathers, down and articles thereof (other than goods of heading 0505 and…"
+  ],
+  [
+    "6702",
+    "Artificial flowers, foliage and fruit and parts thereof; articles made of artificial flowers, foliage or fruit"
+  ],
+  [
+    "6703",
+    "Human hair, dressed, thinned, bleached or otherwise worked; wool or other animal hair or other textile materials, prepared for use in making wigs or the like"
+  ],
+  [
+    "6704",
+    "Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere…"
+  ],
+  [
+    "68",
+    "ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS"
+  ],
+  [
+    "6801",
+    "Setts, curbstones and flagstones, of natural stone (except slate)"
+  ],
+  [
+    "6802",
+    "Worked monumental or building stone (except slate) and articles thereof, other than goods of heading 6801; mosaic cubes and the like, of natural stone…"
+  ],
+  [
+    "6803",
+    "Worked slate and articles of slate or of agglomerated slate"
+  ],
+  [
+    "6804",
+    "Millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, polishing, trueing or cutting, hand sharpening or…"
+  ],
+  [
+    "6805",
+    "Natural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or…"
+  ],
+  [
+    "6806",
+    "Slag-wool, rock-wool and similar mineral wools; exfoliated vermiculite, expanded clays, foamed slag and similar expanded mineral materials; mixtures and…"
+  ],
+  [
+    "6807",
+    "Articles of asphalt or of similar material (for example, petroleum bitumen or coal tar pitch)"
+  ],
+  [
+    "6808",
+    "Panels, boards, tiles, blocks and similar articles of vegetable fibre, of straw or of shavings, chips, particles, sawdust or other waste of wood, agglomerated…"
+  ],
+  [
+    "6809",
+    "Articles of plaster or of compositions based on plaster"
+  ],
+  [
+    "6810",
+    "Articles of cement, of concrete or of artificial stone, whether or not reinforced"
+  ],
+  [
+    "6811",
+    "Articles of asbestos-cement, of cellulose fibre-cement or the like"
+  ],
+  [
+    "6812",
+    "Fabricated asbestos fibres; mixtures with a basis of asbestos or with a basis of asbestos and magnesium carbonate; articles of such mixtures or of asbestos…"
+  ],
+  [
+    "6813",
+    "Friction material and articles thereof (for example, sheets, rolls, strips, segments, discs, washers, pads), not mounted, for brakes, for clutches or the…"
+  ],
+  [
+    "6814",
+    "Worked mica and articles of mica, including agglomerated or reconstituted mica, whether or not on a support of paper, paperboard or other materials"
+  ],
+  [
+    "6815",
+    "Articles of stone or of other mineral substances (including carbon fibres, articles of carbon fibres and articles of peat), not elsewhere specified or included"
+  ],
+  [
+    "69",
+    "CERAMIC PRODUCTS"
+  ],
+  [
+    "6901",
+    "I. GOODS OF SILICEOUS FOSSIL MEALS OR OF SIMILAR SILICEOUS EARTHS, AND REFRACTORY GOODS | Bricks, blocks, tiles and other ceramic goods of siliceous fossil…"
+  ],
+  [
+    "6902",
+    "I. GOODS OF SILICEOUS FOSSIL MEALS OR OF SIMILAR SILICEOUS EARTHS, AND REFRACTORY GOODS | Refractory bricks, blocks, tiles and similar refractory ceramic…"
+  ],
+  [
+    "6903",
+    "I. GOODS OF SILICEOUS FOSSIL MEALS OR OF SIMILAR SILICEOUS EARTHS, AND REFRACTORY GOODS | Other refractory ceramic goods (for example, retorts, crucibles…"
+  ],
+  [
+    "6904",
+    "II. OTHER CERAMIC PRODUCTS | Ceramic building bricks, flooring blocks, support or filler tiles and the like"
+  ],
+  [
+    "6905",
+    "II. OTHER CERAMIC PRODUCTS | Roofing tiles, chimney pots, cowls, chimney liners, architectural ornaments and other ceramic constructional goods"
+  ],
+  [
+    "6906",
+    "II. OTHER CERAMIC PRODUCTS | Ceramic pipes, conduits, guttering and pipe fittings"
+  ],
+  [
+    "6907",
+    "II. OTHER CERAMIC PRODUCTS | Ceramic flags and paving, hearth or wall tiles; ceramic mosaic cubes and the like, whether or not on a backing; finishing ceramics"
+  ],
+  [
+    "6909",
+    "II. OTHER CERAMIC PRODUCTS | Ceramic wares for laboratory, chemical or other technical uses; ceramic troughs, tubs and similar receptacles of a kind used in…"
+  ],
+  [
+    "6910",
+    "II. OTHER CERAMIC PRODUCTS | Ceramic sinks, washbasins, washbasin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary…"
+  ],
+  [
+    "6911",
+    "II. OTHER CERAMIC PRODUCTS | Tableware, kitchenware, other household articles and toilet articles, of porcelain or china"
+  ],
+  [
+    "6912",
+    "II. OTHER CERAMIC PRODUCTS | Ceramic tableware, kitchenware, other household articles and toilet articles, other than of porcelain or china"
+  ],
+  [
+    "6913",
+    "II. OTHER CERAMIC PRODUCTS | Statuettes and other ornamental ceramic articles"
+  ],
+  [
+    "6914",
+    "II. OTHER CERAMIC PRODUCTS | Other ceramic articles"
+  ],
+  [
+    "70",
+    "GLASS AND GLASSWARE"
+  ],
+  [
+    "7001",
+    "Cullet and other waste and scrap of glass, excluding glass from cathode-ray tubes or other activated glass of heading 8549; glass in the mass"
+  ],
+  [
+    "7002",
+    "Glass in balls (other than microspheres of heading 7018), rods or tubes, unworked"
+  ],
+  [
+    "7003",
+    "Cast glass and rolled glass, in sheets or profiles, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked"
+  ],
+  [
+    "7004",
+    "Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked"
+  ],
+  [
+    "7005",
+    "Float glass and surface ground or polished glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked"
+  ],
+  [
+    "7006",
+    "Glass of heading 7003, 7004 or 7005, bent, edge-worked, engraved, drilled, enamelled or otherwise worked, but not framed or fitted with other materials"
+  ],
+  [
+    "7007",
+    "Safety glass, consisting of toughened (tempered) or laminated glass"
+  ],
+  [
+    "7008",
+    "Multiple-walled insulating units of glass"
+  ],
+  [
+    "7009",
+    "Glass mirrors, whether or not framed, including rear-view mirrors"
+  ],
+  [
+    "7010",
+    "Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars…"
+  ],
+  [
+    "7011",
+    "Glass envelopes (including bulbs and tubes), open, and glass parts thereof, without fittings, for electric lamps and light sources, cathode-ray tubes or the…"
+  ],
+  [
+    "7013",
+    "Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 7010 or 7018)"
+  ],
+  [
+    "7014",
+    "Signalling glassware and optical elements of glass (other than those of heading 7015), not optically worked"
+  ],
+  [
+    "7015",
+    "Clock or watch glasses and similar glasses, glasses for non-corrective or corrective spectacles, curved, bent, hollowed or the like, not optically worked…"
+  ],
+  [
+    "7016",
+    "Paving blocks, slabs, bricks, squares, tiles and other articles of pressed or moulded glass, whether or not wired, of a kind used for building or construction…"
+  ],
+  [
+    "7017",
+    "Laboratory, hygienic or pharmaceutical glassware, whether or not graduated or calibrated"
+  ],
+  [
+    "7018",
+    "Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares, and articles thereof other than imitation jewellery…"
+  ],
+  [
+    "7019",
+    "Glass fibres (including glass wool) and articles thereof (for example, yarn, rovings, woven fabrics)"
+  ],
+  [
+    "7020",
+    "Other articles of glass"
+  ],
+  [
+    "71",
+    "NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL, AND ARTICLES THEREOF; IMITATION JEWELLERY; COIN"
+  ],
+  [
+    "7101",
+    "I. NATURAL OR CULTURED PEARLS AND PRECIOUS OR SEMI-PRECIOUS STONES | Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or…"
+  ],
+  [
+    "7102",
+    "I. NATURAL OR CULTURED PEARLS AND PRECIOUS OR SEMI-PRECIOUS STONES | Diamonds, whether or not worked, but not mounted or set"
+  ],
+  [
+    "7103",
+    "I. NATURAL OR CULTURED PEARLS AND PRECIOUS OR SEMI-PRECIOUS STONES | Precious stones (other than diamonds) and semi-precious stones, whether or not worked or…"
+  ],
+  [
+    "7104",
+    "I. NATURAL OR CULTURED PEARLS AND PRECIOUS OR SEMI-PRECIOUS STONES | Synthetic or reconstructed precious or semi-precious stones, whether or not worked or…"
+  ],
+  [
+    "7105",
+    "I. NATURAL OR CULTURED PEARLS AND PRECIOUS OR SEMI-PRECIOUS STONES | Dust and powder of natural or synthetic precious or semi-precious stones"
+  ],
+  [
+    "7106",
+    "II. PRECIOUS METALS AND METALS CLAD WITH PRECIOUS METAL | Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or…"
+  ],
+  [
+    "7107",
+    "II. PRECIOUS METALS AND METALS CLAD WITH PRECIOUS METAL | Base metals clad with silver, not further worked than semi-manufactured"
+  ],
+  [
+    "7108",
+    "II. PRECIOUS METALS AND METALS CLAD WITH PRECIOUS METAL | Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form"
+  ],
+  [
+    "7109",
+    "II. PRECIOUS METALS AND METALS CLAD WITH PRECIOUS METAL | Base metals or silver, clad with gold, not further worked than semi-manufactured"
+  ],
+  [
+    "7110",
+    "II. PRECIOUS METALS AND METALS CLAD WITH PRECIOUS METAL | Platinum, unwrought or in semi-manufactured forms, or in powder form"
+  ],
+  [
+    "7111",
+    "II. PRECIOUS METALS AND METALS CLAD WITH PRECIOUS METAL | Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured"
+  ],
+  [
+    "7112",
+    "II. PRECIOUS METALS AND METALS CLAD WITH PRECIOUS METAL | Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap…"
+  ],
+  [
+    "7113",
+    "III. JEWELLERY, GOLDSMITHS' AND SILVERSMITHS' WARES AND OTHER ARTICLES | Articles of jewellery and parts thereof, of precious metal or of metal clad with…"
+  ],
+  [
+    "7114",
+    "III. JEWELLERY, GOLDSMITHS' AND SILVERSMITHS' WARES AND OTHER ARTICLES | Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal…"
+  ],
+  [
+    "7115",
+    "III. JEWELLERY, GOLDSMITHS' AND SILVERSMITHS' WARES AND OTHER ARTICLES | Other articles of precious metal or of metal clad with precious metal"
+  ],
+  [
+    "7116",
+    "III. JEWELLERY, GOLDSMITHS' AND SILVERSMITHS' WARES AND OTHER ARTICLES | Articles of natural or cultured pearls, precious or semi-precious stones (natural…"
+  ],
+  [
+    "7117",
+    "III. JEWELLERY, GOLDSMITHS' AND SILVERSMITHS' WARES AND OTHER ARTICLES | Imitation jewellery"
+  ],
+  [
+    "7118",
+    "III. JEWELLERY, GOLDSMITHS' AND SILVERSMITHS' WARES AND OTHER ARTICLES | Coin"
+  ],
+  [
+    "72",
+    "IRON AND STEEL"
+  ],
+  [
+    "7201",
+    "I. PRIMARY MATERIALS; PRODUCTS IN GRANULAR OR POWDER FORM | Pig iron and spiegeleisen in pigs, blocks or other primary forms"
+  ],
+  [
+    "7202",
+    "I. PRIMARY MATERIALS; PRODUCTS IN GRANULAR OR POWDER FORM | Ferro-alloys"
+  ],
+  [
+    "7203",
+    "I. PRIMARY MATERIALS; PRODUCTS IN GRANULAR OR POWDER FORM | Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in…"
+  ],
+  [
+    "7204",
+    "I. PRIMARY MATERIALS; PRODUCTS IN GRANULAR OR POWDER FORM | Ferrous waste and scrap; remelting scrap ingots of iron or steel"
+  ],
+  [
+    "7205",
+    "I. PRIMARY MATERIALS; PRODUCTS IN GRANULAR OR POWDER FORM | Granules and powders, of pig iron, spiegeleisen, iron or steel"
+  ],
+  [
+    "7206",
+    "II. IRON AND NON-ALLOY STEEL | Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 7203)"
+  ],
+  [
+    "7207",
+    "II. IRON AND NON-ALLOY STEEL | Semi-finished products of iron or non-alloy steel"
+  ],
+  [
+    "7208",
+    "II. IRON AND NON-ALLOY STEEL | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated"
+  ],
+  [
+    "7209",
+    "II. IRON AND NON-ALLOY STEEL | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or…"
+  ],
+  [
+    "7210",
+    "II. IRON AND NON-ALLOY STEEL | Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated"
+  ],
+  [
+    "7211",
+    "II. IRON AND NON-ALLOY STEEL | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated"
+  ],
+  [
+    "7212",
+    "II. IRON AND NON-ALLOY STEEL | Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated"
+  ],
+  [
+    "7213",
+    "II. IRON AND NON-ALLOY STEEL | Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel"
+  ],
+  [
+    "7214",
+    "II. IRON AND NON-ALLOY STEEL | Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but…"
+  ],
+  [
+    "7215",
+    "II. IRON AND NON-ALLOY STEEL | Other bars and rods of iron or non-alloy steel"
+  ],
+  [
+    "7216",
+    "II. IRON AND NON-ALLOY STEEL | Angles, shapes and sections of iron or non-alloy steel"
+  ],
+  [
+    "7217",
+    "II. IRON AND NON-ALLOY STEEL | Wire of iron or non-alloy steel"
+  ],
+  [
+    "7218",
+    "III. STAINLESS STEEL | Stainless steel in ingots or other primary forms; semi-finished products of stainless steel"
+  ],
+  [
+    "7219",
+    "III. STAINLESS STEEL | Flat-rolled products of stainless steel, of a width of 600 mm or more"
+  ],
+  [
+    "7220",
+    "III. STAINLESS STEEL | Flat-rolled products of stainless steel, of a width of less than 600 mm"
+  ],
+  [
+    "7221",
+    "III. STAINLESS STEEL | Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel"
+  ],
+  [
+    "7222",
+    "III. STAINLESS STEEL | Other bars and rods of stainless steel; angles, shapes and sections of stainless steel"
+  ],
+  [
+    "7223",
+    "III. STAINLESS STEEL | Wire of stainless steel"
+  ],
+  [
+    "7224",
+    "IV. OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS, OF ALLOY OR NON-ALLOY STEEL | Other alloy steel in ingots or other primary forms; semi-finished products of…"
+  ],
+  [
+    "7225",
+    "IV. OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS, OF ALLOY OR NON-ALLOY STEEL | Flat-rolled products of other alloy steel, of a width of 600 mm or more"
+  ],
+  [
+    "7226",
+    "IV. OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS, OF ALLOY OR NON-ALLOY STEEL | Flat-rolled products of other alloy steel, of a width of less than 600 mm"
+  ],
+  [
+    "7227",
+    "IV. OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS, OF ALLOY OR NON-ALLOY STEEL | Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel"
+  ],
+  [
+    "7228",
+    "IV. OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS, OF ALLOY OR NON-ALLOY STEEL | Other bars and rods of other alloy steel; angles, shapes and sections, of…"
+  ],
+  [
+    "7229",
+    "IV. OTHER ALLOY STEEL; HOLLOW DRILL BARS AND RODS, OF ALLOY OR NON-ALLOY STEEL | Wire of other alloy steel"
+  ],
+  [
+    "73",
+    "ARTICLES OF IRON OR STEEL"
+  ],
+  [
+    "7301",
+    "Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel"
+  ],
+  [
+    "7302",
+    "Railway or tramway track construction material of iron or steel, the following: rails, check-rails and rack rails, switch blades, crossing frogs, point rods…"
+  ],
+  [
+    "7303",
+    "Tubes, pipes and hollow profiles, of cast iron"
+  ],
+  [
+    "7304",
+    "Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel"
+  ],
+  [
+    "7305",
+    "Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406,4 mm, of…"
+  ],
+  [
+    "7306",
+    "Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel"
+  ],
+  [
+    "7307",
+    "Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel"
+  ],
+  [
+    "7308",
+    "Structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice…"
+  ],
+  [
+    "7309",
+    "Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 l…"
+  ],
+  [
+    "7310",
+    "Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not…"
+  ],
+  [
+    "7311",
+    "Containers for compressed or liquefied gas, of iron or steel"
+  ],
+  [
+    "7312",
+    "Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated"
+  ],
+  [
+    "7313",
+    "Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel"
+  ],
+  [
+    "7314",
+    "Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel"
+  ],
+  [
+    "7315",
+    "Chain and parts thereof, of iron or steel"
+  ],
+  [
+    "7316",
+    "Anchors, grapnels and parts thereof, of iron or steel"
+  ],
+  [
+    "7317",
+    "Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 8305) and similar articles, of iron or steel, whether or not with heads of…"
+  ],
+  [
+    "7318",
+    "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel"
+  ],
+  [
+    "7319",
+    "Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and…"
+  ],
+  [
+    "7320",
+    "Springs and leaves for springs, of iron or steel"
+  ],
+  [
+    "7321",
+    "Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas rings, plate warmers and similar…"
+  ],
+  [
+    "7322",
+    "Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot-air distributors (including distributors…"
+  ],
+  [
+    "7323",
+    "Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and…"
+  ],
+  [
+    "7324",
+    "Sanitary ware and parts thereof, of iron or steel"
+  ],
+  [
+    "7325",
+    "Other cast articles of iron or steel"
+  ],
+  [
+    "7326",
+    "Other articles of iron or steel"
+  ],
+  [
+    "74",
+    "COPPER AND ARTICLES THEREOF"
+  ],
+  [
+    "7401",
+    "Copper mattes; cement copper (precipitated copper)"
+  ],
+  [
+    "7402",
+    "Unrefined copper; copper anodes for electrolytic refining"
+  ],
+  [
+    "7403",
+    "Refined copper and copper alloys, unwrought"
+  ],
+  [
+    "7404",
+    "Copper waste and scrap"
+  ],
+  [
+    "7405",
+    "Master alloys of copper"
+  ],
+  [
+    "7406",
+    "Copper powders and flakes"
+  ],
+  [
+    "7407",
+    "Copper bars, rods and profiles"
+  ],
+  [
+    "7408",
+    "Copper wire"
+  ],
+  [
+    "7409",
+    "Copper plates, sheets and strip, of a thickness exceeding 0,15 mm"
+  ],
+  [
+    "7410",
+    "Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not…"
+  ],
+  [
+    "7411",
+    "Copper tubes and pipes"
+  ],
+  [
+    "7412",
+    "Copper tube or pipe fittings (for example, couplings, elbows, sleeves)"
+  ],
+  [
+    "7413",
+    "Stranded wire, cables, plaited bands and the like, of copper, not electrically insulated"
+  ],
+  [
+    "7415",
+    "Nails, tacks, drawing pins, staples (other than those of heading 8305) and similar articles, of copper or of iron or steel with heads of copper; screws…"
+  ],
+  [
+    "7418",
+    "Table, kitchen or other household articles and parts thereof, of copper; pot scourers and scouring or polishing pads, gloves and the like, of copper; sanitary…"
+  ],
+  [
+    "7419",
+    "Other articles of copper"
+  ],
+  [
+    "75",
+    "NICKEL AND ARTICLES THEREOF"
+  ],
+  [
+    "7501",
+    "Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy"
+  ],
+  [
+    "7502",
+    "Unwrought nickel"
+  ],
+  [
+    "7503",
+    "Nickel waste and scrap"
+  ],
+  [
+    "7504",
+    "Nickel powders and flakes"
+  ],
+  [
+    "7505",
+    "Nickel bars, rods, profiles and wire"
+  ],
+  [
+    "7506",
+    "Nickel plates, sheets, strip and foil"
+  ],
+  [
+    "7507",
+    "Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves)"
+  ],
+  [
+    "7508",
+    "Other articles of nickel"
+  ],
+  [
+    "76",
+    "ALUMINIUM AND ARTICLES THEREOF"
+  ],
+  [
+    "7601",
+    "Unwrought aluminium"
+  ],
+  [
+    "7602",
+    "Aluminium waste and scrap"
+  ],
+  [
+    "7603",
+    "Aluminium powders and flakes"
+  ],
+  [
+    "7604",
+    "Aluminium bars, rods and profiles"
+  ],
+  [
+    "7605",
+    "Aluminium wire"
+  ],
+  [
+    "7606",
+    "Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm"
+  ],
+  [
+    "7607",
+    "Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not…"
+  ],
+  [
+    "7608",
+    "Aluminium tubes and pipes"
+  ],
+  [
+    "7609",
+    "Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)"
+  ],
+  [
+    "7610",
+    "Aluminium structures (excluding prefabricated buildings of heading 9406) and parts of structures (for example, bridges and bridge-sections, towers, lattice…"
+  ],
+  [
+    "7611",
+    "Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 litres…"
+  ],
+  [
+    "7612",
+    "Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or…"
+  ],
+  [
+    "7613",
+    "Aluminium containers for compressed or liquefied gas"
+  ],
+  [
+    "7614",
+    "Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated"
+  ],
+  [
+    "7615",
+    "Table, kitchen or other household articles and parts thereof, of aluminium; pot scourers and scouring or polishing pads, gloves and the like, of aluminium…"
+  ],
+  [
+    "7616",
+    "Other articles of aluminium"
+  ],
+  [
+    "78",
+    "LEAD AND ARTICLES THEREOF"
+  ],
+  [
+    "7801",
+    "Unwrought lead"
+  ],
+  [
+    "7802",
+    "Lead waste and scrap"
+  ],
+  [
+    "7804",
+    "Lead plates, sheets, strip and foil; lead powders and flakes"
+  ],
+  [
+    "7806",
+    "Other articles of lead"
+  ],
+  [
+    "79",
+    "ZINC AND ARTICLES THEREOF"
+  ],
+  [
+    "7901",
+    "Unwrought zinc"
+  ],
+  [
+    "7902",
+    "Zinc waste and scrap"
+  ],
+  [
+    "7903",
+    "Zinc dust, powders and flakes"
+  ],
+  [
+    "7904",
+    "Zinc bars, rods, profiles and wire"
+  ],
+  [
+    "7905",
+    "Zinc plates, sheets, strip and foil"
+  ],
+  [
+    "7907",
+    "Other articles of zinc"
+  ],
+  [
+    "80",
+    "TIN AND ARTICLES THEREOF"
+  ],
+  [
+    "8001",
+    "Unwrought tin"
+  ],
+  [
+    "8002",
+    "Tin waste and scrap"
+  ],
+  [
+    "8003",
+    "Tin bars, rods, profiles and wire"
+  ],
+  [
+    "8007",
+    "Other articles of tin"
+  ],
+  [
+    "81",
+    "OTHER BASE METALS; CERMETS; ARTICLES THEREOF"
+  ],
+  [
+    "8101",
+    "Tungsten (wolfram) and articles thereof, including waste and scrap"
+  ],
+  [
+    "8102",
+    "Molybdenum and articles thereof, including waste and scrap"
+  ],
+  [
+    "8103",
+    "Tantalum and articles thereof, including waste and scrap"
+  ],
+  [
+    "8104",
+    "Magnesium and articles thereof, including waste and scrap"
+  ],
+  [
+    "8105",
+    "Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap"
+  ],
+  [
+    "8106",
+    "Bismuth and articles thereof, including waste and scrap"
+  ],
+  [
+    "8108",
+    "Titanium and articles thereof, including waste and scrap"
+  ],
+  [
+    "8109",
+    "Zirconium and articles thereof, including waste and scrap"
+  ],
+  [
+    "8110",
+    "Antimony and articles thereof, including waste and scrap"
+  ],
+  [
+    "8111",
+    "Manganese and articles thereof, including waste and scrap"
+  ],
+  [
+    "8112",
+    "Beryllium, chromium, hafnium, rhenium, thallium, cadmium, germanium, vanadium, gallium, indium and niobium (columbium), and articles of these metals…"
+  ],
+  [
+    "8113",
+    "Cermets and articles thereof, including waste and scrap"
+  ],
+  [
+    "82",
+    "TOOLS, IMPLEMENTS, CUTLERY, SPOONS AND FORKS, OF BASE METAL; PARTS THEREOF OF BASE METAL"
+  ],
+  [
+    "8201",
+    "Hand tools, the following: spades, shovels, mattocks, picks, hoes, forks and rakes; axes, billhooks and similar hewing tools; secateurs and pruners of any…"
+  ],
+  [
+    "8202",
+    "Handsaws; blades for saws of all kinds (including slitting, slotting or toothless saw blades)"
+  ],
+  [
+    "8203",
+    "Files, rasps, pliers (including cutting pliers), pincers, tweezers, metal-cutting shears, pipe-cutters, bolt croppers, perforating punches and similar hand…"
+  ],
+  [
+    "8204",
+    "Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles"
+  ],
+  [
+    "8205",
+    "Hand tools (including glaziers' diamonds), not elsewhere specified or included; blowlamps; vices, clamps and the like, other than accessories for and parts of…"
+  ],
+  [
+    "8206",
+    "Tools of two or more of headings 8202 to 8205, put up in sets for retail sale"
+  ],
+  [
+    "8207",
+    "Interchangeable tools for hand tools, whether or not power-operated, or for machine tools (for example, for pressing, stamping, punching, tapping, threading…"
+  ],
+  [
+    "8208",
+    "Knives and cutting blades, for machines or for mechanical appliances"
+  ],
+  [
+    "8209",
+    "Plates, sticks, tips and the like for tools, unmounted, of cermets"
+  ],
+  [
+    "8210",
+    "Hand-operated mechanical appliances, weighing 10 kg or less, used in the preparation, conditioning or serving of food or drink"
+  ],
+  [
+    "8211",
+    "Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 8208, and blades therefor"
+  ],
+  [
+    "8212",
+    "Razors and razor blades (including razor blade blanks in strips)"
+  ],
+  [
+    "8213",
+    "Scissors, tailors' shears and similar shears, and blades therefor"
+  ],
+  [
+    "8214",
+    "Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paperknives); manicure or pedicure sets and…"
+  ],
+  [
+    "8215",
+    "Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware"
+  ],
+  [
+    "83",
+    "MISCELLANEOUS ARTICLES OF BASE METAL"
+  ],
+  [
+    "8301",
+    "Padlocks and locks (key, combination or electrically operated), of base metal; clasps and frames with clasps, incorporating locks, of base metal; keys for any…"
+  ],
+  [
+    "8302",
+    "Base-metal mountings, fittings and similar articles suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets…"
+  ],
+  [
+    "8303",
+    "Armoured or reinforced safes, strongboxes and doors and safe deposit lockers for strong-rooms, cash or deed boxes and the like, of base metal"
+  ],
+  [
+    "8304",
+    "Filing cabinets, card-index cabinets, paper trays, paper rests, pen trays, office-stamp stands and similar office or desk equipment, of base metal, other than…"
+  ],
+  [
+    "8305",
+    "Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal; staples in…"
+  ],
+  [
+    "8306",
+    "Bells, gongs and the like, non-electric, of base metal; statuettes and other ornaments, of base metal; photograph, picture or similar frames, of base metal…"
+  ],
+  [
+    "8307",
+    "Flexible tubing of base metal, with or without fittings"
+  ],
+  [
+    "8308",
+    "Clasps, frames with clasps, buckles, buckle-clasps, hooks, eyes, eyelets and the like, of base metal, of a kind used for clothing or clothing accessories…"
+  ],
+  [
+    "8309",
+    "Stoppers, caps and lids (including crown corks, screw caps and pouring stoppers), capsules for bottles, threaded bungs, bung covers, seals and other packing…"
+  ],
+  [
+    "8310",
+    "Sign-plates, nameplates, address-plates and similar plates, numbers, letters and other symbols, of base metal, excluding those of heading 9405"
+  ],
+  [
+    "8311",
+    "Wire, rods, tubes, plates, electrodes and similar products, of base metal or of metal carbides, coated or cored with flux material, of a kind used for…"
+  ],
+  [
+    "84",
+    "NUCLEAR REACTORS, BOILERS, MACHINERY AND MECHANICAL APPLIANCES; PARTS THEREOF"
+  ],
+  [
+    "8401",
+    "Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation"
+  ],
+  [
+    "8402",
+    "Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); superheated water boilers"
+  ],
+  [
+    "8403",
+    "Central heating boilers other than those of heading 8402"
+  ],
+  [
+    "8404",
+    "Auxiliary plant for use with boilers of heading 8402 or 8403 (for example, economisers, superheaters, soot removers, gas recoverers); condensers for steam or…"
+  ],
+  [
+    "8405",
+    "Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without…"
+  ],
+  [
+    "8406",
+    "Steam turbines and other vapour turbines"
+  ],
+  [
+    "8407",
+    "Spark-ignition reciprocating or rotary internal combustion piston engines"
+  ],
+  [
+    "8408",
+    "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines)"
+  ],
+  [
+    "8409",
+    "Parts suitable for use solely or principally with the engines of heading 8407 or 8408"
+  ],
+  [
+    "8410",
+    "Hydraulic turbines, water wheels, and regulators therefor"
+  ],
+  [
+    "8411",
+    "Turbojets, turbopropellers and other gas turbines"
+  ],
+  [
+    "8412",
+    "Other engines and motors"
+  ],
+  [
+    "8413",
+    "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators"
+  ],
+  [
+    "8414",
+    "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight…"
+  ],
+  [
+    "8415",
+    "Air-conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the…"
+  ],
+  [
+    "8416",
+    "Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates, mechanical ash dischargers and…"
+  ],
+  [
+    "8417",
+    "Industrial or laboratory furnaces and ovens, including incinerators, non-electric"
+  ],
+  [
+    "8418",
+    "Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air-conditioning machines of heading 8415"
+  ],
+  [
+    "8419",
+    "Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 8514), for the…"
+  ],
+  [
+    "8420",
+    "Calendering or other rolling machines, other than for metals or glass, and cylinders therefor"
+  ],
+  [
+    "8421",
+    "Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus, for liquids or gases"
+  ],
+  [
+    "8422",
+    "Dishwashing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes…"
+  ],
+  [
+    "8423",
+    "Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight-operated counting or checking machines; weighing machine weights…"
+  ],
+  [
+    "8424",
+    "Mechanical appliances (whether or not hand-operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged…"
+  ],
+  [
+    "8425",
+    "Pulley tackle and hoists other than skip hoists; winches and capstans; jacks"
+  ],
+  [
+    "8426",
+    "Ships' derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane"
+  ],
+  [
+    "8427",
+    "Fork-lift trucks; other works trucks fitted with lifting or handling equipment"
+  ],
+  [
+    "8428",
+    "Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics)"
+  ],
+  [
+    "8429",
+    "Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and roadrollers"
+  ],
+  [
+    "8430",
+    "Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; piledrivers and pile…"
+  ],
+  [
+    "8431",
+    "Parts suitable for use solely or principally with the machinery of headings 8425 to 8430"
+  ],
+  [
+    "8432",
+    "Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sports-ground rollers"
+  ],
+  [
+    "8433",
+    "Harvesting or threshing machinery, including straw or fodder balers; grass or hay mowers; machines for cleaning, sorting or grading eggs, fruit or other…"
+  ],
+  [
+    "8434",
+    "Milking machines and dairy machinery"
+  ],
+  [
+    "8435",
+    "Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages"
+  ],
+  [
+    "8436",
+    "Other agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, including germination plant fitted with mechanical or thermal…"
+  ],
+  [
+    "8437",
+    "Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or…"
+  ],
+  [
+    "8438",
+    "Machinery, not specified or included elsewhere in this chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the…"
+  ],
+  [
+    "8439",
+    "Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard"
+  ],
+  [
+    "8440",
+    "Bookbinding machinery, including book-sewing machines"
+  ],
+  [
+    "8441",
+    "Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds"
+  ],
+  [
+    "8442",
+    "Machinery, apparatus and equipment (other than the machines of headings 8456 to 8465) for preparing or making plates, cylinders or other printing components…"
+  ],
+  [
+    "8443",
+    "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442; other printers, copying machines and…"
+  ],
+  [
+    "8444",
+    "Machines for extruding, drawing, texturing or cutting man-made textile materials"
+  ],
+  [
+    "8445",
+    "Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding…"
+  ],
+  [
+    "8446",
+    "Weaving machines (looms)"
+  ],
+  [
+    "8447",
+    "Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting"
+  ],
+  [
+    "8448",
+    "Auxiliary machinery for use with machines of heading 8444, 8445, 8446 or 8447 (for example, dobbies, jacquards, automatic stop motions, shuttle changing…"
+  ],
+  [
+    "8449",
+    "Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats"
+  ],
+  [
+    "8450",
+    "Household or laundry-type washing machines, including machines which both wash and dry"
+  ],
+  [
+    "8451",
+    "Machinery (other than machines of heading 8450) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing…"
+  ],
+  [
+    "8452",
+    "Sewing machines, other than book-sewing machines of heading 8440; furniture, bases and covers specially designed for sewing machines; sewing machine needles"
+  ],
+  [
+    "8453",
+    "Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other…"
+  ],
+  [
+    "8454",
+    "Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries"
+  ],
+  [
+    "8455",
+    "Metal-rolling mills and rolls therefor"
+  ],
+  [
+    "8456",
+    "Machine tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electrodischarge, electrochemical, electron…"
+  ],
+  [
+    "8457",
+    "Machining centres, unit construction machines (single station) and multi-station transfer machines, for working metal"
+  ],
+  [
+    "8458",
+    "Lathes (including turning centres) for removing metal"
+  ],
+  [
+    "8459",
+    "Machine tools (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including…"
+  ],
+  [
+    "8460",
+    "Machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives…"
+  ],
+  [
+    "8461",
+    "Machine tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine tools working by…"
+  ],
+  [
+    "8462",
+    "Machine tools (including presses) for working metal by forging, hammering or die forging (excluding rolling mills); machine tools (including presses, slitting…"
+  ],
+  [
+    "8463",
+    "Other machine tools for working metal or cermets, without removing material"
+  ],
+  [
+    "8464",
+    "Machine tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold working glass"
+  ],
+  [
+    "8465",
+    "Machine tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar…"
+  ],
+  [
+    "8466",
+    "Parts and accessories suitable for use solely or principally with the machines of headings 8456 to 8465, including work or tool holders, self-opening…"
+  ],
+  [
+    "8467",
+    "Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor"
+  ],
+  [
+    "8468",
+    "Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 8515; gas-operated surface tempering…"
+  ],
+  [
+    "8470",
+    "Calculating machines and pocket-size data-recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking…"
+  ],
+  [
+    "8471",
+    "Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines…"
+  ],
+  [
+    "8472",
+    "Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines…"
+  ],
+  [
+    "8473",
+    "Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with machines of headings 8470 to 8472"
+  ],
+  [
+    "8474",
+    "Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid…"
+  ],
+  [
+    "8475",
+    "Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or…"
+  ],
+  [
+    "8476",
+    "Automatic goods-vending machines (for example, postage stamp, cigarette, food or beverage machines), including money-changing machines"
+  ],
+  [
+    "8477",
+    "Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this chapter"
+  ],
+  [
+    "8478",
+    "Machinery for preparing or making up tobacco, not specified or included elsewhere in this chapter"
+  ],
+  [
+    "8479",
+    "Machines and mechanical appliances having individual functions, not specified or included elsewhere in this chapter"
+  ],
+  [
+    "8480",
+    "Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber…"
+  ],
+  [
+    "8481",
+    "Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically…"
+  ],
+  [
+    "8482",
+    "Ball or roller bearings"
+  ],
+  [
+    "8483",
+    "Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws…"
+  ],
+  [
+    "8484",
+    "Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar…"
+  ],
+  [
+    "8485",
+    "Machines for additive manufacturing"
+  ],
+  [
+    "8486",
+    "Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic…"
+  ],
+  [
+    "8487",
+    "Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this…"
+  ],
+  [
+    "85",
+    "ELECTRICAL MACHINERY AND EQUIPMENT AND PARTS THEREOF; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND…"
+  ],
+  [
+    "8501",
+    "Electric motors and generators (excluding generating sets)"
+  ],
+  [
+    "8502",
+    "Electric generating sets and rotary converters"
+  ],
+  [
+    "8503",
+    "Parts suitable for use solely or principally with the machines of heading 8501 or 8502"
+  ],
+  [
+    "8504",
+    "Electrical transformers, static converters (for example, rectifiers) and inductors"
+  ],
+  [
+    "8505",
+    "Electromagnets; permanent magnets and articles intended to become permanent magnets after magnetisation; electromagnetic or permanent magnet chucks, clamps…"
+  ],
+  [
+    "8506",
+    "Primary cells and primary batteries"
+  ],
+  [
+    "8507",
+    "Electric accumulators, including separators therefor, whether or not rectangular (including square)"
+  ],
+  [
+    "8508",
+    "Vacuum cleaners"
+  ],
+  [
+    "8509",
+    "Electromechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 8508"
+  ],
+  [
+    "8510",
+    "Shavers, hair clippers and hair-removing appliances, with self-contained electric motor"
+  ],
+  [
+    "8511",
+    "Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition…"
+  ],
+  [
+    "8512",
+    "Electrical lighting or signalling equipment (excluding articles of heading 8539), windscreen wipers, defrosters and demisters, of a kind used for cycles or…"
+  ],
+  [
+    "8513",
+    "Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment…"
+  ],
+  [
+    "8514",
+    "Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment…"
+  ],
+  [
+    "8515",
+    "Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing…"
+  ],
+  [
+    "8516",
+    "Electric instantaneous or storage water heaters and immersion heaters; electric space-heating apparatus and soil-heating apparatus; electrothermic…"
+  ],
+  [
+    "8517",
+    "Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or…"
+  ],
+  [
+    "8518",
+    "Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a…"
+  ],
+  [
+    "8519",
+    "Sound recording or sound reproducing apparatus"
+  ],
+  [
+    "8521",
+    "Video recording or reproducing apparatus, whether or not incorporating a video tuner"
+  ],
+  [
+    "8522",
+    "Parts and accessories suitable for use solely or principally with the apparatus of heading 8519 or 8521"
+  ],
+  [
+    "8523",
+    "Discs, tapes, solid-state non-volatile storage devices, smart cards and other media for the recording of sound or of other phenomena, whether or not recorded…"
+  ],
+  [
+    "8524",
+    "Flat panel display modules, whether or not incorporating touch-sensitive screens"
+  ],
+  [
+    "8525",
+    "Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus…"
+  ],
+  [
+    "8526",
+    "Radar apparatus, radio navigational aid apparatus and radio remote control apparatus"
+  ],
+  [
+    "8527",
+    "Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock"
+  ],
+  [
+    "8528",
+    "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast…"
+  ],
+  [
+    "8529",
+    "Parts suitable for use solely or principally with the apparatus of headings 8524 to 8528"
+  ],
+  [
+    "8530",
+    "Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or…"
+  ],
+  [
+    "8531",
+    "Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 8512 or 8530"
+  ],
+  [
+    "8532",
+    "Electrical capacitors, fixed, variable or adjustable (pre-set)"
+  ],
+  [
+    "8533",
+    "Electrical resistors (including rheostats and potentiometers), other than heating resistors"
+  ],
+  [
+    "8534",
+    "Printed circuits"
+  ],
+  [
+    "8535",
+    "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses…"
+  ],
+  [
+    "8536",
+    "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays…"
+  ],
+  [
+    "8537",
+    "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 8535 or 8536, for electric control or the…"
+  ],
+  [
+    "8538",
+    "Parts suitable for use solely or principally with the apparatus of heading 8535, 8536 or 8537"
+  ],
+  [
+    "8539",
+    "Electric filament or discharge lamps, including sealed beam lamp units and ultraviolet or infra-red lamps; arc-lamps; light-emitting diode (LED) light sources"
+  ],
+  [
+    "8540",
+    "Thermionic, cold cathode or photocathode valves and tubes (for example, vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and…"
+  ],
+  [
+    "8541",
+    "Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells…"
+  ],
+  [
+    "8542",
+    "Electronic integrated circuits"
+  ],
+  [
+    "8543",
+    "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this chapter"
+  ],
+  [
+    "8544",
+    "Insulated (including enamelled or anodised) wire, cable (including coaxial cable) and other insulated electric conductors, whether or not fitted with…"
+  ],
+  [
+    "8545",
+    "Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for…"
+  ],
+  [
+    "8546",
+    "Electrical insulators of any material"
+  ],
+  [
+    "8547",
+    "Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal…"
+  ],
+  [
+    "8548",
+    "Electrical parts of machinery or apparatus, not specified or included elsewhere in this chapter"
+  ],
+  [
+    "8549",
+    "Electrical and electronic waste and scrap"
+  ],
+  [
+    "86",
+    "RAILWAY OR TRAMWAY LOCOMOTIVES, ROLLING STOCK AND PARTS THEREOF; RAILWAY OR TRAMWAY TRACK FIXTURES AND FITTINGS AND PARTS THEREOF; MECHANICAL (INCLUDING…"
+  ],
+  [
+    "8601",
+    "Rail locomotives powered from an external source of electricity or by electric accumulators"
+  ],
+  [
+    "8602",
+    "Other rail locomotives; locomotive tenders"
+  ],
+  [
+    "8603",
+    "Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 8604"
+  ],
+  [
+    "8604",
+    "Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing…"
+  ],
+  [
+    "8605",
+    "Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not…"
+  ],
+  [
+    "8606",
+    "Railway or tramway goods vans and wagons, not self-propelled"
+  ],
+  [
+    "8607",
+    "Parts of railway or tramway locomotives or rolling stock"
+  ],
+  [
+    "8608",
+    "Railway or tramway track fixtures and fittings; mechanical (including electromechanical) signalling, safety or traffic control equipment for railways…"
+  ],
+  [
+    "8609",
+    "Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport"
+  ],
+  [
+    "87",
+    "VEHICLES OTHER THAN RAILWAY OR TRAMWAY ROLLING STOCK, AND PARTS AND ACCESSORIES THEREOF"
+  ],
+  [
+    "8701",
+    "Tractors (other than tractors of heading 8709)"
+  ],
+  [
+    "8702",
+    "Motor vehicles for the transport of ten or more persons, including the driver"
+  ],
+  [
+    "8703",
+    "Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702), including station wagons and racing…"
+  ],
+  [
+    "8704",
+    "Motor vehicles for the transport of goods"
+  ],
+  [
+    "8705",
+    "Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries…"
+  ],
+  [
+    "8706",
+    "Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705"
+  ],
+  [
+    "8707",
+    "Bodies (including cabs), for the motor vehicles of headings 8701 to 8705"
+  ],
+  [
+    "8708",
+    "Parts and accessories of the motor vehicles of headings 8701 to 8705"
+  ],
+  [
+    "8709",
+    "Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short…"
+  ],
+  [
+    "8710",
+    "Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles"
+  ],
+  [
+    "8711",
+    "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars"
+  ],
+  [
+    "8712",
+    "Bicycles and other cycles (including delivery tricycles), not motorised"
+  ],
+  [
+    "8713",
+    "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled"
+  ],
+  [
+    "8714",
+    "Parts and accessories of vehicles of headings 8711 to 8713"
+  ],
+  [
+    "8715",
+    "Baby carriages and parts thereof"
+  ],
+  [
+    "8716",
+    "Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof"
+  ],
+  [
+    "88",
+    "AIRCRAFT, SPACECRAFT, AND PARTS THEREOF"
+  ],
+  [
+    "8801",
+    "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft"
+  ],
+  [
+    "8802",
+    "Other aircraft (for example, helicopters, aeroplanes), except unmanned aircraft of heading 8806; spacecraft (including satellites) and suborbital and…"
+  ],
+  [
+    "8804",
+    "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto"
+  ],
+  [
+    "8805",
+    "Aircraft launching gear; deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles"
+  ],
+  [
+    "8806",
+    "Unmanned aircraft"
+  ],
+  [
+    "8807",
+    "Parts of goods of heading 8801, 8802 or 8806"
+  ],
+  [
+    "89",
+    "SHIPS, BOATS AND FLOATING STRUCTURES"
+  ],
+  [
+    "8901",
+    "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods"
+  ],
+  [
+    "8902",
+    "Fishing vessels; factory ships and other vessels for processing or preserving fishery products"
+  ],
+  [
+    "8903",
+    "Yachts and other vessels for pleasure or sports; rowing boats and canoes"
+  ],
+  [
+    "8904",
+    "Tugs and pusher craft"
+  ],
+  [
+    "8905",
+    "Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks…"
+  ],
+  [
+    "8906",
+    "Other vessels, including warships and lifeboats other than rowing boats"
+  ],
+  [
+    "8907",
+    "Other floating structures (for example, rafts, tanks, coffer-dams, landing stages, buoys and beacons)"
+  ],
+  [
+    "8908",
+    "Vessels and other floating structures for breaking up"
+  ],
+  [
+    "90",
+    "OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; PARTS AND ACCESSORIES THEREOF"
+  ],
+  [
+    "9001",
+    "Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 8544; sheets and plates of polarising material; lenses (including…"
+  ],
+  [
+    "9002",
+    "Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such…"
+  ],
+  [
+    "9003",
+    "Frames and mountings for spectacles, goggles or the like, and parts thereof"
+  ],
+  [
+    "9004",
+    "Spectacles, goggles and the like, corrective, protective or other"
+  ],
+  [
+    "9005",
+    "Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments…"
+  ],
+  [
+    "9006",
+    "Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 8539"
+  ],
+  [
+    "9007",
+    "Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus"
+  ],
+  [
+    "9008",
+    "Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers"
+  ],
+  [
+    "9010",
+    "Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this chapter; negatoscopes…"
+  ],
+  [
+    "9011",
+    "Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection"
+  ],
+  [
+    "9012",
+    "Microscopes other than optical microscopes; diffraction apparatus"
+  ],
+  [
+    "9013",
+    "Lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this chapter"
+  ],
+  [
+    "9014",
+    "Direction finding compasses; other navigational instruments and appliances"
+  ],
+  [
+    "9015",
+    "Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances…"
+  ],
+  [
+    "9016",
+    "Balances of a sensitivity of 5 cg or better, with or without weights"
+  ],
+  [
+    "9017",
+    "Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc…"
+  ],
+  [
+    "9018",
+    "Instruments and appliances used in medical, surgical, dental or veterinary sciences, including scintigraphic apparatus, other electromedical apparatus and…"
+  ],
+  [
+    "9019",
+    "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial…"
+  ],
+  [
+    "9020",
+    "Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters"
+  ],
+  [
+    "9021",
+    "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and…"
+  ],
+  [
+    "9022",
+    "Apparatus based on the use of X-rays or of alpha, beta, gamma or other ionising radiation, whether or not for medical, surgical, dental or veterinary uses…"
+  ],
+  [
+    "9023",
+    "Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses"
+  ],
+  [
+    "9024",
+    "Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals…"
+  ],
+  [
+    "9025",
+    "Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of…"
+  ],
+  [
+    "9026",
+    "Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flow meters, level gauges…"
+  ],
+  [
+    "9027",
+    "Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus)…"
+  ],
+  [
+    "9028",
+    "Gas, liquid or electricity supply or production meters, including calibrating meters therefor"
+  ],
+  [
+    "9029",
+    "Revolution counters, production counters, taximeters, milometers, pedometers and the like; speed indicators and tachometers, other than those of heading 9014…"
+  ],
+  [
+    "9030",
+    "Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 9028…"
+  ],
+  [
+    "9031",
+    "Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this chapter; profile projectors"
+  ],
+  [
+    "9032",
+    "Automatic regulating or controlling instruments and apparatus"
+  ],
+  [
+    "9033",
+    "Parts and accessories (not specified or included elsewhere in this chapter) for machines, appliances, instruments or apparatus of Chapter 90"
+  ],
+  [
+    "91",
+    "CLOCKS AND WATCHES AND PARTS THEREOF"
+  ],
+  [
+    "9101",
+    "Wristwatches, pocket-watches and other watches, including stopwatches, with case of precious metal or of metal clad with precious metal"
+  ],
+  [
+    "9102",
+    "Wristwatches, pocket-watches and other watches, including stopwatches, other than those of heading 9101"
+  ],
+  [
+    "9103",
+    "Clocks with watch movements, excluding clocks of heading 9104"
+  ],
+  [
+    "9104",
+    "Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels"
+  ],
+  [
+    "9105",
+    "Other clocks"
+  ],
+  [
+    "9106",
+    "Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with…"
+  ],
+  [
+    "9107",
+    "Time switches, with clock or watch movement or with synchronous motor"
+  ],
+  [
+    "9108",
+    "Watch movements, complete and assembled"
+  ],
+  [
+    "9109",
+    "Clock movements, complete and assembled"
+  ],
+  [
+    "9110",
+    "Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock…"
+  ],
+  [
+    "9111",
+    "Watch cases and parts thereof"
+  ],
+  [
+    "9112",
+    "Clock cases and cases of a similar type for other goods of this chapter, and parts thereof"
+  ],
+  [
+    "9113",
+    "Watch straps, watch bands and watch bracelets, and parts thereof"
+  ],
+  [
+    "9114",
+    "Other clock or watch parts"
+  ],
+  [
+    "92",
+    "MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES OF SUCH ARTICLES"
+  ],
+  [
+    "9201",
+    "Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments"
+  ],
+  [
+    "9202",
+    "Other string musical instruments (for example, guitars, violins, harps)"
+  ],
+  [
+    "9205",
+    "Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street…"
+  ],
+  [
+    "9206",
+    "Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas)"
+  ],
+  [
+    "9207",
+    "Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions)"
+  ],
+  [
+    "9208",
+    "Musical boxes, fairground organs, mechanical street organs, mechanical singing birds, musical saws and other musical instruments not falling within any other…"
+  ],
+  [
+    "9209",
+    "Parts (for example, mechanisms for musical boxes) and accessories (for example, cards, discs and rolls for mechanical instruments) of musical instruments…"
+  ],
+  [
+    "93",
+    "ARMS AND AMMUNITION; PARTS AND ACCESSORIES THEREOF"
+  ],
+  [
+    "9301",
+    "Military weapons, other than revolvers, pistols and the arms of heading 9307"
+  ],
+  [
+    "9302",
+    "Revolvers and pistols, other than those of heading 9303 or 9304"
+  ],
+  [
+    "9303",
+    "Other firearms and similar devices which operate by the firing of an explosive charge (for example, sporting shotguns and rifles, muzzle-loading firearms…"
+  ],
+  [
+    "9304",
+    "Other arms (for example, spring, air or gas guns and pistols, truncheons), excluding those of heading 9307"
+  ],
+  [
+    "9305",
+    "Parts and accessories of articles of headings 9301 to 9304"
+  ],
+  [
+    "9306",
+    "Bombs, grenades, torpedoes, mines, missiles and similar munitions of war and parts thereof; cartridges and other ammunition and projectiles and parts thereof…"
+  ],
+  [
+    "9307",
+    "Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor"
+  ],
+  [
+    "94",
+    "FURNITURE; BEDDING, MATTRESSES, MATTRESS SUPPORTS, CUSHIONS AND SIMILAR STUFFED FURNISHINGS; LUMINAIRES AND LIGHTING FITTINGS, NOT ELSEWHERE SPECIFIED OR…"
+  ],
+  [
+    "9401",
+    "Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof"
+  ],
+  [
+    "9402",
+    "Medical, surgical, dental or veterinary furniture (for example, operating tables, examination tables, hospital beds with mechanical fittings, dentists'…"
+  ],
+  [
+    "9403",
+    "Other furniture and parts thereof"
+  ],
+  [
+    "9404",
+    "Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs…"
+  ],
+  [
+    "9405",
+    "Luminaires and lighting fittings including searchlights and spotlights and parts thereof, not elsewhere specified or included; illuminated signs, illuminated…"
+  ],
+  [
+    "9406",
+    "Prefabricated buildings"
+  ],
+  [
+    "95",
+    "TOYS, GAMES AND SPORTS REQUISITES; PARTS AND ACCESSORIES THEREOF"
+  ],
+  [
+    "9503",
+    "Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models…"
+  ],
+  [
+    "9504",
+    "Video game consoles and machines, table or parlour games, including pintables, billiards, special tables for casino games and automatic bowling equipment…"
+  ],
+  [
+    "9505",
+    "Festive, carnival or other entertainment articles, including conjuring tricks and novelty jokes"
+  ],
+  [
+    "9506",
+    "Articles and equipment for general physical exercise, gymnastics, athletics, other sports (including table tennis) or outdoor games, not specified or included…"
+  ],
+  [
+    "9507",
+    "Fishing rods, fish-hooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy birds (other than those of heading 9208 or…"
+  ],
+  [
+    "9508",
+    "Travelling circuses and travelling menageries; amusement park rides and water park amusements; fairground amusements, including shooting galleries; travelling…"
+  ],
+  [
+    "96",
+    "MISCELLANEOUS MANUFACTURED ARTICLES"
+  ],
+  [
+    "9601",
+    "Worked ivory, bone, tortoiseshell, horn, antlers, coral, mother-of-pearl and other animal carving material, and articles of these materials (including…"
+  ],
+  [
+    "9602",
+    "Worked vegetable or mineral carving material and articles of these materials; moulded or carved articles of wax, of stearin, of natural gums or natural resins…"
+  ],
+  [
+    "9603",
+    "Brooms, brushes (including brushes constituting parts of machines, appliances or vehicles), hand-operated mechanical floor sweepers, not motorised, mops and…"
+  ],
+  [
+    "9604",
+    "Hand sieves and hand riddles"
+  ],
+  [
+    "9605",
+    "Travel sets for personal toilet, sewing or shoe or clothes cleaning"
+  ],
+  [
+    "9606",
+    "Buttons, press-fasteners, snap-fasteners and press studs, button moulds and other parts of these articles; button blanks"
+  ],
+  [
+    "9607",
+    "Slide fasteners and parts thereof"
+  ],
+  [
+    "9608",
+    "Ballpoint pens; felt-tipped and other porous-tipped pens and markers; fountain pens, stylograph pens and other pens; duplicating stylos; propelling or sliding…"
+  ],
+  [
+    "9609",
+    "Pencils (other than pencils of heading 9608), crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks"
+  ],
+  [
+    "9610",
+    "Slates and boards, with writing or drawing surfaces, whether or not framed"
+  ],
+  [
+    "9611",
+    "Date, sealing or numbering stamps, and the like (including devices for printing or embossing labels), designed for operating in the hand; hand-operated…"
+  ],
+  [
+    "9612",
+    "Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink-pads, whether or not inked…"
+  ],
+  [
+    "9613",
+    "Cigarette lighters and other lighters, whether or not mechanical or electrical, and parts thereof other than flints and wicks"
+  ],
+  [
+    "9614",
+    "Smoking pipes (including pipe bowls) and cigar or cigarette holders, and parts thereof"
+  ],
+  [
+    "9615",
+    "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 8516, and parts thereof"
+  ],
+  [
+    "9616",
+    "Scent sprays and similar toilet sprays, and mounts and heads therefor; powder-puffs and pads for the application of cosmetics or toilet preparations"
+  ],
+  [
+    "9617",
+    "Vacuum flasks and other vacuum vessels, complete; parts thereof other than glass inners"
+  ],
+  [
+    "9618",
+    "Tailors' dummies and other lay figures; automata and other animated displays used for shop window dressing"
+  ],
+  [
+    "9619",
+    "Sanitary towels (pads) and tampons, napkins (diapers), napkin liners and similar articles, of any material"
+  ],
+  [
+    "9620",
+    "Monopods, bipods, tripods and similar articles"
+  ],
+  [
+    "97",
+    "WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES"
+  ],
+  [
+    "9701",
+    "Paintings, drawings and pastels, executed entirely by hand, other than drawings of heading 4906 and other than hand-painted or hand-decorated manufactured…"
+  ],
+  [
+    "9702",
+    "Original engravings, prints and lithographs"
+  ],
+  [
+    "9703",
+    "Original sculpture and statuary, in any material"
+  ],
+  [
+    "9704",
+    "Postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery (stamped paper), and the like, used or unused, other than those of heading 4907"
+  ],
+  [
+    "9705",
+    "Collections and collectors’ pieces of archaeological, ethnographic, historical, zoological, botanical, mineralogical, anatomical, paleontological or…"
+  ],
+  [
+    "9706",
+    "Antiques of an age exceeding 100 years"
+  ],
+  [
+    "98",
+    "COMPLETE INDUSTRIAL PLANT"
+  ]
+]
